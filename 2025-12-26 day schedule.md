@@ -6,4 +6,5 @@ tags:
 ---
 -work 8-4
 - bread
--
+- tissues
+- Pepsi 20oz
