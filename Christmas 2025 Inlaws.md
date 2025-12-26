@@ -6,10 +6,15 @@ tags:
   - events
 categories:
   - "[[Events]]"
+  - "[[Meetings]]"
 type:
   - Holiday
 start: 2026-01-10
 end: 2026-01-10
 loc:
   - "[[Janices-House]]"
+date: 2025-12-25
+org:
+people: []
+topics: []
 ---
