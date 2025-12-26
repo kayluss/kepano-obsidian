@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/People Template.md",
+                "file": "2025-12-25 to do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "People Template"
+              "title": "2025-12-25 to do"
             }
           }
         ]
@@ -160,9 +160,19 @@
           "icon": "lucide-ghost",
           "title": "calendar"
         }
+      },
+      {
+        "id": "6cc2515a353161c1",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,11 +186,15 @@
       "bases:Create new base": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7f913adc219b3fa7",
   "lastOpenFiles": [
+    "Templates/People Template.md",
+    "2025-12-25 to do.md",
+    "Daily/2025-12-25.md",
     "Trips.md",
     "Shows.md",
     "Recipes.md",
@@ -206,10 +220,7 @@
     "Attachments",
     "Clippings/In good hands.md",
     "Clippings/Buy wisely.md",
-    "Clippings/68 Bits of Unsolicited Advice.md",
     "Clippings",
-    "Readme.md",
-    "Daily/2023-09-30.md",
     "Daily",
     "Notes",
     "LICENSE",
