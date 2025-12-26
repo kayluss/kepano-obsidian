@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Menstrating")
+    sort:
+      - property: file.ctime
+        direction: DESC
+  - type: table
+    name: View
