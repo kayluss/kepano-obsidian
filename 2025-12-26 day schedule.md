@@ -5,6 +5,6 @@ tags:
   - journal
 ---
 -work 8-4
-- bread
+- bread- still out
 - tissues
 - Pepsi 20oz
