@@ -8,6 +8,7 @@ died: 2018-01-08
 relation: family
 tags:
   - categories
+  - People
 ---
 - Anna Mae *Simmons* Londrigan
     - February 02, 1933 - January 08, 2018

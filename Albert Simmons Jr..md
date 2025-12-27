@@ -7,6 +7,7 @@ created: 2025-12-25
 died: 2003-09-17
 tags:
   - categories
+  - People
 relation: family
 ---
 

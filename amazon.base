@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Amazon Bill")
+    sort:
+      - property: file.mtime
+        direction: DESC
