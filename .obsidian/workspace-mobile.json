@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-27 Health concerns.md",
+                "file": "Front End notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-27 Health concerns"
+              "title": "Front End notes"
             }
           },
           {
@@ -234,8 +234,9 @@
   },
   "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
-    "2025-12-26 2200 to do.md",
     "2025-12-27 Health concerns.md",
+    "Front End notes.md",
+    "2025-12-26 2200 to do.md",
     "Amazon Bill.md",
     "amazon.base",
     "Books.md",
@@ -260,7 +261,6 @@
     "/Charles Savitski.md",
     "/2024.md",
     "Daily/2025-12-26.md",
-    "Daily/2020-07-05.md",
     "Attachments/out-of-control.jpg",
     "Attachments",
     "Clippings",
