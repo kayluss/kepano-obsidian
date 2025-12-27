@@ -12,7 +12,7 @@ status: " Done"
 
 [[Christmas 2021 Shopping]]
     - [x] Decide when [[Tonya]] and I are going to use the 15% off and go shopping
-    - 
+    -- ordered chatterfang showcase for skyler on [[June 21st, 2021]]
     - need to finish
         - [[Mam]]
         - [[Janice]]
