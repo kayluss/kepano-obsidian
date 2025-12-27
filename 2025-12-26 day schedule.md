@@ -6,5 +6,5 @@ tags:
 ---
 -work 8-4
 - bread- still out
-- tissues
-- Pepsi 20oz
+- ~~tissues~~
+- ~~Pepsi 20oz~~
