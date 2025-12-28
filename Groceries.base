@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Groceries")
+        - '!file.inFolder("Templates")'
+    groupBy:
+      property: created
+      direction: DESC
+    order:
+      - file.name
+      - Out of Stock Items
+      - status

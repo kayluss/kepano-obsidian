@@ -1,0 +1,7 @@
+---
+categories:
+  - "[[Groceries]]"
+status:
+---
+Properties
+	

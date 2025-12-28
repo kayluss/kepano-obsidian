@@ -5,6 +5,12 @@ tags:
   - journal
 date: 2025-12-28
 ---
-- dog food
-- Bread
-- Mucinex
+
+- Make and serve coffee
+- Setup breakfast table
+- Work
+- Fresh food and water for pets
+- Uncover Prody’s cage
+- dog food 
+- Bread 
+- Mucinex 

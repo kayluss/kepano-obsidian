@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-12-28.md",
+                "file": "2025-12-28 2026-01-03 0752 W1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,16 +56,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-28"
+              "title": "2025-12-28 2026-01-03 0752 W1"
             }
           },
           {
-            "id": "e64da7aab4d0bf51",
+            "id": "b6166f4a93c123d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Bill.md",
+                "file": "Bills MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,73 +80,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Amazon Bill"
-            }
-          },
-          {
-            "id": "d978a407db4b693e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vault iterations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vault iterations"
-            }
-          },
-          {
-            "id": "dfdb57955608dfa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon Payment Made.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Amazon Payment Made"
-            }
-          },
-          {
-            "id": "8bfb932ece82b5f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-11-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-06"
+              "title": "Bills MOC"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,7 +175,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Amazon Bill.md",
+            "file": "2025-12-28 2026-01-03 0752 W1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -315,42 +253,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bfb932ece82b5f8",
+  "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
-    "Amazon Payment Made.md",
-    "Daily/2025-11-06.md",
+    "Daily/2025-12-28.md",
+    "2025-12-28 0654 daily schedule.md",
+    "Bills MOC.md",
     "Amazon Bill.md",
+    "Shopping list.md",
+    "Templates/Daily Schedule Template.md",
+    "Groceries.base",
+    "Templates/Groceries Template.md",
+    "Groceries.md",
+    "Untitled 1.base",
+    "2025-09-05.md",
+    "Projects.md",
+    "Evergreen.md",
+    "Academy.md",
+    "Amazon Payment.md",
+    "2025-12-28 0849.md",
+    "Amazon Payment Made.md",
+    "Vault iterations.md",
+    "Daily/2025-11-06.md",
     "2025-12-24 1854.md",
     "Photography.md",
     "Untitled.base",
     "Photography.base",
-    "Daily/2025-12-28.md",
     "Untitled.canvas",
     "2025-12-28 2026-01-03 0752 W1.md",
-    "Vault iterations.md",
     "Templates/Daily Note Template.md",
     "Alisha.md",
     "2025-12-28 Should I use weekly notes.md",
     "Templates/Bases/Daily.base",
-    "2025-12-28 0654 daily schedule.md",
     "Vault 2.0.md",
     "Templates/Bases/Projects.base",
     "Notes/Minimal Theme.md",
     "Templates/Bases/Templates.base",
     "2025-12-28 0700.md",
-    "Events.md",
-    "Notes/2023 Japan Trip.md",
-    "Daily/2025-12-27.md",
-    "Front Counter notes.md",
-    "2025-12-27 daily schedule.md",
-    "Dear Mom.md",
-    "Marge Koons.md",
     "Attachments/imgs2Fapp2FKaylus2FmWmO5YikNj.png",
     "Attachments/imgs2Fapp2FKaylus2Fgr5dsCwrPM.png",
-    "Pauline McCoy.md",
-    "9 of Swords.md",
-    "Why You never Have Enough Time.md",
-    "There's no getting there. We are already there.md",
     "Attachments/imgs2Fapp2FKaylus2FvmVXJuXeZk.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE.png",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd.png",
@@ -361,8 +301,6 @@
     "amazon.base",
     "Attachments/out-of-control.jpg",
     "Attachments",
-    "Clippings",
-    "Daily",
-    "Notes"
+    "Clippings"
   ]
 }
