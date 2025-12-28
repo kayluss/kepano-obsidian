@@ -1,6 +1,7 @@
 ---
 tags:
   - daily
+Week Note:
 ---
 ## Notes
 
