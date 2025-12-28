@@ -5,4 +5,4 @@ tags:
   - journal
 ---
 -work 11-2
-- bread
+- bread- didn’t go to the store.
