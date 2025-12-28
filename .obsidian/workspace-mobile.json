@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-28 0654 daily schedule.md",
+                "file": "Daily/2025-12-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-28 0654 daily schedule"
+              "title": "2025-12-28"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-28 0705.md",
+                "file": "2025-12-28 weekly note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-28 0705"
+              "title": "2025-12-28 weekly note"
             }
           }
         ],
@@ -248,13 +248,13 @@
   },
   "active": "d978a407db4b693e",
   "lastOpenFiles": [
+    "Daily/2025-12-28.md",
+    "2025-12-28 weekly note.md",
+    "2025-12-28 0654 daily schedule.md",
     "Vault 2.0.md",
-    "2025-12-28 0705.md",
     "Amazon Bill.md",
     "2025-12-28 0700.md",
-    "2025-12-28 0654 daily schedule.md",
     "Events.md",
-    "Daily/2025-12-28.md",
     "Notes/2023 Japan Trip.md",
     "Daily/2025-12-27.md",
     "Front Counter notes.md",
