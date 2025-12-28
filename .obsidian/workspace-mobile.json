@@ -67,7 +67,17 @@
               "state": {
                 "file": "Amazon Bill.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Amazon Bill"
@@ -93,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Bill.md",
+                "file": "Amazon Payment Made.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -108,11 +118,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Amazon Bill"
+              "title": "Amazon Payment Made"
+            }
+          },
+          {
+            "id": "8bfb932ece82b5f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-11-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-06"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -281,8 +315,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfdb57955608dfa4",
+  "active": "8bfb932ece82b5f8",
   "lastOpenFiles": [
+    "Amazon Payment Made.md",
+    "Daily/2025-11-06.md",
+    "Amazon Bill.md",
     "2025-12-24 1854.md",
     "Photography.md",
     "Untitled.base",
@@ -290,7 +327,6 @@
     "Daily/2025-12-28.md",
     "Untitled.canvas",
     "2025-12-28 2026-01-03 0752 W1.md",
-    "Untitled.md",
     "Vault iterations.md",
     "Templates/Daily Note Template.md",
     "Alisha.md",
@@ -301,7 +337,6 @@
     "Templates/Bases/Projects.base",
     "Notes/Minimal Theme.md",
     "Templates/Bases/Templates.base",
-    "Amazon Bill.md",
     "2025-12-28 0700.md",
     "Events.md",
     "Notes/2023 Japan Trip.md",
