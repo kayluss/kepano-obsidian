@@ -4,5 +4,6 @@ tags:
   - note
   - journal
 ---
--work 11-2
+- work 11-2
 - bread- didn’t go to the store.
+- [[Mom]] called today
