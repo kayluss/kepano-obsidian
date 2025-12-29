@@ -1,10 +1,12 @@
 ---
+created: 2025-04-21T20:00:00
+tags:
+  - note
+  - journal
 categories:
-  - "[[Bills MOC]]"
-type:
   - "[[Spectrum]]"
-created: 2025-04-21T08:08:00
 ---
+
  Confirmation Number O846507664
 	Payment Amount
 	$60.00

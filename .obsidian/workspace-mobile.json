@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-12-29.md",
+                "file": "2025-12-29 0707 Daily scheedule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,20 +80,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-29"
+              "title": "2025-12-29 0707 Daily scheedule"
             }
           },
           {
             "id": "a3b4465b018cb445",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Templates/Bases/Daily.base",
-                "viewName": "Daily notes"
+                "file": "Spectrum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Daily"
+              "icon": "lucide-file",
+              "title": "Spectrum"
             }
           },
           {
@@ -102,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-21 Spectrum Payment.md",
+                "file": "Spectrum Payment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -117,11 +128,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-21 Spectrum Payment"
+              "title": "Spectrum Payment"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,7 +242,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2025-04-21 Spectrum Payment.md",
+            "file": "Spectrum.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -278,12 +289,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f147e146e4107a8",
+  "active": "a3b4465b018cb445",
   "lastOpenFiles": [
-    "Templates/Bases/Daily.base",
+    "spectrum.base",
+    "Spectrum Payment.md",
+    "Spectrum.md",
+    "Untitled 2.base",
     "2025-04-21.md",
-    "2025-04-21 Spectrum Payment.md",
+    "2025-12-29 0707 Daily scheedule.md",
     "Daily/2025-12-29.md",
+    "Templates/Bases/Daily.base",
     "Bills MOC.md",
     "Christmas 2025 Inlaws.md",
     "Events.md",
@@ -296,7 +311,6 @@
     "Vault iterations.md",
     "Emergence.md",
     "Untitled.base",
-    "2025-12-29 0707 Daily scheedule.md",
     "2025-12-27 daily schedule.md",
     "Daily/2025-12-27.md",
     "2025-12-28 2026-01-03 0752 W1.md",
@@ -309,7 +323,6 @@
     "Templates/Groceries Template.md",
     "Groceries.md",
     "2025-09-05.md",
-    "Projects.md",
     "Photography.base",
     "Untitled.canvas",
     "Templates/Bases/Projects.base",
@@ -323,8 +336,6 @@
     "Attachments/imgs2Fapp2FKaylus2F0r3zSCBvdA.png",
     "Attachments/imgs2Fapp2FKaylus2FZ0cL4CSDrt.png",
     "Attachments/89887855_2267819773513536_4100972771520020480_n.png",
-    "amazon.base",
-    "Attachments/out-of-control.jpg",
-    "Attachments"
+    "Attachments/out-of-control.jpg"
   ]
 }

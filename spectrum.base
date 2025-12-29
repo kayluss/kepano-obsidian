@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Spectrum")
+        - file.name != link("Bills MOC")
+    groupBy:
+      property: created
+      direction: DESC
+    order:
+      - file.name
+      - created
