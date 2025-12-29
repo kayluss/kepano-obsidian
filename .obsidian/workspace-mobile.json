@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Christmas 2025 Inlaws.md",
+                "file": "Bills MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,7 +56,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Christmas 2025 Inlaws"
+              "title": "Bills MOC"
             }
           },
           {
@@ -175,7 +175,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Christmas 2025 Inlaws.md",
+            "file": "Bills MOC.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Christmas 2025 Inlaws.md",
+            "file": "Bills MOC.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -243,6 +243,7 @@
   },
   "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
+    "Christmas 2025 Inlaws.md",
     "Events.md",
     "Front Counter notes.md",
     "2025-12-25 to do.md",
@@ -272,7 +273,6 @@
     "Evergreen.md",
     "Academy.md",
     "Amazon Payment.md",
-    "Amazon Payment Made.md",
     "Photography.base",
     "Untitled.canvas",
     "Templates/Bases/Daily.base",
