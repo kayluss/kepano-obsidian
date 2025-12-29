@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-29 0707 Daily scheedule.md",
+                "file": "Front Counter notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,11 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-29 0707 Daily scheedule"
+              "title": "Front Counter notes"
             }
           },
           {
@@ -175,30 +175,17 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2025-12-29 0707 Daily scheedule.md",
+            "file": "Front Counter notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+            "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
-        }
-      },
-      {
-        "id": "00dcb76e97251fff",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "lucide-ghost",
-          "title": "outgoing-link"
         }
       },
       {
@@ -207,6 +194,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "Front Counter notes.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -236,7 +224,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,8 +243,16 @@
   },
   "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
-    "Daily/2025-12-29.md",
+    "2025-12-25 to do.md",
+    "Daily/2025-12-25.md",
+    "Untitled 1.base",
+    "Templates/Bases/Attachments.base",
+    "2025-12-28 0849.md",
+    "Vault iterations.md",
+    "Emergence.md",
+    "Untitled.base",
     "2025-12-29 0707 Daily scheedule.md",
+    "Daily/2025-12-29.md",
     "2025-12-27 daily schedule.md",
     "Daily/2025-12-27.md",
     "2025-12-28 2026-01-03 0752 W1.md",
@@ -269,23 +265,16 @@
     "Groceries.base",
     "Templates/Groceries Template.md",
     "Groceries.md",
-    "Untitled 1.base",
     "2025-09-05.md",
     "Projects.md",
     "Evergreen.md",
     "Academy.md",
     "Amazon Payment.md",
-    "2025-12-28 0849.md",
     "Amazon Payment Made.md",
-    "Vault iterations.md",
     "Daily/2025-11-06.md",
     "2025-12-24 1854.md",
-    "Photography.md",
-    "Untitled.base",
     "Photography.base",
     "Untitled.canvas",
-    "Templates/Daily Note Template.md",
-    "Alisha.md",
     "Templates/Bases/Daily.base",
     "Templates/Bases/Projects.base",
     "Templates/Bases/Templates.base",
@@ -300,7 +289,6 @@
     "Attachments/89887855_2267819773513536_4100972771520020480_n.png",
     "amazon.base",
     "Attachments/out-of-control.jpg",
-    "Attachments",
-    "Clippings"
+    "Attachments"
   ]
 }

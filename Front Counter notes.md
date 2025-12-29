@@ -3,6 +3,8 @@ created: 2025-12-27
 tags:
   - note
   - journal
+categories:
+  - "[[Jobs]]"
 ---
 FC means let the runner take care of orders, stock soda area clean lobby, clean trays. 
 Pennies- round to the nearest nickel
