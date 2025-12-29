@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-29 0707 Daily scheedule.md",
+                "file": "Daily/2025-04-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,31 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-29 0707 Daily scheedule"
-            }
-          },
-          {
-            "id": "a3b4465b018cb445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spectrum.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Spectrum"
+              "title": "2025-04-21"
             }
           },
           {
@@ -130,9 +106,33 @@
               "icon": "lucide-file",
               "title": "Spectrum Payment"
             }
+          },
+          {
+            "id": "3ff35cb908cb8880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-04-21 Schedule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-21 Schedule"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -289,14 +289,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3b4465b018cb445",
+  "active": "b6166f4a93c123d8",
   "lastOpenFiles": [
-    "spectrum.base",
+    "2025-04-21 Schedule.md",
     "Spectrum Payment.md",
-    "Spectrum.md",
-    "Untitled 2.base",
-    "2025-04-21.md",
+    "Daily/2025-04-21.md",
     "2025-12-29 0707 Daily scheedule.md",
+    "Daily/2025-09-05.md",
+    "Spectrum.md",
+    "spectrum.base",
+    "Untitled 2.base",
     "Daily/2025-12-29.md",
     "Templates/Bases/Daily.base",
     "Bills MOC.md",
@@ -322,7 +324,6 @@
     "Groceries.base",
     "Templates/Groceries Template.md",
     "Groceries.md",
-    "2025-09-05.md",
     "Photography.base",
     "Untitled.canvas",
     "Templates/Bases/Projects.base",
