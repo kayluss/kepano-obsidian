@@ -108,12 +108,12 @@
             }
           },
           {
-            "id": "ec84846f725aa82a",
+            "id": "a4e850f3eb813351",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2025-05-12.md",
+                "file": "2025-06-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -128,11 +128,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2025-05-12"
+              "title": "2025-06-19"
+            }
+          },
+          {
+            "id": "723225c733545ef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-19 Schedule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-19 Schedule"
+            }
+          },
+          {
+            "id": "ec84846f725aa82a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault 2.0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vault 2.0"
+            }
+          },
+          {
+            "id": "aba981829117a675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/Kevin Kelly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kevin Kelly"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -160,7 +232,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Emerg",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -211,7 +283,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -289,9 +361,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55bfcce2b45d7531",
+  "active": "aba981829117a675",
   "lastOpenFiles": [
+    "References/Out of Control.md",
+    "References/Kevin Kelly.md",
+    "Notes/2023-09-12 Meeting with Steph.md",
+    "Video Obsidian bases complete guide.md",
+    "Vault 2.0.md",
+    "vault2progress.base",
+    "Untitled 4.base",
+    "Vault iterations.md",
+    "Untitled 3.base",
+    "2025-12-29 Files moved to new System.md",
     "Schedule 2025-05-12.md",
+    "2025-06-19 Schedule.md",
+    "2025-06-19.md",
     "2025-05-12.md",
     "Spectrum Payment 2025-04.md",
     "Daily/2025-04-21.md",
@@ -313,21 +397,9 @@
     "Untitled 1.base",
     "Templates/Bases/Attachments.base",
     "2025-12-28 0849.md",
-    "Vault iterations.md",
-    "Emergence.md",
     "Untitled.base",
-    "2025-12-27 daily schedule.md",
-    "Daily/2025-12-27.md",
-    "2025-12-28 2026-01-03 0752 W1.md",
-    "Daily/2025-12-28.md",
-    "2025-12-28 0654 daily schedule.md",
-    "Amazon Bill.md",
-    "Shopping list.md",
     "Groceries.base",
-    "Photography.base",
     "Untitled.canvas",
-    "Templates/Bases/Projects.base",
-    "Templates/Bases/Templates.base",
     "Attachments/imgs2Fapp2FKaylus2FmWmO5YikNj.png",
     "Attachments/imgs2Fapp2FKaylus2Fgr5dsCwrPM.png",
     "Attachments/imgs2Fapp2FKaylus2FvmVXJuXeZk.png",
