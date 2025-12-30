@@ -1,6 +1,8 @@
 ---
 tags:
   - categories
+categories:
+  - "[[Bills MOC]]"
 ---
 ---
 

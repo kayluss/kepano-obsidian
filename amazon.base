@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.hasLink("Amazon Bill")
+        - '!file.hasLink("Bills MOC")'
     sort:
       - property: file.mtime
         direction: DESC
