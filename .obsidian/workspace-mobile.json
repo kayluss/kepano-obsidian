@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping list.md",
+                "file": "Progressive.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shopping list"
+              "title": "Progressive"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files moved to new System.md",
+                "file": "Vault 2.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Files moved to new System"
+              "title": "Vault 2.0"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:note",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -261,13 +261,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebad8db5a26e9d12",
+  "active": "723225c733545ef3",
   "lastOpenFiles": [
-    "Vault 2.0.md",
+    "Untitled 6.base",
     "Daily/2025-12-30.md",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Progressive.md",
+    "progressive.base",
+    "Vault 2.0.md",
+    "Current Fanfiction.md",
+    "Shopping list.md",
+    "Files moved to new System.md",
     "Daily/2025-11-06.md",
     "2025-11-06 Schedule.md",
-    "Shopping list.md",
     "Groceries.md",
     "2025-11-06 Groceries.md",
     "Templates/Groceries Template.md",
@@ -283,25 +294,13 @@
     "Amazon Bill.md",
     "Bills MOC.md",
     "Spectrum payment November 2025.md",
-    "Files moved to new System.md",
     "2025-12-28 2026-01-03 0752 W1.md",
     "2025-12-30 Tired working leads to mistakes.md",
     "Spectrum Payment.md",
-    "2025-10-06 Spectrum.md",
-    "Daily/2025-09-21.md",
-    "Daily/2025-07-21.md",
     "Gieco.base",
-    "Untitled 5.base",
     "Attachments/cachedMedia 1.png",
     "Attachments/cachedMedia.png",
     "vault2progress.base",
-    "Untitled 4.base",
-    "Untitled 3.base",
-    "spectrum.base",
-    "Untitled 2.base",
-    "Templates/Bases/Daily.base",
-    "Untitled 1.base",
-    "Templates/Bases/Attachments.base",
     "Untitled.canvas",
     "Attachments/imgs2Fapp2FKaylus2FmWmO5YikNj.png",
     "Attachments/imgs2Fapp2FKaylus2Fgr5dsCwrPM.png",
