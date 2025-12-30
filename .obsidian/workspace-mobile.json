@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-12-30.md",
+                "file": "2025-12-30 Amazon payment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-30"
+              "title": "2025-12-30 Amazon payment"
+            }
+          },
+          {
+            "id": "ebad8db5a26e9d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spectrum payment November 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Spectrum payment November 2025"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -285,19 +309,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "207a2a3fa48cab5f",
+  "active": "b370bfc511e203b6",
   "lastOpenFiles": [
+    "Daily/2025-12-30.md",
+    "2025-12-30 Amazon payment.md",
+    "2025-12-28 2026-01-03 0752 W1.md",
+    "2025-12-30 Tired working leads to mistakes.md",
+    "Spectrum payment November 2025.md",
+    "Spectrum.md",
     "Spectrum Payment.md",
     "2025-10-06 Spectrum.md",
     "Daily/2025-09-21.md",
     "Daily/2025-07-21.md",
-    "Spectrum.md",
     "Gieco.base",
     "Files moved to new System.md",
-    "Daily/2025-12-30.md",
     "2025-12-30 0443 Schedule.md",
     "Daily schedule.md",
-    "2025-12-28 2026-01-03 0752 W1.md",
     "Bills MOC.md",
     "Gieco.md",
     "Untitled 5.base",
@@ -314,9 +341,6 @@
     "Spectrum Payment 2025-05.md",
     "Daily/2025-09-05.md",
     "Daily/2025-05-12.md",
-    "Daily/2020-07-05 1.md",
-    "Daily/2025-10-06.md",
-    "Daily/2025-12-29.md",
     "vault2progress.base",
     "Untitled 4.base",
     "Untitled 3.base",
