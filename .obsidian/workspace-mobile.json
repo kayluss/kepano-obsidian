@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault 2.0.md",
+                "file": "Files moved to new System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,10 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vault 2.0"
+              "title": "Files moved to new System"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -260,26 +261,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "207a2a3fa48cab5f",
+  "active": "ebad8db5a26e9d12",
   "lastOpenFiles": [
+    "Vault 2.0.md",
+    "Daily/2025-12-30.md",
+    "Daily/2025-11-06.md",
     "2025-11-06 Schedule.md",
     "Shopping list.md",
     "Groceries.md",
     "2025-11-06 Groceries.md",
     "Templates/Groceries Template.md",
-    "Daily/2025-11-06.md",
     "2025-11-06 Discover payment.md",
     "Care Credit payment November 2025.md",
     "Vault iterations.md",
     "2025-12-30 0443 Schedule.md",
-    "Daily/2025-12-30.md",
     "Amazon payment.md",
     "Albums.md",
     "Attachments/Pasted image 20251230052808.jpg",
     "Spectrum.md",
     "Events.md",
     "Amazon Bill.md",
-    "Vault 2.0.md",
     "Bills MOC.md",
     "Spectrum payment November 2025.md",
     "Files moved to new System.md",
