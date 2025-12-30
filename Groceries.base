@@ -12,3 +12,9 @@ views:
       - file.name
       - Out of Stock Items
       - status
+  - type: table
+    name: Not Done
+    filters:
+      and:
+        - status == ["[[Active]]"]
+        - file.hasLink("Groceries")

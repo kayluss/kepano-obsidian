@@ -1,5 +1,5 @@
 ---
-created: 2025-12-28
+created: 2025-11-06T05:32:00
 tags:
   - note
   - journal
@@ -7,9 +7,9 @@ categories:
   - "[[Groceries]]"
 status:
   - " Done"
-Out of Stock Items: Yes
 ---
-
-- dog food 
-- Bread - OFS
-- Mucinex 
+Properties
+	
+Bananas
+Strawberries
+Grapes

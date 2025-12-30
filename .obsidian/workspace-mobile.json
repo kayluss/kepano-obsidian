@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-11-06 Discover payment.md",
+                "file": "Daily/2025-11-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-06 Discover payment"
+              "title": "2025-11-06"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Albums.md",
+                "file": "Daily/2025-12-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Albums"
-            }
-          },
-          {
-            "id": "ec84846f725aa82a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-12-30 0443 Schedule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-30 0443 Schedule"
+              "title": "2025-12-30"
             }
           },
           {
@@ -85,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-30 Amazon payment.md",
+                "file": "Shopping list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-30 Amazon payment"
+              "title": "Shopping list"
             }
           },
           {
@@ -286,10 +262,20 @@
   },
   "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
-    "2025-12-30 Amazon payment.md",
-    "2025-12-30 0443 Schedule.md",
+    "2025-11-06 Schedule.md",
+    "Shopping list.md",
+    "Groceries.md",
+    "2025-11-06 Groceries.md",
+    "Templates/Groceries Template.md",
+    "Daily/2025-11-06.md",
     "2025-11-06 Discover payment.md",
+    "Care Credit payment November 2025.md",
+    "Vault iterations.md",
+    "2025-12-30 0443 Schedule.md",
     "Daily/2025-12-30.md",
+    "Amazon payment.md",
+    "Albums.md",
+    "Attachments/Pasted image 20251230052808.jpg",
     "Spectrum.md",
     "Events.md",
     "Amazon Bill.md",
@@ -304,16 +290,7 @@
     "Daily/2025-09-21.md",
     "Daily/2025-07-21.md",
     "Gieco.base",
-    "Daily schedule.md",
-    "Gieco.md",
     "Untitled 5.base",
-    "Albums.md",
-    "2025-06-19 Schedule.md",
-    "Daily/2025-04-21.md",
-    "Templates/Bills Template.md",
-    "Daily/2025-06-19.md",
-    "Gieco Payment June 2025.md",
-    "Templates/Journal Template.md",
     "Attachments/cachedMedia 1.png",
     "Attachments/cachedMedia.png",
     "vault2progress.base",
@@ -331,7 +308,6 @@
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE.png",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd.png",
     "Attachments/imgs2Fapp2FKaylus2Fkjec1CMtqv.png",
-    "Attachments/imgs2Fapp2FKaylus2F0r3zSCBvdA.png",
-    "Attachments/imgs2Fapp2FKaylus2FZ0cL4CSDrt.png"
+    "Attachments/imgs2Fapp2FKaylus2F0r3zSCBvdA.png"
   ]
 }
