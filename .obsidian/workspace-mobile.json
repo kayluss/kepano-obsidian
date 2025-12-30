@@ -35,13 +35,24 @@
             "id": "207a2a3fa48cab5f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Gieco.base",
-                "viewName": "Table"
+                "file": "Spectrum.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Gieco"
+              "icon": "lucide-file",
+              "title": "Spectrum"
             }
           },
           {
@@ -117,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +207,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -274,14 +285,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b370bfc511e203b6",
+  "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
-    "2025-12-30 0443 Schedule.md",
-    "Daily/2025-12-30.md",
-    "Daily schedule.md",
+    "Spectrum Payment.md",
     "2025-10-06 Spectrum.md",
-    "2025-12-28 2026-01-03 0752 W1.md",
+    "Daily/2025-09-21.md",
+    "Daily/2025-07-21.md",
+    "Spectrum.md",
     "Gieco.base",
+    "Files moved to new System.md",
+    "Daily/2025-12-30.md",
+    "2025-12-30 0443 Schedule.md",
+    "Daily schedule.md",
+    "2025-12-28 2026-01-03 0752 W1.md",
     "Bills MOC.md",
     "Gieco.md",
     "Untitled 5.base",
@@ -296,16 +312,11 @@
     "Attachments/cachedMedia 1.png",
     "Attachments/cachedMedia.png",
     "Spectrum Payment 2025-05.md",
-    "Spectrum.md",
     "Daily/2025-09-05.md",
     "Daily/2025-05-12.md",
-    "Spectrum Payment.md",
     "Daily/2020-07-05 1.md",
     "Daily/2025-10-06.md",
     "Daily/2025-12-29.md",
-    "2025-09-21.md",
-    "Internet payment 092025.md",
-    "Files moved to new System.md",
     "vault2progress.base",
     "Untitled 4.base",
     "Untitled 3.base",
