@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-12-30.md",
+                "file": "ATT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-30"
+              "title": "ATT"
             }
           },
           {
@@ -105,6 +105,36 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "e17158d43a66deaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4149b4c97967e84e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-12-28 2026-01-03 0752 W1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-28 2026-01-03 0752 W1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +225,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2025-11-06 Discover payment.md",
+            "file": "ATT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -244,7 +274,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,14 +293,24 @@
   },
   "active": "723225c733545ef3",
   "lastOpenFiles": [
-    "Untitled 6.base",
+    "Vault iterations.md",
+    "ATT.md",
+    "att.base",
+    "Untitled 1.base",
+    "2025-12-28 2026-01-03 0752 W1.md",
     "Daily/2025-12-30.md",
+    "2025-12-30 0443 Schedule.md",
+    "Spectrum.md",
+    "Care Credit.md",
+    "carecredit.base",
+    "Untitled.base",
+    "Albums.md",
+    "Care Credit payment November 2025.md",
+    "Untitled 6.base",
     "Untitled 5.base",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.base",
     "Progressive.md",
     "progressive.base",
     "Vault 2.0.md",
@@ -283,24 +323,14 @@
     "2025-11-06 Groceries.md",
     "Templates/Groceries Template.md",
     "2025-11-06 Discover payment.md",
-    "Care Credit payment November 2025.md",
-    "Vault iterations.md",
-    "2025-12-30 0443 Schedule.md",
     "Amazon payment.md",
-    "Albums.md",
     "Attachments/Pasted image 20251230052808.jpg",
-    "Spectrum.md",
     "Events.md",
     "Amazon Bill.md",
     "Bills MOC.md",
     "Spectrum payment November 2025.md",
-    "2025-12-28 2026-01-03 0752 W1.md",
-    "2025-12-30 Tired working leads to mistakes.md",
-    "Spectrum Payment.md",
-    "Gieco.base",
     "Attachments/cachedMedia 1.png",
     "Attachments/cachedMedia.png",
-    "vault2progress.base",
     "Untitled.canvas",
     "Attachments/imgs2Fapp2FKaylus2FmWmO5YikNj.png",
     "Attachments/imgs2Fapp2FKaylus2Fgr5dsCwrPM.png",
