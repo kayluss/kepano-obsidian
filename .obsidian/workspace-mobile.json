@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "b370bfc511e203b6",
+            "id": "8565b29626084130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progressive.md",
+                "file": "2025-11-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Progressive"
+              "title": "2025-11-20"
+            }
+          },
+          {
+            "id": "e7a86ef60abb0721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Att payment 11-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Att payment 11-2025"
+            }
+          },
+          {
+            "id": "b370bfc511e203b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ATT"
             }
           },
           {
@@ -104,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "e17158d43a66deaf",
@@ -291,10 +339,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "723225c733545ef3",
+  "active": "b370bfc511e203b6",
   "lastOpenFiles": [
-    "Vault iterations.md",
+    "Att payment 11-2025.md",
     "ATT.md",
+    "Progressive.md",
+    "Attachments/Pasted image 20251230092812.png",
+    "2025-11-20.md",
+    "Vault iterations.md",
     "att.base",
     "Untitled 1.base",
     "2025-12-28 2026-01-03 0752 W1.md",
@@ -311,7 +363,6 @@
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
-    "Progressive.md",
     "progressive.base",
     "Vault 2.0.md",
     "Current Fanfiction.md",
@@ -327,8 +378,6 @@
     "Attachments/Pasted image 20251230052808.jpg",
     "Events.md",
     "Amazon Bill.md",
-    "Bills MOC.md",
-    "Spectrum payment November 2025.md",
     "Attachments/cachedMedia 1.png",
     "Attachments/cachedMedia.png",
     "Untitled.canvas",
@@ -337,7 +386,6 @@
     "Attachments/imgs2Fapp2FKaylus2FvmVXJuXeZk.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE.png",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd.png",
-    "Attachments/imgs2Fapp2FKaylus2Fkjec1CMtqv.png",
-    "Attachments/imgs2Fapp2FKaylus2F0r3zSCBvdA.png"
+    "Attachments/imgs2Fapp2FKaylus2Fkjec1CMtqv.png"
   ]
 }
