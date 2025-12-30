@@ -35,96 +35,13 @@
             "id": "207a2a3fa48cab5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Bills MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Gieco.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Bills MOC"
-            }
-          },
-          {
-            "id": "b6166f4a93c123d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-04-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-21"
-            }
-          },
-          {
-            "id": "55bfcce2b45d7531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-05-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-12"
-            }
-          },
-          {
-            "id": "a4e850f3eb813351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-06-19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-19"
+              "icon": "lucide-table",
+              "title": "Gieco"
             }
           },
           {
@@ -133,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-19 Schedule.md",
+                "file": "Albums.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +65,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-19 Schedule"
+              "title": "Albums"
             }
           },
           {
@@ -200,30 +117,6 @@
             }
           },
           {
-            "id": "89b1d37187358490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-06-19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-19"
-            }
-          },
-          {
             "id": "2acdd8395c60c613",
             "type": "leaf",
             "state": {
@@ -272,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -300,7 +193,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Emerg",
+            "query": "tag:note",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -351,7 +244,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -382,7 +275,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spectrum.md",
+            "file": "Gieco.base",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -429,35 +322,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89b1d37187358490",
+  "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
+    "Bills MOC.md",
+    "Gieco.md",
+    "Gieco.base",
+    "Untitled 5.base",
+    "Albums.md",
+    "2025-06-19 Schedule.md",
+    "Daily/2025-04-21.md",
+    "Daily schedule.md",
+    "Templates/Bills Template.md",
+    "2025-12-28 2026-01-03 0752 W1.md",
+    "2025-10-06 Spectrum.md",
+    "Daily/2025-06-19.md",
+    "Gieco Payment June 2025.md",
+    "Templates/Journal Template.md",
+    "Att June payment 2025.md",
+    "Attachments/cachedMedia 1.png",
+    "Attachments/cachedMedia.png",
     "Spectrum Payment 2025-05.md",
     "Spectrum.md",
     "Daily/2025-09-05.md",
     "Daily/2025-05-12.md",
-    "Daily/2025-04-21.md",
     "Spectrum Payment.md",
     "Daily/2020-07-05 1.md",
     "Daily/2025-10-06.md",
-    "2025-10-06 Spectrum.md",
-    "Daily schedule.md",
-    "Untitled.md",
-    "2025-12-28 2026-01-03 0752 W1.md",
     "Daily/2025-12-29.md",
     "2025-09-21.md",
     "Internet payment 092025.md",
     "Files moved to new System.md",
     "Vault 2.0.md",
-    "2025-07-21.md",
-    "Print store link.md",
-    "Spectrum payment July 2025.md",
-    "Events.md",
     "vault2progress.base",
-    "Albert Simmons Jr..md",
-    "References/Kevin Kelly.md",
-    "References/Out of Control.md",
-    "Notes/2023-09-12 Meeting with Steph.md",
-    "Video Obsidian bases complete guide.md",
     "Untitled 4.base",
     "Untitled 3.base",
     "spectrum.base",
@@ -465,8 +361,6 @@
     "Templates/Bases/Daily.base",
     "Untitled 1.base",
     "Templates/Bases/Attachments.base",
-    "Untitled.base",
-    "Groceries.base",
     "Untitled.canvas",
     "Attachments/imgs2Fapp2FKaylus2FmWmO5YikNj.png",
     "Attachments/imgs2Fapp2FKaylus2Fgr5dsCwrPM.png",
@@ -475,8 +369,6 @@
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd.png",
     "Attachments/imgs2Fapp2FKaylus2Fkjec1CMtqv.png",
     "Attachments/imgs2Fapp2FKaylus2F0r3zSCBvdA.png",
-    "Attachments/imgs2Fapp2FKaylus2FZ0cL4CSDrt.png",
-    "Attachments/89887855_2267819773513536_4100972771520020480_n.png",
-    "Attachments/out-of-control.jpg"
+    "Attachments/imgs2Fapp2FKaylus2FZ0cL4CSDrt.png"
   ]
 }

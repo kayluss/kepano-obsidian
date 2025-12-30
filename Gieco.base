@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Gieco")
+        - "!created.isEmpty()"
+    groupBy:
+      property: created
+      direction: DESC
+    order:
+      - file.name
+      - created

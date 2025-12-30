@@ -31,3 +31,5 @@ tags:
 	 - [[Property Taxes-Tonya's]] Due in January and in July
 	 - [[Nintendo Switch Online]] 4/6/2022
 	 - [[Pokémon Home]] 10/24/2021
+- No Longer have
+	- [[Gieco]]
