@@ -165,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -322,11 +322,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "207a2a3fa48cab5f",
+  "active": "b370bfc511e203b6",
   "lastOpenFiles": [
+    "Gieco.base",
     "Bills MOC.md",
     "Gieco.md",
-    "Gieco.base",
     "Untitled 5.base",
     "Albums.md",
     "2025-06-19 Schedule.md",
