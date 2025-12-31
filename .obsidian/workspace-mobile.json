@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-11-20.md",
+                "file": "Daily/2025-11-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "2025-11-20"
-            }
-          },
-          {
-            "id": "e7a86ef60abb0721",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Att payment 11-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Att payment 11-2025"
             }
           },
           {
@@ -126,20 +102,14 @@
               "icon": "lucide-file",
               "title": "Vault 2.0"
             }
-          }
-        ]
-      },
-      {
-        "id": "e17158d43a66deaf",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "4149b4c97967e84e",
+            "id": "4d566454ad8ecb04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internet payment 092025.md",
+                "file": "PayPal November 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -154,10 +124,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Internet payment 092025"
+              "title": "PayPal November 2025"
+            }
+          },
+          {
+            "id": "2febed956a65c1c4",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "paypal.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "paypal"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -314,25 +298,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4149b4c97967e84e",
+  "active": "8565b29626084130",
   "lastOpenFiles": [
+    "PayPal November 2025.md",
+    "Attachments/IMG_2580.png",
+    "paypal.base",
+    "Paypal.md",
+    "Untitled 2.base",
+    "Daily/2025-11-20.md",
+    "2025-12-30 1920.md",
+    "2025-11-20 Schedule.md",
+    "Internet payment 092025.md",
+    "2025-11-06 1915.md",
+    "Vault 2.0.md",
+    "Att payment 11-2025.md",
+    "ATT.md",
     "2025-12-28 2026-01-03 0752 W1.md",
     "Daily/2025-12-30.md",
     "Daily/2025-10-06.md",
-    "Internet payment 092025.md",
     "Spectrum.md",
     "2025-10-06 Spectrum.md",
     "Daily/2025-09-21.md",
     "Spectrum payment November 2025.md",
     "Daily/2025-11-06.md",
-    "Att payment 11-2025.md",
-    "Vault 2.0.md",
-    "ATT.md",
     "Att June payment 2025.md",
     "Files moved to new System.md",
     "Progressive.md",
     "Attachments/Pasted image 20251230092812.png",
-    "2025-11-20.md",
     "Vault iterations.md",
     "att.base",
     "Untitled 1.base",
@@ -341,18 +333,10 @@
     "carecredit.base",
     "Untitled.base",
     "Albums.md",
-    "Care Credit payment November 2025.md",
     "Untitled 6.base",
     "Untitled 5.base",
     "Untitled 4.base",
     "Untitled 3.base",
-    "Untitled 2.base",
-    "progressive.base",
-    "Current Fanfiction.md",
-    "Shopping list.md",
-    "2025-11-06 Schedule.md",
-    "Groceries.md",
-    "2025-11-06 Groceries.md",
     "Attachments/Pasted image 20251230052808.jpg",
     "Attachments/cachedMedia 1.png",
     "Attachments/cachedMedia.png",
@@ -361,7 +345,6 @@
     "Attachments/imgs2Fapp2FKaylus2Fgr5dsCwrPM.png",
     "Attachments/imgs2Fapp2FKaylus2FvmVXJuXeZk.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE.png",
-    "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd.png",
-    "Attachments/imgs2Fapp2FKaylus2Fkjec1CMtqv.png"
+    "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd.png"
   ]
 }

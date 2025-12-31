@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Paypal")
+        - '!file.hasLink("Bills MOC")'
