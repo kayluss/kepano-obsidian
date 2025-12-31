@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasLink("Discord Inbox")
+    order:
+      - file.name
+      - type
+      - file.ctime
+      - file.mtime

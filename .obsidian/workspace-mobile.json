@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-28 2026-01-03 0752 W1.md",
+                "file": "2025-12-31 0840 Discord as an Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-28 2026-01-03 0752 W1"
+              "title": "2025-12-31 0840 Discord as an Inbox"
             }
           },
           {
@@ -80,32 +80,12 @@
             }
           },
           {
-            "id": "2febed956a65c1c4",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "paypal.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "paypal"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "88f6a48902493e8b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a1b2ea1dc86d4135",
+            "id": "ce010bc01c37cc39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-12-31 New Year’s Eve.md",
+                "file": "Vault 2.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -120,7 +100,51 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-31 New Year’s Eve"
+              "title": "Vault 2.0"
+            }
+          },
+          {
+            "id": "2febed956a65c1c4",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "paypal.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "paypal"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "88f6a48902493e8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1b2ea1dc86d4135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-12-31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-31"
             }
           }
         ]
@@ -202,7 +226,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -280,17 +304,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d566454ad8ecb04",
+  "active": "2febed956a65c1c4",
   "lastOpenFiles": [
-    "2025-12-31 0840.md",
-    "Daily/2025-12-31 New Year’s Eve.md",
-    "Daily/2025-11-20.md",
-    "2025-12-31 New Year’s Eve Schedule.md",
-    "2025-04-21 Schedule.md",
+    "2025-12-31 0840 Discord as an Inbox.md",
+    "Discord Inbox.md",
+    "discord.base",
     "2025-12-28 2026-01-03 0752 W1.md",
+    "Untitled.base",
     "Vault 2.0.md",
-    "Untitled.md",
     "PayPal November 2025.md",
+    "2025-12-31 0840.md",
+    "Daily/2025-12-31.md",
+    "2025-12-31 New Year’s Eve Schedule.md",
+    "Daily/2025-11-20.md",
+    "2025-04-21 Schedule.md",
     "Attachments/IMG_2580.png",
     "paypal.base",
     "Paypal.md",
@@ -309,17 +336,13 @@
     "Spectrum payment November 2025.md",
     "Daily/2025-11-06.md",
     "Att June payment 2025.md",
-    "Files moved to new System.md",
-    "Progressive.md",
     "Attachments/Pasted image 20251230092812.png",
     "att.base",
     "Untitled 1.base",
     "carecredit.base",
-    "Untitled.base",
     "Untitled 6.base",
     "Untitled 5.base",
     "Untitled 4.base",
-    "Untitled 3.base",
     "Attachments/Pasted image 20251230052808.jpg",
     "Attachments/cachedMedia 1.png",
     "Attachments/cachedMedia.png",
