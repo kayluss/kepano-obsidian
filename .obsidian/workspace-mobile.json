@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-09-05.md",
+                "file": "Palia patch drop September 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-05"
+              "title": "Palia patch drop September 2025"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "88f6a48902493e8b",
@@ -315,10 +315,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4d70d5efc4bb8bc",
+  "active": "ce010bc01c37cc39",
   "lastOpenFiles": [
-    "2025-09-05.md",
     "Files moved to new System.md",
+    "Palia patch drop September 2025.md",
+    "2025-09-05.md",
+    "Clippings/Palia Path Roadmap - Fall 2025.md",
+    "2025-09-05 schedule.md",
+    "2025-12-31 1003 NoMa technique.md",
     "2025-12-31 0956.md",
     "Discover.md",
     "September 2025 Discover.md",
@@ -345,12 +349,8 @@
     "2025-12-28 2026-01-03 0752 W1.md",
     "Untitled.base",
     "2025-12-31 0840.md",
-    "2025-12-31 New Year’s Eve Schedule.md",
-    "2025-04-21 Schedule.md",
     "Attachments/IMG_2580.png",
     "Untitled 2.base",
-    "2025-12-30 1920.md",
-    "Internet payment 092025.md",
     "Attachments/Pasted image 20251230092812.png",
     "att.base",
     "carecredit.base",
