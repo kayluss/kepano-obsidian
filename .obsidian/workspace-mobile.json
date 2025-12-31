@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-31 Care Credit.md",
+                "file": "Care Credit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-31 Care Credit"
+              "title": "Care Credit"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PayPal September 2025.md",
+                "file": "Discover.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PayPal September 2025"
+              "title": "Discover"
             }
           }
         ],
@@ -293,10 +293,17 @@
   },
   "active": "ce010bc01c37cc39",
   "lastOpenFiles": [
-    "2025-12-31 Care Credit.md",
+    "September 2025 Discover.md",
+    "Care Credit.md",
+    "Discover.md",
+    "discover.base",
+    "Daily/2025-12-31.md",
+    "September 2025 Care Credit.md",
+    "Untitled 1.base",
+    "Templates/Bases/Albums.base",
+    "PayPal September 2025.md",
     "2025-11-20 1924.md",
     "Paypal.md",
-    "PayPal September 2025.md",
     "Daily/2025-09-05.md",
     "Vault 2.0.md",
     "Daily/2025-11-20.md",
@@ -312,7 +319,6 @@
     "2025-12-28 2026-01-03 0752 W1.md",
     "Untitled.base",
     "2025-12-31 0840.md",
-    "Daily/2025-12-31.md",
     "2025-12-31 New Year’s Eve Schedule.md",
     "2025-04-21 Schedule.md",
     "Attachments/IMG_2580.png",
@@ -321,16 +327,10 @@
     "Internet payment 092025.md",
     "2025-11-06 1915.md",
     "Daily/2025-12-30.md",
-    "Daily/2025-10-06.md",
-    "Spectrum.md",
-    "2025-10-06 Spectrum.md",
     "Attachments/Pasted image 20251230092812.png",
     "att.base",
-    "Untitled 1.base",
     "carecredit.base",
     "Untitled 6.base",
-    "Untitled 5.base",
-    "Untitled 4.base",
     "Attachments/Pasted image 20251230052808.jpg",
     "Attachments/cachedMedia 1.png",
     "Attachments/cachedMedia.png",
