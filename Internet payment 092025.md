@@ -3,6 +3,8 @@ created: 2025-09-21T00:00:00
 tags:
   - note
   - journal
+categories:
+  - "[[Spectrum]]"
 ---
 Details
 	Confirmation Number

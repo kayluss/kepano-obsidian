@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-11-06.md",
+                "file": "Daily/2025-10-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-06"
+              "title": "2025-10-06"
             }
           },
           {
@@ -104,30 +104,6 @@
             }
           },
           {
-            "id": "b370bfc511e203b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATT.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ATT"
-            }
-          },
-          {
             "id": "ebad8db5a26e9d12",
             "type": "leaf",
             "state": {
@@ -151,8 +127,7 @@
               "title": "Vault 2.0"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "e17158d43a66deaf",
@@ -164,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-28 2026-01-03 0752 W1.md",
+                "file": "Internet payment 092025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -179,7 +154,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-28 2026-01-03 0752 W1"
+              "title": "Internet payment 092025"
             }
           }
         ]
@@ -339,20 +314,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b370bfc511e203b6",
+  "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
+    "Spectrum.md",
+    "2025-10-06 Spectrum.md",
+    "Internet payment 092025.md",
+    "Daily/2025-09-21.md",
+    "2025-12-28 2026-01-03 0752 W1.md",
+    "Spectrum payment November 2025.md",
+    "Daily/2025-11-06.md",
     "Att payment 11-2025.md",
+    "Vault 2.0.md",
     "ATT.md",
+    "Att June payment 2025.md",
+    "Files moved to new System.md",
     "Progressive.md",
     "Attachments/Pasted image 20251230092812.png",
     "2025-11-20.md",
     "Vault iterations.md",
     "att.base",
     "Untitled 1.base",
-    "2025-12-28 2026-01-03 0752 W1.md",
     "Daily/2025-12-30.md",
     "2025-12-30 0443 Schedule.md",
-    "Spectrum.md",
     "Care Credit.md",
     "carecredit.base",
     "Untitled.base",
@@ -364,20 +347,13 @@
     "Untitled 3.base",
     "Untitled 2.base",
     "progressive.base",
-    "Vault 2.0.md",
     "Current Fanfiction.md",
     "Shopping list.md",
-    "Files moved to new System.md",
-    "Daily/2025-11-06.md",
     "2025-11-06 Schedule.md",
     "Groceries.md",
     "2025-11-06 Groceries.md",
     "Templates/Groceries Template.md",
-    "2025-11-06 Discover payment.md",
-    "Amazon payment.md",
     "Attachments/Pasted image 20251230052808.jpg",
-    "Events.md",
-    "Amazon Bill.md",
     "Attachments/cachedMedia 1.png",
     "Attachments/cachedMedia.png",
     "Untitled.canvas",
