@@ -1,13 +1,9 @@
 ---
 created: 2025-12-31T11:31:00
-tags:
-  - note
-  - journal
 categories:
   - "[[Shows]]"
 genre:
-  - Western
-  - Drama
+  - "[[Western]]"
 year: 2024
 cast:
   - "[[Taylor Kitsch]]"

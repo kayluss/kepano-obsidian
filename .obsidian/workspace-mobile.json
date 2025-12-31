@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files moved to new System.md",
+                "file": "Video Obsidian bases complete guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Files moved to new System"
-            }
-          },
-          {
-            "id": "580199be7e7bbeea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/The Legend of Zelda Breath of the Wild.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Legend of Zelda Breath of the Wild"
+              "title": "Video Obsidian bases complete guide"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "88f6a48902493e8b",
@@ -267,41 +243,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "580199be7e7bbeea",
+  "active": "723225c733545ef3",
   "lastOpenFiles": [
-    "Games.md",
-    "References/Sci-fi.md",
+    "Files moved to new System.md",
+    "Templates/Bases/discord.base",
+    "Western.md",
+    "References/Futurama.md",
     "Shows.md",
     "American Primeval.md",
+    "References/Sci-fi.md",
+    "Games.md",
+    "References/The Legend of Zelda Breath of the Wild.md",
     "Care Credit.md",
     "Progressive.md",
     "2025-03-01.md",
     "Templates/Schedule - Daily  Template.md",
-    "Palia patch drop September 2025.md",
+    "References/Palia patch drop September 2025.md",
     "Daily schedule.md",
     "2025-03-01 1128.md",
     "PayPal Feb Payment.md",
-    "Untitled.md",
     "2025-12-31 1114.md",
     "2025-10-06 1056 ID Cards.md",
     "Attachments/ID Card 1.pdf",
     "Discover.md",
     "Attachments/ID Card.pdf",
-    "Files moved to new System.md",
     "2025-09-05.md",
     "Clippings/Palia Path Roadmap - Fall 2025.md",
     "2025-09-05 schedule.md",
     "2025-12-31 1003 NoMa technique.md",
     "2025-12-31 0956.md",
     "September 2025 Discover.md",
-    "discover.base",
-    "Daily/2025-12-31.md",
-    "September 2025 Care Credit.md",
+    "Templates/Bases/discover.base",
     "Untitled 1.base",
     "Templates/Bases/Albums.base",
-    "PayPal September 2025.md",
-    "paypal.base",
-    "discord.base",
+    "Templates/Bases/paypal.base",
     "Untitled.base",
     "Attachments/IMG_2580.png",
     "Untitled 2.base",
