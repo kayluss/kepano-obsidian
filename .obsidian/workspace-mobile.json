@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "May Paypal.md",
+                "file": "Daily/2020-07-05 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": true,
+                  "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "May Paypal"
+              "title": "2020-07-05 1"
             }
           },
           {
@@ -83,16 +83,16 @@
         "currentTab": 1
       },
       {
-        "id": "88f6a48902493e8b",
+        "id": "d5061068b2e89065",
         "type": "tabs",
         "children": [
           {
-            "id": "a1b2ea1dc86d4135",
+            "id": "19fee61d8bffc947",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-31 0840 Discord as an Inbox.md",
+                "file": "Daily/2020-07-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-31 0840 Discord as an Inbox"
+              "title": "2020-07-05"
             }
           }
         ]
@@ -269,14 +269,24 @@
   },
   "active": "723225c733545ef3",
   "lastOpenFiles": [
+    "9 of Swords.md",
+    "Daily/2020-07-05 1.md",
+    "Daily/2020-07-05.md",
+    "How to Take Smart Notes-10 Principles to Revolutionize Your note-taking and Writing.md",
+    "Spectrum payment July 2025.md",
+    "Care Credit.md",
+    "Templates/Bases/Related.base",
+    "2025-09-05 schedule.md",
+    "Templates/Bases/Ratings.base",
+    "Templates/Journal Template.md",
+    "Daily/2025-07-21.md",
+    "Schedule for today.md",
     "2025-05-25.md",
     "May Paypal.md",
     "Care Credit April.md",
-    "Care Credit.md",
     "Care Credit payment November 2025.md",
     "September 2025 Care Credit.md",
     "Evergreen.md",
-    "9 of Swords.md",
     "Notes/Evergreen notes turn ideas into objects that you can manipulate.md",
     "2025-12-31 0840 Discord as an Inbox.md",
     "Daily/2025-12-31.md",
@@ -288,14 +298,6 @@
     "Templates/Bases/discord.base",
     "Western.md",
     "References/Futurama.md",
-    "Shows.md",
-    "American Primeval.md",
-    "References/Sci-fi.md",
-    "Games.md",
-    "References/The Legend of Zelda Breath of the Wild.md",
-    "Progressive.md",
-    "2025-03-01.md",
-    "Templates/Schedule - Daily  Template.md",
     "Attachments/ID Card 1.pdf",
     "Attachments/ID Card.pdf",
     "Templates/Bases/discover.base",
@@ -304,9 +306,7 @@
     "Templates/Bases/paypal.base",
     "Untitled.base",
     "Attachments/IMG_2580.png",
-    "Untitled 2.base",
     "Attachments/Pasted image 20251230092812.png",
-    "att.base",
     "Attachments/Pasted image 20251230052808.jpg",
     "Attachments/cachedMedia 1.png",
     "Attachments/cachedMedia.png",
