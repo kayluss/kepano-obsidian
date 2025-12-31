@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PayPal November 2025.md",
+                "file": "2025-12-31 Care Credit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PayPal November 2025"
+              "title": "2025-12-31 Care Credit"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault 2.0.md",
+                "file": "PayPal September 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,35 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vault 2.0"
-            }
-          },
-          {
-            "id": "2febed956a65c1c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-11-20.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-20"
+              "title": "PayPal September 2025"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "88f6a48902493e8b",
@@ -315,12 +291,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2febed956a65c1c4",
+  "active": "ce010bc01c37cc39",
   "lastOpenFiles": [
+    "2025-12-31 Care Credit.md",
     "2025-11-20 1924.md",
+    "Paypal.md",
+    "PayPal September 2025.md",
+    "Daily/2025-09-05.md",
+    "Vault 2.0.md",
+    "Daily/2025-11-20.md",
+    "2025-11-20 Schedule.md",
     "Files moved to new System.md",
     "ATT.md",
-    "Daily/2025-11-20.md",
     "Att November 2025.md",
     "Att payment 11-2025.md",
     "paypal.base",
@@ -329,25 +311,19 @@
     "discord.base",
     "2025-12-28 2026-01-03 0752 W1.md",
     "Untitled.base",
-    "Vault 2.0.md",
     "2025-12-31 0840.md",
     "Daily/2025-12-31.md",
     "2025-12-31 New Year’s Eve Schedule.md",
     "2025-04-21 Schedule.md",
     "Attachments/IMG_2580.png",
-    "Paypal.md",
     "Untitled 2.base",
     "2025-12-30 1920.md",
-    "2025-11-20 Schedule.md",
     "Internet payment 092025.md",
     "2025-11-06 1915.md",
     "Daily/2025-12-30.md",
     "Daily/2025-10-06.md",
     "Spectrum.md",
     "2025-10-06 Spectrum.md",
-    "Daily/2025-09-21.md",
-    "Spectrum payment November 2025.md",
-    "Daily/2025-11-06.md",
     "Attachments/Pasted image 20251230092812.png",
     "att.base",
     "Untitled 1.base",
