@@ -1,8 +1,5 @@
 ---
 created: 2025-09-05T09:24:00
-tags:
-  - note
-  - journal
 bill: "[[Care Credit]]"
 ---
 Confirmation

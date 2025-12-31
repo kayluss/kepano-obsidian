@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "April paypal.md",
+                "file": "May Paypal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "May Paypal"
+            }
+          },
+          {
+            "id": "3e2700e2a6784eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-05-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "April paypal"
+              "title": "2025-05-25"
             }
           }
         ],
@@ -68,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-12-31.md",
+                "file": "2025-12-31 0840 Discord as an Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,7 +107,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-31"
+              "title": "2025-12-31 0840 Discord as an Inbox"
             }
           }
         ]
@@ -114,7 +138,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Trouble",
+            "query": "tag:0🌲",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -245,8 +269,20 @@
   },
   "active": "723225c733545ef3",
   "lastOpenFiles": [
-    "2025-04-18.md",
+    "2025-05-25.md",
+    "May Paypal.md",
+    "Care Credit April.md",
+    "Care Credit.md",
+    "Care Credit payment November 2025.md",
+    "September 2025 Care Credit.md",
+    "Evergreen.md",
+    "9 of Swords.md",
+    "Notes/Evergreen notes turn ideas into objects that you can manipulate.md",
+    "2025-12-31 0840 Discord as an Inbox.md",
+    "Daily/2025-12-31.md",
+    "Schedule 2025-04-18.md",
     "April paypal.md",
+    "2025-04-18.md",
     "Video Obsidian bases complete guide.md",
     "Files moved to new System.md",
     "Templates/Bases/discord.base",
@@ -257,23 +293,11 @@
     "References/Sci-fi.md",
     "Games.md",
     "References/The Legend of Zelda Breath of the Wild.md",
-    "Care Credit.md",
     "Progressive.md",
     "2025-03-01.md",
     "Templates/Schedule - Daily  Template.md",
-    "References/Palia patch drop September 2025.md",
-    "Daily schedule.md",
-    "2025-03-01 1128.md",
-    "PayPal Feb Payment.md",
-    "2025-12-31 1114.md",
-    "2025-10-06 1056 ID Cards.md",
     "Attachments/ID Card 1.pdf",
-    "Discover.md",
     "Attachments/ID Card.pdf",
-    "2025-09-05.md",
-    "Clippings/Palia Path Roadmap - Fall 2025.md",
-    "2025-09-05 schedule.md",
-    "2025-12-31 1003 NoMa technique.md",
     "Templates/Bases/discover.base",
     "Untitled 1.base",
     "Templates/Bases/Albums.base",

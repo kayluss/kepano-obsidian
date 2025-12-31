@@ -1,15 +1,16 @@
 ---
-created: 2025-11-06T05:29:00
+created: 2025-04-18T16:01:00
 bill: "[[Care Credit]]"
 ---
-Details
+- Payment Details
 	Confirmation
-	1122666737
+	1066596836
 	Payment Type
 	One-Time
 	Payment Amount
 	$100.00
 	Submitted On
-	Nov 6, 2025
+	Apr 18, 2025
 	Scheduled For
-	Nov 6, 2025
+	Apr 18, 2025
+	Pay From prime, Checking (...4456)
