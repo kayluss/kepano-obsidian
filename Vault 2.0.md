@@ -17,7 +17,7 @@ Converted notes from archived vault system to this vault’s system
 
 # To Do
 	- [ ] In Roam vault 2025-06-19 need to verify Gieco and Att were paid and add the info to transferred files 📅 2025-12-31
-	- [ ] Conver current antic into a category and create notes for links listed.
+	- [ ] Conver [[Current Fanfiction]] into a category and create notes for links listed.
 # Troubleshoot solutions
 	Bases for categories 
 		Problem: filtering for bills need to exclude the MOC. Had to insert a property on the MOC file that linked to itself and then create a filter where file does not link to. 

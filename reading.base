@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Last Read
+    filters:
+      and:
+        - '!note["Last read"].isEmpty()'
+    order:
+      - file.name
+      - Last read

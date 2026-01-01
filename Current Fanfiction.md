@@ -4,6 +4,7 @@ tags:
   - note
   - journal
 ---
+![[reading.base]]
 
 ### Works in Progress
 ### La'Una

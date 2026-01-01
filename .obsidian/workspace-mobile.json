@@ -13,6 +13,84 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Add last read and To watch to weekly note thoughs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Add last read and To watch to weekly note thoughs"
+            }
+          },
+          {
+            "id": "723225c733545ef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault 2.0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vault 2.0"
+            }
+          },
+          {
+            "id": "3e2700e2a6784eda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How Did Hekate Become the Goddess of Magick.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How Did Hekate Become the Goddess of Magick"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab6685ef4d913544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "406ed8be395b0294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "2025-12-28 2026-01-03 0752 W1.md",
                 "mode": "source",
                 "source": false,
@@ -29,85 +107,6 @@
               },
               "icon": "lucide-file",
               "title": "2025-12-28 2026-01-03 0752 W1"
-            }
-          },
-          {
-            "id": "723225c733545ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-01-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-01"
-            }
-          },
-          {
-            "id": "3e2700e2a6784eda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazon December 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Amazon December 2025"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "d5061068b2e89065",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "19fee61d8bffc947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-01-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-01"
             }
           }
         ]
@@ -267,44 +266,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e2700e2a6784eda",
+  "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
-    "Schedule- Today 0926.md",
+    "Current Fanfiction.md",
+    "Add last read and To watch to weekly note thoughs.md",
+    "reading.base",
+    "Untitled 1.base",
+    "The Cradle of the Mother, the Cradle of Death.md",
+    "Daily/2026-01-01.md",
+    "2025-12-28 2026-01-03 0752 W1.md",
+    "Vault 2.0.md",
+    "To watch.md",
+    "How Did Hekate Become the Goddess of Magick.md",
+    "Files moved to new System.md",
+    "Care Credit December 2025.md",
     "Amazon December 2025.md",
+    "Schedule- Today 0926.md",
     "December Spectrum 2025 0925.md",
     "Daily/2025-12-06.md",
     "Video What makes a Photographer When everyone is Taking Photos.md",
     "towatch.base",
-    "To watch.md",
     "Untitled.base",
     "Indian Ring Neck Parrots.md",
-    "Daily/2026-01-01.md",
     "Daily/2020-07-05.md",
     "2025-05-25.md",
     "Untitled.md",
     "Daily/2025-12-31.md",
     "Daily/2020-07-05 1.md",
-    "2025-12-28 2026-01-03 0752 W1.md",
     "2026-01-01 0517.md",
     "2026-01-01 0518 Schedule.md",
     "Daily/2025-12-28.md",
     "2025-12-31 0840 Discord as an Inbox.md",
     "9 of Swords.md",
-    "How to Take Smart Notes-10 Principles to Revolutionize Your note-taking and Writing.md",
-    "Spectrum payment July 2025.md",
-    "Care Credit.md",
     "Templates/Bases/Related.base",
-    "2025-09-05 schedule.md",
     "Templates/Bases/Ratings.base",
-    "Templates/Journal Template.md",
-    "Daily/2025-07-21.md",
-    "Schedule for today.md",
     "Templates/Bases/discord.base",
     "Attachments/ID Card 1.pdf",
     "Attachments/ID Card.pdf",
     "Templates/Bases/discover.base",
-    "Untitled 1.base",
-    "Templates/Bases/Albums.base",
     "Attachments/IMG_2580.png",
     "Attachments/Pasted image 20251230092812.png",
     "Attachments/Pasted image 20251230052808.jpg",
