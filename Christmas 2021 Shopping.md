@@ -16,7 +16,7 @@ status: " Done"
     - need to finish
         - [[Mam]]
         - [[Janice]]
-        - [[Tina]]
+        - [[Tina Sutton]]
         - [[Selena]]
         - [[Tony]]
         - [[Tanner]]

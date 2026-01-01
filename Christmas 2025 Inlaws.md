@@ -15,7 +15,8 @@ loc:
   - "[[Janices-House]]"
 date: 2025-12-25
 org:
-people: []
+people:
+  - "[[Tina Sutton]]"
 topics: []
 ---
 Finished Sam’s gift

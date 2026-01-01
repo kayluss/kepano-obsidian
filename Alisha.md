@@ -11,7 +11,7 @@ tags:
 created:
 ---
 Family
-[[Tina]]
+[[Tina Sutton]]
 ---
 
 ## Meetings

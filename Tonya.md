@@ -3,8 +3,7 @@ categories:
   - "[[People]]"
 birthday: 1972-09-19
 org: []
-created:
-  "{ date }":
+created: 2026-01-01T16:31:00
 died:
 tags:
   - categories
@@ -25,7 +24,7 @@ DOB: 09/19/1972
 - Email: tigsgal1@gmail.com
 - Address: 1085 county road M
 - Famliy
-    - 
+    - [[Tina Sutton]]
 - Medical history
     - Surgeries
         - Gastric Bypass  6/2016
