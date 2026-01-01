@@ -3,13 +3,12 @@ categories:
   - "[[People]]"
 birthday:
 org: []
-created:
-  "{ date }":
+created: 2026-01-01T16:48:00
 died:
 tags:
   - categories
   - People
-relation:
+relation: family
 ---
 
 

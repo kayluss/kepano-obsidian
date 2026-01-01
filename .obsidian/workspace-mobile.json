@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "19ab86071f1dedf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Files moved to new System.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Files moved to new System"
+            }
+          },
+          {
             "id": "723225c733545ef3",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ab6685ef4d913544",
@@ -267,11 +291,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ba5bd1e35b27af1",
+  "active": "19ab86071f1dedf4",
   "lastOpenFiles": [
+    "2021-12-18 Schedule.md",
+    "Christmas 2021 to do.md",
+    "2021-12-18.md",
+    "Tina Sutton.md",
     "Christmas 2025 Inlaws.md",
     "Vault 2.0.md",
-    "Tina Sutton.md",
     "How Did Hekate Become the Goddess of Magick.md",
     "Tonya.md",
     "Attachments/image 39.jpg",
@@ -295,11 +322,8 @@
     "Untitled.base",
     "Daily/2020-07-05.md",
     "2025-05-25.md",
-    "Untitled.md",
     "Daily/2025-12-31.md",
     "Daily/2020-07-05 1.md",
-    "2026-01-01 0517.md",
-    "2026-01-01 0518 Schedule.md",
     "Templates/Bases/Related.base",
     "Templates/Bases/Ratings.base",
     "Templates/Bases/discord.base",
