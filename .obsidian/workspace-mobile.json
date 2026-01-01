@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-28 2026-01-03 0752 W1.md",
+                "file": "2026-01-01 0518 Schedule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-28 2026-01-03 0752 W1"
+              "title": "2026-01-01 0518 Schedule"
             }
           },
           {
@@ -200,7 +200,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "PayPal November 2025.md",
+            "file": "Daily/2020-07-05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -266,12 +266,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "207a2a3fa48cab5f",
+  "active": "19fee61d8bffc947",
   "lastOpenFiles": [
+    "2026-01-01 0518 Schedule.md",
+    "2026-01-01 0517.md",
+    "Daily/2020-07-05.md",
+    "2025-12-28 2026-01-03 0752 W1.md",
     "Daily/2025-12-28.md",
     "2025-12-31 0840 Discord as an Inbox.md",
     "Daily/2020-07-05 1.md",
-    "Daily/2020-07-05.md",
     "9 of Swords.md",
     "How to Take Smart Notes-10 Principles to Revolutionize Your note-taking and Writing.md",
     "Spectrum payment July 2025.md",
@@ -293,10 +296,7 @@
     "Schedule 2025-04-18.md",
     "April paypal.md",
     "2025-04-18.md",
-    "Video Obsidian bases complete guide.md",
-    "Files moved to new System.md",
     "Templates/Bases/discord.base",
-    "Western.md",
     "Attachments/ID Card 1.pdf",
     "Attachments/ID Card.pdf",
     "Templates/Bases/discover.base",
