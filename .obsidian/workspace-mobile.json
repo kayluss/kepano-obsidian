@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-12-31 0840 Discord as an Inbox.md",
+                "file": "2025-12-28 2026-01-03 0752 W1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-31 0840 Discord as an Inbox"
+              "title": "2025-12-28 2026-01-03 0752 W1"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "2025-05-25"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d5061068b2e89065",
@@ -138,7 +137,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:0🌲",
+            "query": "W1",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -189,7 +188,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -267,11 +266,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "723225c733545ef3",
+  "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
-    "9 of Swords.md",
+    "Daily/2025-12-28.md",
+    "2025-12-31 0840 Discord as an Inbox.md",
     "Daily/2020-07-05 1.md",
     "Daily/2020-07-05.md",
+    "9 of Swords.md",
     "How to Take Smart Notes-10 Principles to Revolutionize Your note-taking and Writing.md",
     "Spectrum payment July 2025.md",
     "Care Credit.md",
@@ -288,7 +289,6 @@
     "September 2025 Care Credit.md",
     "Evergreen.md",
     "Notes/Evergreen notes turn ideas into objects that you can manipulate.md",
-    "2025-12-31 0840 Discord as an Inbox.md",
     "Daily/2025-12-31.md",
     "Schedule 2025-04-18.md",
     "April paypal.md",
@@ -297,7 +297,6 @@
     "Files moved to new System.md",
     "Templates/Bases/discord.base",
     "Western.md",
-    "References/Futurama.md",
     "Attachments/ID Card 1.pdf",
     "Attachments/ID Card.pdf",
     "Templates/Bases/discover.base",
