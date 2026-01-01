@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-12-31.md",
+                "file": "Daily/2026-01-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-31"
+              "title": "2026-01-01"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-25.md",
+                "file": "Video What makes a Photographer When everyone is Taking Photos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-25"
+              "title": "Video What makes a Photographer When everyone is Taking Photos"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d5061068b2e89065",
@@ -201,7 +201,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2025-12-31.md",
+            "file": "Video What makes a Photographer When everyone is Taking Photos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -267,12 +267,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "723225c733545ef3",
+  "active": "3e2700e2a6784eda",
   "lastOpenFiles": [
-    "Daily/2020-07-05 1.md",
-    "2025-12-28 2026-01-03 0752 W1.md",
+    "towatch.base",
+    "Video What makes a Photographer When everyone is Taking Photos.md",
+    "To watch.md",
+    "Untitled.base",
+    "Indian Ring Neck Parrots.md",
     "Daily/2026-01-01.md",
     "Daily/2020-07-05.md",
+    "2025-05-25.md",
+    "Untitled.md",
+    "Daily/2025-12-31.md",
+    "Daily/2020-07-05 1.md",
+    "2025-12-28 2026-01-03 0752 W1.md",
     "2026-01-01 0517.md",
     "2026-01-01 0518 Schedule.md",
     "Daily/2025-12-28.md",
@@ -287,24 +295,15 @@
     "Templates/Journal Template.md",
     "Daily/2025-07-21.md",
     "Schedule for today.md",
-    "2025-05-25.md",
     "May Paypal.md",
     "Care Credit April.md",
     "Care Credit payment November 2025.md",
-    "September 2025 Care Credit.md",
-    "Evergreen.md",
-    "Notes/Evergreen notes turn ideas into objects that you can manipulate.md",
-    "Daily/2025-12-31.md",
-    "Schedule 2025-04-18.md",
-    "April paypal.md",
     "Templates/Bases/discord.base",
     "Attachments/ID Card 1.pdf",
     "Attachments/ID Card.pdf",
     "Templates/Bases/discover.base",
     "Untitled 1.base",
     "Templates/Bases/Albums.base",
-    "Templates/Bases/paypal.base",
-    "Untitled.base",
     "Attachments/IMG_2580.png",
     "Attachments/Pasted image 20251230092812.png",
     "Attachments/Pasted image 20251230052808.jpg",
