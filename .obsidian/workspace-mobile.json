@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-01 0518 Schedule.md",
+                "file": "2025-12-28 2026-01-03 0752 W1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-01 0518 Schedule"
+              "title": "2025-12-28 2026-01-03 0752 W1"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2020-07-05 1.md",
+                "file": "Daily/2025-12-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2020-07-05 1"
+              "title": "2025-12-31"
             }
           },
           {
@@ -79,7 +79,8 @@
               "title": "2025-05-25"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d5061068b2e89065",
@@ -91,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2020-07-05.md",
+                "file": "Daily/2026-01-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,7 +107,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2020-07-05"
+              "title": "2026-01-01"
             }
           }
         ]
@@ -188,7 +189,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -200,7 +201,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2020-07-05.md",
+            "file": "Daily/2025-12-31.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -266,15 +267,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19fee61d8bffc947",
+  "active": "723225c733545ef3",
   "lastOpenFiles": [
-    "2026-01-01 0518 Schedule.md",
-    "2026-01-01 0517.md",
-    "Daily/2020-07-05.md",
+    "Daily/2020-07-05 1.md",
     "2025-12-28 2026-01-03 0752 W1.md",
+    "Daily/2026-01-01.md",
+    "Daily/2020-07-05.md",
+    "2026-01-01 0517.md",
+    "2026-01-01 0518 Schedule.md",
     "Daily/2025-12-28.md",
     "2025-12-31 0840 Discord as an Inbox.md",
-    "Daily/2020-07-05 1.md",
     "9 of Swords.md",
     "How to Take Smart Notes-10 Principles to Revolutionize Your note-taking and Writing.md",
     "Spectrum payment July 2025.md",
@@ -295,7 +297,6 @@
     "Daily/2025-12-31.md",
     "Schedule 2025-04-18.md",
     "April paypal.md",
-    "2025-04-18.md",
     "Templates/Bases/discord.base",
     "Attachments/ID Card 1.pdf",
     "Attachments/ID Card.pdf",
