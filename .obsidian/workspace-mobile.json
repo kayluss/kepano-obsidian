@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hegemony.md",
+                "file": "Daily/2026-01-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,7 +106,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hegemony"
+              "title": "2026-01-02"
             }
           }
         ]
@@ -266,12 +266,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "207a2a3fa48cab5f",
+  "active": "406ed8be395b0294",
   "lastOpenFiles": [
     "Hegemony.md",
+    "Daily/2026-01-02.md",
+    "Daily/2026-01-01.md",
     "Books.md",
     "The Captain and her Captain.md",
-    "Daily/2026-01-01.md",
     "Tonya.md",
     "Indian Ring Neck Parrots.md",
     "Vault 2.0.md",
@@ -296,7 +297,6 @@
     "Add last read and To watch to weekly note thoughs.md",
     "reading.base",
     "Untitled 1.base",
-    "The Cradle of the Mother, the Cradle of Death.md",
     "towatch.base",
     "Untitled.base",
     "Templates/Bases/Related.base",
