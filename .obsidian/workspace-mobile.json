@@ -37,30 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files moved to new System.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Files moved to new System"
-            }
-          },
-          {
-            "id": "723225c733545ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Current Fanfiction.md",
                 "mode": "source",
                 "source": false,
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "Current Fanfiction"
+            }
+          },
+          {
+            "id": "723225c733545ef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault 2.0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vault 2.0"
             }
           }
         ],
@@ -269,18 +269,23 @@
   },
   "active": "723225c733545ef3",
   "lastOpenFiles": [
-    "The Captain and her Captain.md",
     "Current Fanfiction.md",
+    "Files moved to new System.md",
+    "Vault 2.0.md",
+    "The Captain and her Captain.md",
+    "Love Is the Master.md",
+    "Beautiful Destruction at the Hands of The Moon and Sun.md",
+    "Hegemony.md",
+    "Books.md",
+    "References/Out of Control.md",
     "2025-12-28 2026-01-03 0752 W1.md",
     "Christmas 2025 Inlaws.md",
     "Daily/2026-01-01 0517.md",
     "Daily/2025-05-25.md",
-    "Files moved to new System.md",
     "Tina Sutton.md",
     "2021-12-18 Schedule.md",
     "Christmas 2021 to do.md",
     "Daily/2021-12-18.md",
-    "Vault 2.0.md",
     "How Did Hekate Become the Goddess of Magick.md",
     "Tonya.md",
     "Attachments/image 39.jpg",
@@ -293,13 +298,8 @@
     "To watch.md",
     "Care Credit December 2025.md",
     "Amazon December 2025.md",
-    "Schedule- Today 0926.md",
-    "December Spectrum 2025 0925.md",
-    "Daily/2025-12-06.md",
-    "Video What makes a Photographer When everyone is Taking Photos.md",
     "towatch.base",
     "Untitled.base",
-    "Daily/2020-07-05.md",
     "Templates/Bases/Related.base",
     "Templates/Bases/Ratings.base",
     "Templates/Bases/discord.base",

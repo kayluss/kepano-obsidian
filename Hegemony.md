@@ -4,19 +4,18 @@ categories:
   - "[[Books]]"
   - "[[Current Fanfiction]]"
 author:
-  - Ncruuk
-url: https://archiveofourown.org/works/50443162/chapters/127454050
+  - Astronaut86
+url: https://archiveofourown.org/works/50556706
 genre:
   - Fanfiction
 pages:
 isbn:
 isbn13:
 year: 2023
-rating: 9
-topics:
-  - Janeway/7o9
-Last read:
-via: ao3
+rating:
+topics: []
+last:
+via: ""
 tags:
   - to-read
 ---

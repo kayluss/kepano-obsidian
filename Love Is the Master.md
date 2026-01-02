@@ -4,19 +4,19 @@ categories:
   - "[[Books]]"
   - "[[Current Fanfiction]]"
 author:
-  - Ncruuk
-url: https://archiveofourown.org/works/50443162/chapters/127454050
+  - Willbikeforfood
+url: https://archiveofourown.org/works/33735043
 genre:
   - Fanfiction
 pages:
 isbn:
 isbn13:
-year: 2023
-rating: 9
+year: 2021
+rating:
 topics:
-  - Janeway/7o9
+  - Talder
 Last read:
-via: ao3
+via: ""
 tags:
   - to-read
 ---
