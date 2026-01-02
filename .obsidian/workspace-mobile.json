@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updated Front Counter Note.md",
+                "file": "2026-01-01 0518 Schedule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Updated Front Counter Note"
+              "title": "2026-01-01 0518 Schedule"
             }
           },
           {
@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-02.md",
+                "file": "Daily/2026-01-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,7 +106,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-02"
+              "title": "2026-01-01"
             }
           }
         ]
@@ -266,13 +266,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "207a2a3fa48cab5f",
+  "active": "406ed8be395b0294",
   "lastOpenFiles": [
-    "Front Counter notes.md",
-    "Updated Front Counter Note.md",
     "Daily/2026-01-02.md",
-    "2026-01-02 schedule.md",
+    "2026-01-01 0518 Schedule.md",
     "Daily/2026-01-01.md",
+    "Updated Front Counter Note.md",
+    "Front Counter notes.md",
+    "2026-01-02 schedule.md",
     "Hegemony.md",
     "Books.md",
     "The Captain and her Captain.md",
@@ -293,7 +294,6 @@
     "Daily/2025-05-25.md",
     "Tina Sutton.md",
     "2021-12-18 Schedule.md",
-    "Christmas 2021 to do.md",
     "Attachments/image 39.jpg",
     "reading.base",
     "Untitled 1.base",
