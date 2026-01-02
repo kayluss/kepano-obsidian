@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-01.md",
-                "mode": "source",
+                "file": "Front Counter notes.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-01"
+              "title": "Front Counter notes"
             }
           },
           {
@@ -268,9 +268,10 @@
   },
   "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
+    "2026-01-02 schedule.md",
     "Daily/2026-01-02.md",
-    "Hegemony.md",
     "Daily/2026-01-01.md",
+    "Hegemony.md",
     "Books.md",
     "The Captain and her Captain.md",
     "Tonya.md",
@@ -294,7 +295,6 @@
     "Daily/2021-12-18.md",
     "How Did Hekate Become the Goddess of Magick.md",
     "Attachments/image 39.jpg",
-    "Add last read and To watch to weekly note thoughs.md",
     "reading.base",
     "Untitled 1.base",
     "towatch.base",
