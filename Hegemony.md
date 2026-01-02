@@ -13,8 +13,9 @@ isbn:
 isbn13:
 year: 2023
 rating:
-topics: []
-last:
+topics:
+  - La’Una
+Last read: 2026-01-01
 via: ""
 tags:
   - to-read

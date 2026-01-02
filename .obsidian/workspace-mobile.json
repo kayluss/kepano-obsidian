@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tonya.md",
+                "file": "Daily/2026-01-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tonya"
+              "title": "2026-01-01"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "Indian Ring Neck Parrots"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "ab6685ef4d913544",
@@ -92,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Captain and her Captain.md",
+                "file": "Hegemony.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,7 +106,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Captain and her Captain"
+              "title": "Hegemony"
             }
           }
         ]
@@ -267,20 +266,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "723225c733545ef3",
+  "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
+    "Hegemony.md",
+    "Books.md",
+    "The Captain and her Captain.md",
     "Daily/2026-01-01.md",
+    "Tonya.md",
+    "Indian Ring Neck Parrots.md",
     "Vault 2.0.md",
     "Current Fanfiction.md",
     "Daily/2025-06-19.md",
     "Att June payment 2025.md",
     "Gieco Payment June 2025.md",
     "Files moved to new System.md",
-    "The Captain and her Captain.md",
     "Love Is the Master.md",
     "Beautiful Destruction at the Hands of The Moon and Sun.md",
-    "Hegemony.md",
-    "Books.md",
     "References/Out of Control.md",
     "2025-12-28 2026-01-03 0752 W1.md",
     "Christmas 2025 Inlaws.md",
@@ -291,9 +292,7 @@
     "Christmas 2021 to do.md",
     "Daily/2021-12-18.md",
     "How Did Hekate Become the Goddess of Magick.md",
-    "Tonya.md",
     "Attachments/image 39.jpg",
-    "Indian Ring Neck Parrots.md",
     "Add last read and To watch to weekly note thoughs.md",
     "reading.base",
     "Untitled 1.base",
