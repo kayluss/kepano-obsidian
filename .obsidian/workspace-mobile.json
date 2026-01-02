@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front Counter notes.md",
-                "mode": "preview",
+                "file": "Updated Front Counter Note.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Front Counter notes"
+              "title": "Updated Front Counter Note"
             }
           },
           {
@@ -268,8 +268,10 @@
   },
   "active": "207a2a3fa48cab5f",
   "lastOpenFiles": [
-    "2026-01-02 schedule.md",
+    "Front Counter notes.md",
+    "Updated Front Counter Note.md",
     "Daily/2026-01-02.md",
+    "2026-01-02 schedule.md",
     "Daily/2026-01-01.md",
     "Hegemony.md",
     "Books.md",
@@ -292,8 +294,6 @@
     "Tina Sutton.md",
     "2021-12-18 Schedule.md",
     "Christmas 2021 to do.md",
-    "Daily/2021-12-18.md",
-    "How Did Hekate Become the Goddess of Magick.md",
     "Attachments/image 39.jpg",
     "reading.base",
     "Untitled 1.base",

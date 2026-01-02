@@ -35,6 +35,16 @@ FC means let the runner take care of orders, stock soda area clean lobby, clean 
 	2. **Add flavor and cream:** The correct number of pumps of desired syrup or liquid sugar and the required amount of cream are dispensed into the cup.
 	3. **Pour coffee:** Freshly brewed, strong coffee is added to the mixture.
 	4. **Stir:** The drink is stirred (around 12 times for a medium) to combine all the ingredients thoroughly.
+
+## Oatmeal
+	**Here's the process:**
+		1. **Order:** Ask for the Fruit & Maple Oatmeal.
+		2. **Components:** You'll receive a bowl, an oatmeal packet, a packet of fruit (diced apples, raisins, cranberries), and usually a small cup of light cream.
+		3. **Add Hot Water:** Fill the bowl with hot water from the dispenser, often to a fill line.
+		4. **Add Cream (Optional):** Pour in a splash of the light cream for a richer flavor, or skip it if you want it plain.
+		5. **Mix Packet:** Empty the oatmeal packet and brown sugar into the hot water and stir.
+		6. **Add Fruit:** Top with the fruit mix, spreading the cranberries and apples evenly.
+		7. **Serve:** Place the lid on and enjoy!.
 ## Register 
 	Clear Choice button to fix sauces/drinks errors in ringing up
 	app codes - My Customer button
