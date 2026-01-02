@@ -1,9 +1,11 @@
 ---
-created: 2026-01-01T09:09:00
+created: 2026-01-01
 tags:
   - note
   - journal
+  - 0🌲
 ---
+
 # Food
 	**Foods to avoid:**  
   
@@ -71,47 +73,20 @@ A punch of bee pollen
 2. Add your grains and sweet potato to the water, let it boil for 5 minutes. Turn off the heat and let the grain cook in the hot water. After 20 minutes, strain the grains/sweet potatoes.
 3. Mix your veggies, greens, and seeds/herb mix with your grains and sweet potatoes.
 4. Sprinkle with bee pollen
-
-  
-
 **Prepare your greens/Fresh herbs:** 
 
-1. Roughly chop your greens and then finely chop them in the food processor.  (if using nuts, you can add them with your greens and finely chop them) **
+5. Roughly chop your greens and then finely chop them in the food processor.  (if using nuts, you can add them with your greens and finely chop them) **
 
 **Prepare your Seed/Herbs/species.**
 
 1. Mix all your seeds, and dried herbs together.
-
-  
-
 *If you have whole flax seeds, you can grind them in a spice or coffee grinder, to make a fresh flaxseed meal. 
 
-  
-
 ** my parrots like their veggies knife chopped. You can also finely chop your veggies into the food processor with your greens
-
-  
-
-  
-
 **Flavors my Parrots love for their Birdie Chop:** 
-
 Indian: Coriander and cumin seeds powder (*you can grind yourself) with red chill flakes and fresh ginger. 
-
-  
-
 Mexican: Cumin and paprika with fresh or dry oregano.
-
-  
-
 Italian: Fennel seeds or fresh fennel, lavender flowers, with fresh or dry basil and oregano.
-
-  
-
-  
-
-  
-
 Here are a few bird chop recipes: 
 
 [simple recipe](http://pdsnonprofit.blogspot.com/2018/05/simple-chop-recipe.html)
@@ -121,10 +96,6 @@ Here are a few bird chop recipes: 
 [einstein's recipes](http://www.einsteinparrot.com/kitchen/recipes/veggiechop/) 
 
 [chop mix for birds](http://birdtricks.com/blog/chop-mix-for-your-birds/)
-
-  
-
-  
 
 How to make your own Birdie Chop made Easy and Simple.  
 Just follow the the simple steps and you will have your chop ready in no time. 

@@ -16,7 +16,6 @@ Converted notes from archived vault system to this vault’s system
 	should I use [[weekly notes]] - answered Yes I will use weekly notes for to do list Not associated with individual projects
 
 # To Do
-	- [ ] In Roam vault 2025-06-19 need to verify Gieco and Att were paid and add the info to transferred files 📅 2025-12-31
 	- [ ] Conver [[Current Fanfiction]] into a category and create notes for links listed. Next- where this leaves us. 
 # Troubleshoot solutions
 	Bases for categories 
