@@ -1,15 +1,14 @@
 ---
 categories:
   - "[[People]]"
-birthday:
+birthday: 1907-06-04
 org: []
-created:
-  "{ date }":
-died:
+created: 2026-01-03T09:55:00
+died: 1992-10-04
 tags:
   - categories
   - People
-relation:
+relation: family
 ---
 
 
