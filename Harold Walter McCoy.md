@@ -10,10 +10,19 @@ tags:
   - People
 relation: family
 ---
-Mother:
-Father:
+Mother:  Maude Minerva McCoy (Evans)
+Father: Benjamin Frank McCoy
 Siblings
-	
+	Norman McCoy
+	Pearl Snyder McCoy
+	Ruth Hagger
+	Raymond McCoy
+Spouse: [[Ruth  McCoy]]
+Children
+	[[Mam]]
+	Linda Prcopio
+	Vivanne Owens
+	Judy 
 
 ---
 
