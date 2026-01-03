@@ -11,7 +11,7 @@ org:
 loc:
   - Home
 people:
-  - "[[Jasmine Oertell]]"
+  - "[[Jasmine Oertel]]"
   - "[[Mike Oertel]]"
   - "[[Tonya]]"
 topics: []
