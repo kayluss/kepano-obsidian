@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Fanfiction.md",
+                "file": "Weekly/2025-12-28 2026-01-03 0752 W1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Current Fanfiction"
+              "title": "2025-12-28 2026-01-03 0752 W1"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mam.md",
+                "file": "Task master list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mam"
+              "title": "Task master list"
             }
           },
           {
@@ -79,7 +79,8 @@
               "title": "Pap’s potential family tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +145,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -222,17 +223,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c13454cb0d297aab",
+  "active": "65bedfea69932a29",
   "lastOpenFiles": [
-    "Hegemony.md",
-    "Current Fanfiction.md",
-    "The Cradle of the Mother, the Cradle of Death.md",
+    "Mam.md",
     "Weekly/2025-12-28 2026-01-03 0752 W1.md",
     "Task master list.md",
+    "2026-01-03 schedule.md",
+    "Current Fanfiction.md",
+    "Hegemony.md",
+    "The Cradle of the Mother, the Cradle of Death.md",
     "Daily/2026-01-03.md",
     "Vault 2.0.md",
     "Pap’s potential family tree.md",
-    "Mam.md",
     "Harold Walter McCoy.md",
     "Ruth  McCoy.md",
     "Vivanne Owens.md",
@@ -253,7 +255,6 @@
     "Daily/2025-09-05 1.md",
     "Daily/2026-01-02.md",
     "Thoughts for 1-2-26.md",
-    "Files moved to new System.md",
     "Attachments/image 39.jpg",
     "reading.base",
     "Untitled 1.base",
