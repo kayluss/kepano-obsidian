@@ -9,10 +9,10 @@ categories:
   - "[[Meetings]]"
 type:
   - Holiday
-start: 2026-01-10
-end: 2026-01-10
+start: 2026-01-11
+end: 2026-01-11
 loc:
-  - "[[Janices-House]]"
+  - "[[Chula Vista]]"
 date: 2025-12-25
 org:
 people:
@@ -20,3 +20,4 @@ people:
 topics: []
 ---
 Finished Sam’s gift
+- [ ] Finish printing photos
