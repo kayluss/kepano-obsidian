@@ -35,4 +35,5 @@ relation: family
 	- medicines
 	- Allergies3
 - Links they sent me
+	-  6-23-24 https://nextdoor.com/discover - look for a photographer for wedding
 - Notable dates
