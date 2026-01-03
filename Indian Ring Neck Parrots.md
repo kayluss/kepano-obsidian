@@ -5,106 +5,107 @@ tags:
   - journal
   - 0🌲
 ---
-
+# Online Resources
+	[https://www.pdsnonprofit.org](https://www.pdsnonprofit.org/)
+	
 # Food
 	**Foods to avoid:**  
-  
-Alcohol
-Apple seeds
-Avocado
-Caffeine
-Chocolate
-Junk Food
-Salt
-Stone fruit pits  
-Raw dairy (milk, fresh cheese, ice cream)  
-Raw onions  
-Rhubarb  
-
-For parrot chop, you can use almost any ingredient, but there are a few suggestions: 
-
-**Grains:** rice, quinoa, pasta, spelt, amaranth, farro, barley, buckwheat, millet, cooked beans, and lentils.
-
-**Veggies:** carrots, sweet potatoes, any orange squash, green peppers, jalapeños, zucchini, broccoli, coconut, parsnips, snap peas, corn, green beans
-
-**Think orange:** cook carrots, cooked sweet potato, and or cooked squash  
-  
-Now for orange veggies, we need to cook them. We can add them to our boiling water at the beginning of our cook time. The reason is that cooking them increases the beta carotene which is what we are looking for as nutrition value. [Beta carotene](http://www.berkeleywellness.com/supplements/other-supplements/article/beta-carotene) is converted into Vitamin A in animal bodies. [For more information about cooking orange veggies](http://www.berkeleywellness.com/healthy-eating/nutrition/article/are-cooked-carrots-better-raw), follow the link.  
-  
-Sweet potatoes are not to be consumed raw because they are hard on digestion. Cooking them eliminates this effect. 
-
-**Greens:** 
-	carrot tops, beet tops, celery leaves, cabbage, kale, spinach, collard greens, Swiss chard, cilantro, dandelion greens
-
-**Seeds/herbs/spices:** 
-	flax Seeds, chia seeds, hemp seeds, rapeseeds, celery seeds, fennel seeds, rosemary, oregano, basil, coriander, cumin, turmeric, red chill flakes
-
-Yes, you guessed it:
-**Special ingredient list:**
-	dried rosebuds, echinacea herb, milk thistle seed, elderberry & flower, lavender flower, barberry root.  
-  
-**Parrot Chop Recipe:**  
-  
-Now all is left is to try it out. Here is my favorite recipe, with additional notes so you can change it as you wish:  
-  
-**Ingredients:** 
-1/4 cup of grains   (can be a mix of grains, or just one)
-
-5 cups of water 
-
-2 cups of veggies chopped   (mix of veggies)
-
-1 sweet potato, peeled, cubed
-
-2 bunches of greens/fresh herbs   (can be a mix of few or just one)
-
-1 Tbsp Flax seeds
-
-1 Tbsp chai seeds
-
-1 Tbsp red chill flakes 
-
-A punch of bee pollen
-
-
-**Directions:** 
-
-1. Boil your water 
-2. Add your grains and sweet potato to the water, let it boil for 5 minutes. Turn off the heat and let the grain cook in the hot water. After 20 minutes, strain the grains/sweet potatoes.
-3. Mix your veggies, greens, and seeds/herb mix with your grains and sweet potatoes.
-4. Sprinkle with bee pollen
-**Prepare your greens/Fresh herbs:** 
-
-5. Roughly chop your greens and then finely chop them in the food processor.  (if using nuts, you can add them with your greens and finely chop them) **
-
-**Prepare your Seed/Herbs/species.**
-
-1. Mix all your seeds, and dried herbs together.
-*If you have whole flax seeds, you can grind them in a spice or coffee grinder, to make a fresh flaxseed meal. 
-
-** my parrots like their veggies knife chopped. You can also finely chop your veggies into the food processor with your greens
-**Flavors my Parrots love for their Birdie Chop:** 
-Indian: Coriander and cumin seeds powder (*you can grind yourself) with red chill flakes and fresh ginger. 
-Mexican: Cumin and paprika with fresh or dry oregano.
-Italian: Fennel seeds or fresh fennel, lavender flowers, with fresh or dry basil and oregano.
-Here are a few bird chop recipes: 
-
-[simple recipe](http://pdsnonprofit.blogspot.com/2018/05/simple-chop-recipe.html)
-
-[Birdie](http://pdsnonprofit.blogspot.com/2018/06/birdie-chop.html) [chop with lentils](http://pdsnonprofit.blogspot.com/2018/06/birdie-chop.html) 
-
-[einstein's recipes](http://www.einsteinparrot.com/kitchen/recipes/veggiechop/) 
-
-[chop mix for birds](http://birdtricks.com/blog/chop-mix-for-your-birds/)
-
-How to make your own Birdie Chop made Easy and Simple.  
-Just follow the the simple steps and you will have your chop ready in no time. 
-
-  
-
-[![Chop Guide](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidJIrgkxU4iA26ka9S_7h2O43RqIVbjukooOejmA-8yKeyYmGXTaVYaFLEYwLo_hkMpr-xxCSFV9jTlazaeBCpdGYLHGmor07C8t3HUxirXIdxcKOBR6Ho_VtyU9dFbhsWRhjG-SJSVBc/s16000/Chop_guide.jpeg "prego dalliance sanctuary")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidJIrgkxU4iA26ka9S_7h2O43RqIVbjukooOejmA-8yKeyYmGXTaVYaFLEYwLo_hkMpr-xxCSFV9jTlazaeBCpdGYLHGmor07C8t3HUxirXIdxcKOBR6Ho_VtyU9dFbhsWRhjG-SJSVBc/s1600/Chop_guide.jpeg)
-
-  
+		Alcohol
+		Apple seeds
+		Avocado
+		Caffeine
+		Chocolate
+		Junk Food
+		Salt
+		Stone fruit pits  
+		Raw dairy (milk, fresh cheese, ice cream)  
+		Raw onions  
+		Rhubarb  
+## Chop
+	For parrot chop, you can use almost any ingredient, but there are a few suggestions: 
+	
+	**Grains:** rice, quinoa, pasta, spelt, amaranth, farro, barley, buckwheat, millet, cooked beans, and lentils.
+	
+	**Veggies:** carrots, sweet potatoes, any orange squash, green peppers, jalapeños, zucchini, broccoli, coconut, parsnips, snap peas, corn, green beans
+	
+	**Think orange:** cook carrots, cooked sweet potato, and or cooked squash  
+	  
+	Now for orange veggies, we need to cook them. We can add them to our boiling water at the beginning of our cook time. The reason is that cooking them increases the beta carotene which is what we are looking for as nutrition value. [Beta carotene](http://www.berkeleywellness.com/supplements/other-supplements/article/beta-carotene) is converted into Vitamin A in animal bodies. [For more information about cooking orange veggies](http://www.berkeleywellness.com/healthy-eating/nutrition/article/are-cooked-carrots-better-raw), follow the link.  
+	  
+	Sweet potatoes are not to be consumed raw because they are hard on digestion. Cooking them eliminates this effect. 
+	
+	**Greens:** 
+		carrot tops, beet tops, celery leaves, cabbage, kale, spinach, collard greens, Swiss chard, cilantro, dandelion greens
+	
+	**Seeds/herbs/spices:** 
+		flax Seeds, chia seeds, hemp seeds, rapeseeds, celery seeds, fennel seeds, rosemary, oregano, basil, coriander, cumin, turmeric, red chill flakes
+	
+	Yes, you guessed it:
+	**Special ingredient list:**
+		dried rosebuds, echinacea herb, milk thistle seed, elderberry & flower, lavender flower, barberry root.  
+	  
+	**Parrot Chop Recipe:**  
+	  
+	Now all is left is to try it out. Here is my favorite recipe, with additional notes so you can change it as you wish:  
+	  
+	**Ingredients:** 
+	1/4 cup of grains   (can be a mix of grains, or just one)
+	
+	5 cups of water 
+	
+	2 cups of veggies chopped   (mix of veggies)
+	
+	1 sweet potato, peeled, cubed
+	
+	2 bunches of greens/fresh herbs   (can be a mix of few or just one)
+	
+	1 Tbsp Flax seeds
+	
+	1 Tbsp chai seeds
+	
+	1 Tbsp red chill flakes 
+	
+	A punch of bee pollen
+	
+	
+	**Directions:** 
+	
+	1. Boil your water 
+	2. Add your grains and sweet potato to the water, let it boil for 5 minutes. Turn off the heat and let the grain cook in the hot water. After 20 minutes, strain the grains/sweet potatoes.
+	3. Mix your veggies, greens, and seeds/herb mix with your grains and sweet potatoes.
+	4. Sprinkle with bee pollen
+	**Prepare your greens/Fresh herbs:** 
+	
+	5. Roughly chop your greens and then finely chop them in the food processor.  (if using nuts, you can add them with your greens and finely chop them) **
+	
+	**Prepare your Seed/Herbs/species.**
+	
+	6. Mix all your seeds, and dried herbs together.
+	*If you have whole flax seeds, you can grind them in a spice or coffee grinder, to make a fresh flaxseed meal. 
+	
+	** my parrots like their veggies knife chopped. You can also finely chop your veggies into the food processor with your greens
+	**Flavors my Parrots love for their Birdie Chop:** 
+	Indian: Coriander and cumin seeds powder (*you can grind yourself) with red chill flakes and fresh ginger. 
+	Mexican: Cumin and paprika with fresh or dry oregano.
+	Italian: Fennel seeds or fresh fennel, lavender flowers, with fresh or dry basil and oregano.
+	Here are a few bird chop recipes: 
+	
+	[simple recipe](http://pdsnonprofit.blogspot.com/2018/05/simple-chop-recipe.html)
+	
+	[Birdie](http://pdsnonprofit.blogspot.com/2018/06/birdie-chop.html) [chop with lentils](http://pdsnonprofit.blogspot.com/2018/06/birdie-chop.html) 
+	
+	[einstein's recipes](http://www.einsteinparrot.com/kitchen/recipes/veggiechop/) 
+	
+	[chop mix for birds](http://birdtricks.com/blog/chop-mix-for-your-birds/)
+	
+	How to make your own Birdie Chop made Easy and Simple.  
+	Just follow the the simple steps and you will have your chop ready in no time. 
+	
+	  
+	
+	[![Chop Guide](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidJIrgkxU4iA26ka9S_7h2O43RqIVbjukooOejmA-8yKeyYmGXTaVYaFLEYwLo_hkMpr-xxCSFV9jTlazaeBCpdGYLHGmor07C8t3HUxirXIdxcKOBR6Ho_VtyU9dFbhsWRhjG-SJSVBc/s16000/Chop_guide.jpeg "prego dalliance sanctuary")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidJIrgkxU4iA26ka9S_7h2O43RqIVbjukooOejmA-8yKeyYmGXTaVYaFLEYwLo_hkMpr-xxCSFV9jTlazaeBCpdGYLHGmor07C8t3HUxirXIdxcKOBR6Ho_VtyU9dFbhsWRhjG-SJSVBc/s1600/Chop_guide.jpeg)
+	
+	  
   
 
   
