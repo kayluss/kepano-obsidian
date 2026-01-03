@@ -13,7 +13,7 @@ relation: family
  Father:  [[Harvey Francis Koons]]
  Mother: Edith May Koons (Fetterman)
  Siblings: Kenneth Koons
- Spouse: Harold Walter McCoy
+ Spouse: [[Harold Walter McCoy]]
  Children
 	 Linda Procopio
 	 Vivanne
