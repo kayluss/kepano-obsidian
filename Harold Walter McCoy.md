@@ -21,7 +21,7 @@ Spouse: [[Ruth  McCoy]]
 Children
 	[[Mam]]
 	Linda Prcopio
-	Vivanne Owens
+	[[Vivanne Owens]]
 	Judy 
 
 ---
