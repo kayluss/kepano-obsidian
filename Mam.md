@@ -12,7 +12,7 @@ relation: F
 ---
  Legal Name:  Marilyn Simmons 
 ---
- Mother: [[Pauline McCoy]]
+ Mother: [[Ruth  McCoy]]
  Father: 
  Siblings
 	 [[Harold McCoy]]
