@@ -26,7 +26,6 @@ views:
       - created
       - categories
       - tags
-      - file.mtime
     sort:
       - property: file.name
         direction: ASC
