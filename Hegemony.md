@@ -20,3 +20,4 @@ via: ""
 tags:
   - to-read
 ---
+Current up to chpt 10

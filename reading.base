@@ -7,3 +7,6 @@ views:
     order:
       - file.name
       - Last read
+    sort:
+      - property: Last read
+        direction: DESC

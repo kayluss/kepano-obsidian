@@ -15,7 +15,7 @@ year: 2023
 rating: 9
 topics:
   - Janeway/7o9
-Last read: 2026-01-02
+Last read: 2026-01-03
 via: ao3
 tags:
   - to-read

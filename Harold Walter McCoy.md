@@ -23,6 +23,11 @@ Children
 	Linda Prcopio
 	[[Vivanne Owens]]
 	Judy 
+Potential family tree
+	Frank McCoy(father) -> William McCoy, Sarah Erdman(grandparents)
+	Maude Evans -> William Evans, Ida Rowe (grandparents ) 
+		William -> Thomas Evans, Hannah Meck (great grands)
+		Ida -> Martin Rowe, Elizabeth Batdorf (great grands)
 
 ---
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly/2025-12-28 2026-01-03 0752 W1.md",
+                "file": "Current Fanfiction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-28 2026-01-03 0752 W1"
+              "title": "Current Fanfiction"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vivanne Owens.md",
+                "file": "Mam.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vivanne Owens"
+              "title": "Mam"
+            }
+          },
+          {
+            "id": "57615e40b649ab93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pap’s potential family tree.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pap’s potential family tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,38 +222,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65bedfea69932a29",
+  "active": "c13454cb0d297aab",
   "lastOpenFiles": [
+    "Hegemony.md",
+    "Current Fanfiction.md",
+    "The Cradle of the Mother, the Cradle of Death.md",
+    "Weekly/2025-12-28 2026-01-03 0752 W1.md",
+    "Task master list.md",
+    "Daily/2026-01-03.md",
+    "Vault 2.0.md",
+    "Pap’s potential family tree.md",
+    "Mam.md",
     "Harold Walter McCoy.md",
-    "Vivanne Owens.md",
     "Ruth  McCoy.md",
+    "Vivanne Owens.md",
     "Harvey Francis Koons.md",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE 1.png",
     "Attachments/IMG_3401.jpeg",
-    "Mam.md",
     "Daily/2020-07-05.md",
-    "Task master list.md",
-    "Weekly/2025-12-28 2026-01-03 0752 W1.md",
     "Christmas 2025 Inlaws.md",
     "Indian Ring Neck Parrots.md",
     "2025-12-26 2200 to do.md",
     "The Captain and her Captain.md",
     "Templates/Weekly Template.md",
-    "Untitled.md",
     "Daily/2026-01-01.md",
     "Weekly",
     "Daily/2026-01-01 0517.md",
     "Daily/2020-07-05 1.md",
-    "Daily/2026-01-03.md",
     "Daily/2025-09-05 1.md",
     "Daily/2026-01-02.md",
-    "Current Fanfiction.md",
     "Thoughts for 1-2-26.md",
     "Files moved to new System.md",
-    "Vault 2.0.md",
-    "Lucie Oertel.md",
-    "Mike.md",
     "Attachments/image 39.jpg",
     "reading.base",
     "Untitled 1.base",
