@@ -3,7 +3,7 @@ categories:
   - "[[Books]]"
 author:
   - "[[Tamsyn Muir]]"
-cover:
+cover: http://books.google.com/books/content?id=HHJwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 genre:
   - fiction
 pages: 374
@@ -13,7 +13,7 @@ year: 2019
 rating: 6
 topics: []
 created: 2024-06-23T22:00:00
-last:
+last: 2024-06-30
 via: ""
 tags:
   - read
