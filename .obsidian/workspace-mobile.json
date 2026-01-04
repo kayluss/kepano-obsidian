@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly/2025-12-28 2026-01-03 0752 W1.md",
+                "file": "Task master list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-12-28 2026-01-03 0752 W1"
+              "title": "Task master list"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Fanfiction.md",
+                "file": "Schedule 2026-01-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Current Fanfiction"
-            }
-          },
-          {
-            "id": "57615e40b649ab93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pap’s potential family tree.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pap’s potential family tree"
+              "title": "Schedule 2026-01-04"
             }
           }
         ],
@@ -145,7 +121,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -225,16 +201,19 @@
   },
   "active": "65bedfea69932a29",
   "lastOpenFiles": [
+    "2026-W02.md",
+    "Schedule 2026-01-04.md",
+    "Pap’s potential family tree.md",
     "Task master list.md",
+    "Weekly/2025-12-28 2026-01-03 0752 W1.md",
+    "Daily/2026-01-04.md",
+    "Current Fanfiction.md",
     "2026-01-03 schedule.md",
     "Mam.md",
-    "Weekly/2025-12-28 2026-01-03 0752 W1.md",
-    "Current Fanfiction.md",
     "Hegemony.md",
     "The Cradle of the Mother, the Cradle of Death.md",
     "Daily/2026-01-03.md",
     "Vault 2.0.md",
-    "Pap’s potential family tree.md",
     "Harold Walter McCoy.md",
     "Ruth  McCoy.md",
     "Vivanne Owens.md",
@@ -252,9 +231,6 @@
     "Weekly",
     "Daily/2026-01-01 0517.md",
     "Daily/2020-07-05 1.md",
-    "Daily/2025-09-05 1.md",
-    "Daily/2026-01-02.md",
-    "Thoughts for 1-2-26.md",
     "Attachments/image 39.jpg",
     "reading.base",
     "Untitled 1.base",
