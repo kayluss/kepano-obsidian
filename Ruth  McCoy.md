@@ -3,7 +3,7 @@ categories:
   - "[[People]]"
 birthday: 1912-10-03
 org: []
-created: 2026-01-03T09:17:00
+created: 2020-07-05T09:17:00
 died: 2002-12-21
 tags:
   - categories
