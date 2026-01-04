@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task master list.md",
+                "file": "Current Fanfiction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Task master list"
+              "title": "Current Fanfiction"
             }
           },
           {
@@ -145,7 +145,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -225,8 +225,8 @@
   },
   "active": "65bedfea69932a29",
   "lastOpenFiles": [
-    "2026-01-03 schedule.md",
     "Task master list.md",
+    "2026-01-03 schedule.md",
     "Mam.md",
     "Weekly/2025-12-28 2026-01-03 0752 W1.md",
     "Current Fanfiction.md",
