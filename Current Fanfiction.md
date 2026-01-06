@@ -6,19 +6,14 @@ tags:
 ---
 ![[reading.base]]
 
-### Works in Progress
-### La'Una
- [La'Una](https://archiveofourown.org/tags/La'an%20Noonien-Singh%20*a*%20Number%20One%20%7C%20Una%20Chin-Riley/works)
- [La'Una](https://archiveofourown.org/tags/La'an%20Noonien-Singh%20*a*%20Number%20One%20%7C%20Una%20Chin-Riley/works)
-Hegemony https://archiveofourown.org/works/50556706
+
+
 
 ### J7
 
 [The Captain and her Captain - Chapter 1 - ncruuk - Star Trek: Voyager [Archive of Our Own]](https://archiveofourown.org/works/50443162/chapters/127454050)
 
 ### Talder
-- https://archiveofourown.org/works/46808518/chapters/119488858#workskin -  The Cradle of the Mother, the Cradle of Death
-- https://archiveofourown.org/works/33735043 - Love is the Master
 - https://archiveofourown.org/works/37419442 - Beautiful destruction at the Hands of The moon and sun
 - https://archiveofourown.org/works/52658803 - Where this leaves us
 -  [Of Blood and Cinders](https://archiveofourown.org/works/53866576)
