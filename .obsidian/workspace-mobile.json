@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-08-20.md",
+                "file": "Schedule 2025-08-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-08-20"
+              "title": "Schedule 2025-08-20"
+            }
+          },
+          {
+            "id": "8e07ba2d266b90ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-07-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-13"
+            }
+          },
+          {
+            "id": "a60de899f4b9133c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2025-08-20.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2025-08-20"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,8 +271,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8844ef1778629041",
+  "active": "a60de899f4b9133c",
   "lastOpenFiles": [
+    "Schedule 2025-07-23.md",
+    "Schedule 2025-05-31.md",
+    "Lens Mount ID Site.md",
+    "2025-05-31.md",
+    "Daily/2025-07-13.md",
+    "Schedule 2025-08-20.md",
+    "Daily/2025-08-20.md",
     "Schedule 25-12-08.md",
     "Daily/2025-12-08.md",
     "Schedule 2021-12-18.md",
@@ -232,8 +287,6 @@
     "Daily/2025-10-14.md",
     "Schedule 2025-09-17.md",
     "Daily/2025-09-17.md",
-    "Schedule 2025-08-20.md",
-    "Daily/2025-08-20.md",
     "Albums.md",
     "Menstrating.md",
     "Untitled 2.base",
@@ -249,12 +302,7 @@
     "Schedule 2025-04-21.md",
     "Schedule 2025-03-01.md",
     "Schedule 2024-06-23.md",
-    "Grocery list 2024-06-23.md",
-    "Property Taxes 2025.md",
-    "Weekly/2026-W02.md",
     "Life board.canvas",
-    "References/Amazon Bill.md",
-    "Amazon December 2025.md",
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE 1.png",
