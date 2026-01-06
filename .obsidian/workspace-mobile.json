@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 books bought today.md",
+                "file": "Spectrum 2026-01-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 books bought today"
+              "title": "Spectrum 2026-01-05"
             }
           },
           {
@@ -39,17 +39,16 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": 68.29217223030605,
-                  "y": -832.6534861059638,
-                  "zoom": -1.5
+                  "x": -840.0980770520009,
+                  "y": -607.9314298122788,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Life board"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,13 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65bedfea69932a29",
+  "active": "c13454cb0d297aab",
   "lastOpenFiles": [
-    "Thoughts on adding last read and To watch to weekly note.md",
+    "Jan 2026 Amazon.md",
+    "Spectrum 2026-01-05.md",
+    "Jan 2026 Discover.md",
+    "2 books bought today.md",
     "Life board.canvas",
+    "Thoughts on adding last read and To watch to weekly note.md",
     "Groceries 11-6-25.md",
     "Shit sleep 2025-12-27.md",
-    "2 books bought today.md",
     "Nov 2025 Paypal.md",
     "Discord as an Inbox.md",
     "Photo walk 2025-12-24.md",
@@ -218,9 +220,6 @@
     "Love is the Master.md",
     "Daily/2020-07-05.md",
     "Period Poverty.md",
-    "Clippings/Period poverty why it should be everybody’s business  Published in Journal of Global Health Reports.md",
-    "Why is it not acceptable for Women to isolate during menses without socioeconomic consequences.md",
-    "References/Steph Ango.md",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE 1.png",
     "Attachments/IMG_3401.jpeg",
