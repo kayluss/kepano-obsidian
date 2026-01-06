@@ -5,6 +5,9 @@ views:
       and:
         - file.hasLink("Amazon Bill")
         - '!file.hasLink("Bills MOC")'
+    order:
+      - file.name
+      - created
     sort:
-      - property: file.mtime
+      - property: created
         direction: DESC

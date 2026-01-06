@@ -11,9 +11,26 @@
             "id": "c13454cb0d297aab",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Life board.canvas",
+                "viewState": {
+                  "x": -102.90706506870833,
+                  "y": -442.9318390216009,
+                  "zoom": -0.2961098750965309
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Life board"
+            }
+          },
+          {
+            "id": "20dff3566f1811c9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Jan 2026 Discover.md",
+                "file": "Property Taxes 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +45,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jan 2026 Discover"
+              "title": "Property Taxes 2025"
             }
           },
           {
@@ -193,12 +210,20 @@
   },
   "active": "c13454cb0d297aab",
   "lastOpenFiles": [
+    "References/Amazon Bill.md",
+    "Amazon December 2025.md",
+    "Amazon Payment.md",
+    "Amazon Payment Made.md",
+    "Life board.canvas",
+    "Task master list.md",
+    "Weekly/2026-W02.md",
+    "Daily/2026-01-05.md",
+    "Property Taxes 2025.md",
+    "Jan 2026 Discover.md",
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
     "Jan 2026 Amazon.md",
     "Spectrum 2026-01-05.md",
-    "Jan 2026 Discover.md",
     "2 books bought today.md",
-    "Life board.canvas",
     "Thoughts on adding last read and To watch to weekly note.md",
     "Groceries 11-6-25.md",
     "Shit sleep 2025-12-27.md",
@@ -211,15 +236,8 @@
     "Should I use weekly notes.md",
     "NoMa technique.md",
     "2025-11-11 1655 Health Concerns.md",
-    "Daily/2026-01-05.md",
     "Schedule 2020-07-05.md",
     "Love Is the Master.md",
-    "Current Fanfiction.md",
-    "Background of Pakiras.md",
-    "Weekly/2026-W02.md",
-    "References/Car Insurance ID Cards.md",
-    "Love is the Master.md",
-    "Daily/2020-07-05.md",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE 1.png",
     "Attachments/IMG_3401.jpeg",
@@ -238,7 +256,6 @@
     "Attachments/Pasted image 20251230092812.png",
     "Attachments/Pasted image 20251230052808.jpg",
     "Attachments/cachedMedia 1.png",
-    "Attachments/cachedMedia.png",
-    "Attachments/imgs2Fapp2FKaylus2FmWmO5YikNj.png"
+    "Attachments/cachedMedia.png"
   ]
 }
