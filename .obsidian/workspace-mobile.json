@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "ecfb1c440763661b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 25-12-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 25-12-08"
-            }
-          },
-          {
             "id": "07eacc83a49b4d43",
             "type": "leaf",
             "state": {
@@ -223,16 +199,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecfb1c440763661b",
+  "active": "07eacc83a49b4d43",
   "lastOpenFiles": [
-    "Daily/2025-12-08.md",
     "Schedule 25-12-08.md",
+    "Albums.md",
+    "Schedule 2025-09-17.md",
+    "Schedule 25-10-14.md",
+    "2025-09-17.md",
+    "2025-10-14.md",
+    "Daily/2025-12-08.md",
     "Menstrating.md",
     "Untitled 2.base",
-    "Untitled.md",
     "Untitled.base",
     "Untitled 1.base",
-    "Albums.md",
     "Daily/2026-01-06.md",
     "Schedule 2026-01-06.md",
     "Untitled 1.md",
@@ -252,9 +231,6 @@
     "Amazon December 2025.md",
     "Amazon Payment.md",
     "Amazon Payment Made.md",
-    "Task master list.md",
-    "Daily/2026-01-05.md",
-    "Jan 2026 Discover.md",
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE 1.png",
