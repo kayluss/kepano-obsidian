@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-23 Journal.md",
+                "file": "2 books bought today.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,64 +28,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2024-06-23 Journal"
+              "title": "2 books bought today"
             }
           },
           {
             "id": "65bedfea69932a29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Schedule 2020-07-05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Life board.canvas",
+                "viewState": {
+                  "x": 68.29217223030605,
+                  "y": -832.6534861059638,
+                  "zoom": -1.5
                 }
               },
-              "icon": "lucide-file",
-              "title": "Schedule 2020-07-05"
+              "icon": "lucide-layout-dashboard",
+              "title": "Life board"
             }
           }
-        ]
-      },
-      {
-        "id": "c5c0a18fc05039a0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1955911723c49856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Love Is the Master.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Love Is the Master"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,34 +192,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1955911723c49856",
+  "active": "65bedfea69932a29",
   "lastOpenFiles": [
+    "Thoughts on adding last read and To watch to weekly note.md",
+    "Life board.canvas",
+    "Groceries 11-6-25.md",
+    "Shit sleep 2025-12-27.md",
+    "2 books bought today.md",
+    "Nov 2025 Paypal.md",
+    "Discord as an Inbox.md",
+    "Photo walk 2025-12-24.md",
+    "2026-01-05 Schedule.md",
+    "2025-03-01 Schedule.md",
+    "Tired working leads to mistakes.md",
+    "Should I use weekly notes.md",
+    "NoMa technique.md",
+    "2025-11-11 1655 Health Concerns.md",
+    "Daily/2026-01-05.md",
+    "Schedule 2020-07-05.md",
+    "Love Is the Master.md",
     "Current Fanfiction.md",
-    "2024-06-23 Journal.md",
     "Background of Pakiras.md",
     "Weekly/2026-W02.md",
     "References/Car Insurance ID Cards.md",
-    "Daily/2026-01-05.md",
     "Love is the Master.md",
     "Daily/2020-07-05.md",
     "Period Poverty.md",
     "Clippings/Period poverty why it should be everybody’s business  Published in Journal of Global Health Reports.md",
     "Why is it not acceptable for Women to isolate during menses without socioeconomic consequences.md",
     "References/Steph Ango.md",
-    "Notes/2023-09-12 Meeting with Steph.md",
-    "Schedule 2026-01-04.md",
-    "Daily/2026-01-04.md",
-    "Thought 2026-01-04.md",
-    "The Captain and her Captain.md",
-    "Menstrating.md",
-    "Task master list.md",
-    "2025 review.md",
-    "9 of Swords.md",
-    "Daily/2020-07-05 1.md",
-    "There's no getting there. We are already there.md",
-    "Ruth  McCoy.md",
-    "Marge Koons.md",
-    "Schedule 2020-07-05.md",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE 1.png",
     "Attachments/IMG_3401.jpeg",
@@ -275,7 +240,6 @@
     "Attachments/Pasted image 20251230052808.jpg",
     "Attachments/cachedMedia 1.png",
     "Attachments/cachedMedia.png",
-    "Untitled.canvas",
     "Attachments/imgs2Fapp2FKaylus2FmWmO5YikNj.png"
   ]
 }

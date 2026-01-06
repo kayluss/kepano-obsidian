@@ -1,6 +1,6 @@
 ---
 categories:
-  - "[[Groceries]]"
+  - "[[References/Groceries]]"
 status:
 ---
 Properties

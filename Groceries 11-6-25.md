@@ -4,12 +4,11 @@ tags:
   - note
   - journal
 categories:
-  - "[[Groceries]]"
+  - "[[References/Groceries]]"
 status:
   - " Done"
 ---
-Properties
-	
+
 Bananas
 Strawberries
 Grapes

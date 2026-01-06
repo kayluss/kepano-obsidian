@@ -1,5 +1,5 @@
 ---
-created:
+created: 2024-06-23T18:03:00
 tags:
   - note
   - journal

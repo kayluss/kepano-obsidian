@@ -15,7 +15,7 @@ year: 2021
 rating:
 topics:
   - Talder
-Last read:
+Last read: 2026-01-05
 via: ""
 tags:
   - to-read

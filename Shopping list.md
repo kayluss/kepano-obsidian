@@ -4,7 +4,7 @@ tags:
   - note
   - journal
 categories:
-  - "[[Groceries]]"
+  - "[[References/Groceries]]"
 status:
   - " Done"
 Out of Stock Items: Yes
