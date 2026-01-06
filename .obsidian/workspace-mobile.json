@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Albums.md",
+                "file": "Daily/2025-10-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Albums"
+              "title": "2025-10-14"
+            }
+          },
+          {
+            "id": "8844ef1778629041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-08-20.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-20"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,15 +223,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07eacc83a49b4d43",
+  "active": "8844ef1778629041",
   "lastOpenFiles": [
     "Schedule 25-12-08.md",
-    "Albums.md",
-    "Schedule 2025-09-17.md",
-    "Schedule 25-10-14.md",
-    "2025-09-17.md",
-    "2025-10-14.md",
     "Daily/2025-12-08.md",
+    "Schedule 2021-12-18.md",
+    "Schedule 25-10-14.md",
+    "Daily/2025-10-14.md",
+    "Schedule 2025-09-17.md",
+    "Daily/2025-09-17.md",
+    "Schedule 2025-08-20.md",
+    "Daily/2025-08-20.md",
+    "Albums.md",
     "Menstrating.md",
     "Untitled 2.base",
     "Untitled.base",
@@ -222,15 +249,12 @@
     "Schedule 2025-04-21.md",
     "Schedule 2025-03-01.md",
     "Schedule 2024-06-23.md",
-    "Schedule 2021-12-18.md",
     "Grocery list 2024-06-23.md",
     "Property Taxes 2025.md",
     "Weekly/2026-W02.md",
     "Life board.canvas",
     "References/Amazon Bill.md",
     "Amazon December 2025.md",
-    "Amazon Payment.md",
-    "Amazon Payment Made.md",
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE 1.png",
