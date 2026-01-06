@@ -5,3 +5,6 @@ tags:
   - journal
 bill: "[[Amazon Bill]]"
 ---
+amazon - ROYAL CREDIT UNION ,  rc,  Checking (...4456) on 01/05/2026.
+
+Confirmation #: 3278217825

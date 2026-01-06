@@ -5,3 +5,4 @@ tags:
   - journal
 bill: "[[Discover]]"
 ---
+![[48594DCE-786C-4442-917E-15273A6FA157.jpeg]]
