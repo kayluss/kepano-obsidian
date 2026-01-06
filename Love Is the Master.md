@@ -15,9 +15,10 @@ year: 2021
 rating:
 topics:
   - Talder
-Last read: 2026-01-05
+Last read: 2026-01-06
 via: ""
 tags:
   - to-read
 ---
-Rereading from Chapter 1
+Rereading from Chapter 1.
+Last read Chapter 30
