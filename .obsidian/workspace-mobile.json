@@ -32,60 +32,12 @@
             }
           },
           {
-            "id": "07eacc83a49b4d43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-10-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-10-14"
-            }
-          },
-          {
-            "id": "8844ef1778629041",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2025-07-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-21"
-            }
-          },
-          {
             "id": "8594052e836152d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-07-23.md",
+                "file": "Daily/2025-07-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -101,6 +53,54 @@
               },
               "icon": "lucide-file",
               "title": "2025-07-23"
+            }
+          },
+          {
+            "id": "c18a7bd20cdd9fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-03-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-10"
+            }
+          },
+          {
+            "id": "e706f6752c18aeb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2025-04-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2025-04-08"
             }
           },
           {
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,10 +281,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8594052e836152d1",
+  "active": "c18a7bd20cdd9fc7",
   "lastOpenFiles": [
+    "Schedule 2025-03-10.md",
+    "Shopping list 2520-03-10.md",
+    "2025-03-10.md",
+    "Daily/2025-07-23.md",
     "Daily/2025-07-21.md",
-    "2025-07-23.md",
+    "Daily/2025-10-14.md",
+    "Schedule 2025-04-08.md",
+    "2025-04-08.md",
     "Schedule 2025-08-20.md",
     "2025-02-12.md",
     "Print store link.md",
@@ -299,7 +305,6 @@
     "Daily/2025-12-08.md",
     "Schedule 2021-12-18.md",
     "Schedule 25-10-14.md",
-    "Daily/2025-10-14.md",
     "Schedule 2025-09-17.md",
     "Daily/2025-09-17.md",
     "Albums.md",
@@ -307,11 +312,6 @@
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
-    "Daily/2026-01-06.md",
-    "Schedule 2026-01-06.md",
-    "Untitled 1.md",
-    "Beautiful destruction at the Hands of The moon and sun.md",
-    "Current Fanfiction.md",
     "Life board.canvas",
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
