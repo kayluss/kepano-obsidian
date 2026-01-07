@@ -12,7 +12,7 @@ pages:
 isbn:
 isbn13:
 year: 2021
-rating:
+rating: 6
 topics:
   - Talder
 Last read: 2026-01-06

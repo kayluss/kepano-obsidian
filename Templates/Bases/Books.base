@@ -14,6 +14,9 @@ properties:
 views:
   - type: table
     name: Books
+    filters:
+      and:
+        - file.hasLink("Books")
     order:
       - file.name
       - author
@@ -50,8 +53,10 @@ views:
     name: Genre
     filters:
       and:
-        - list(genre).contains(this)
+        - list(genre).contains(fanfiction)
     order:
       - file.name
       - year
       - genre
+  - type: table
+    name: Fanfiction
