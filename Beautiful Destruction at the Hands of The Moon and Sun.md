@@ -15,8 +15,9 @@ year:
 rating:
 topics:
   - Talder
-Last read:
+Last read: 2026-01-06
 via: ""
 tags:
   - to-read
 ---
+Caught up to chapter 8
