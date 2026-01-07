@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Books"
-            }
-          },
-          {
-            "id": "8594052e836152d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Current Fanfiction.md",
                 "mode": "source",
                 "source": false,
@@ -54,9 +30,87 @@
               "icon": "lucide-file",
               "title": "Current Fanfiction"
             }
+          },
+          {
+            "id": "8594052e836152d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random thoughts 2026-01-07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Random thoughts 2026-01-07"
+            }
+          },
+          {
+            "id": "27858285bc16d74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Books"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "dcf376b92fa90e91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149cc2cb107068a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly/2026-W02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-W02"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +125,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -199,15 +253,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8594052e836152d1",
+  "active": "27858285bc16d74e",
   "lastOpenFiles": [
+    "Templates/Fanfiction.md",
     "Books.md",
-    "Beautiful Destruction at the Hands of The Moon and Sun.md",
-    "The Cradle of the Mother, the Cradle of Death.md",
-    "Weekly/2026-W02.md",
+    "Beautiful destruction at the Hands of The moon and sun.md",
+    "The Subtle Threads of Souls.md",
     "Current Fanfiction.md",
-    "Daily/2025-07-23.md",
+    "Of Blood and Cinders.md",
+    "The Cradle of the Mother, the Cradle of Death.md",
+    "Where This Leaves Us.md",
+    "Weekly/2026-W02.md",
     "Love Is the Master.md",
+    "Beautiful Destruction at the Hands of The Moon and Sun.md",
+    "Templates/Book Template.md",
+    "Random thoughts 2026-01-07.md",
+    "Daily/2026-01-07.md",
+    "Prody.md",
+    "Schedule 2026-01-07.md",
+    "Daily/2025-07-23.md",
     "Daily/2026-01-06.md",
     "2025-03-10.md",
     "Schedule 2023-01-03.md",
@@ -217,16 +281,6 @@
     "Schedule 2025-03-10.md",
     "Shopping list 2520-03-10.md",
     "Daily/2025-07-21.md",
-    "Daily/2025-10-14.md",
-    "2025-04-08.md",
-    "Schedule 2025-08-20.md",
-    "2025-02-12.md",
-    "Print store link.md",
-    "Schedule 2025-07-23.md",
-    "Daily/2025-07-13.md",
-    "Schedule 2025-05-31.md",
-    "Lens Mount ID Site.md",
-    "2025-05-31.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",

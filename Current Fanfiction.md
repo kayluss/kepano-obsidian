@@ -9,13 +9,7 @@ tags:
 
 
 
-### J7
-
-[The Captain and her Captain - Chapter 1 - ncruuk - Star Trek: Voyager [Archive of Our Own]](https://archiveofourown.org/works/50443162/chapters/127454050)
-
 ### Talder
-- https://archiveofourown.org/works/37419442 - Beautiful destruction at the Hands of The moon and sun
-- https://archiveofourown.org/works/52658803 - Where this leaves us
 -  [Of Blood and Cinders](https://archiveofourown.org/works/53866576)
 -  [The Subtle Threads of Souls](https://archiveofourown.org/works/52213033)
 -  [Don't bleed out (it's not the time)](https://archiveofourown.org/works/53089252)

@@ -17,6 +17,8 @@ views:
     filters:
       and:
         - file.hasLink("Books")
+        - not:
+            - file.inFolder("Templates")
     order:
       - file.name
       - author

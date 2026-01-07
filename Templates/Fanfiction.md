@@ -1,0 +1,16 @@
+---
+categories:
+  - "[[Books]]"
+author:
+url:
+genre:
+year:
+rating:
+topics:
+created:
+Last read:
+last updated:
+via:
+tags:
+  - to-read
+---

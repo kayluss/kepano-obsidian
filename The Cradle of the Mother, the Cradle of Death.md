@@ -21,5 +21,6 @@ rating: 7
 topics:
   - Talder
 via: ao3
+last updated: 2025-08-21
 ---
 Current up to Chapter 19 

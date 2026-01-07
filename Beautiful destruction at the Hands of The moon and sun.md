@@ -1,22 +1,26 @@
 ---
-created: 2026-01-06
+created: 2026-01-01
 tags:
   - to-read
 categories:
   - "[[Books]]"
+  - "[[Current Fanfiction]]"
 author:
   - AlexandraUdinov144
-cover:
 genre:
   - Fanfiction
 pages:
-isbn:
-isbn13:
+status:
+  - "[[Active]]"
 year: 2022
-rating:
+rating: 5
 topics:
   - Talder
 last: 2026-01-06
-via: ""
+via: ao3
+url: https://archiveofourown.org/works/37419442
+Last read: 2026-01-06
 ---
 Rereading 
+
+Caught up to chapter 8
