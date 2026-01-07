@@ -79,8 +79,7 @@
               "title": "Books"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "dcf376b92fa90e91",
@@ -253,10 +252,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27858285bc16d74e",
+  "active": "c13454cb0d297aab",
   "lastOpenFiles": [
-    "Templates/Fanfiction.md",
     "Books.md",
+    "Templates/Fanfiction.md",
     "Beautiful destruction at the Hands of The moon and sun.md",
     "The Subtle Threads of Souls.md",
     "Current Fanfiction.md",
