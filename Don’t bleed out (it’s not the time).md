@@ -1,5 +1,5 @@
 ---
-created: 2026-01-07T09:35:00
+created: 2026-01-07T10:00:00
 tags:
   - note
   - journal
@@ -8,8 +8,8 @@ categories:
   - "[[Books]]"
   - "[[Current Fanfiction]]"
 author:
-  - Thismellowmango
-url: https://archiveofourown.org/works/53866576/chapters/136342012
+  - lirt
+url: https://archiveofourown.org/works/53089252/chapters/134320798
 genre:
   - Fanfiction
 year: 2024
@@ -17,6 +17,8 @@ rating:
 topics:
   - Talder
 Last read:
-last updated: 2024-02-17
+last updated: 2024-06-02
 via: ao3
+status:
+  - " Done"
 ---

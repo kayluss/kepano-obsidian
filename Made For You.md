@@ -1,5 +1,5 @@
 ---
-created: 2026-01-07T09:39:00
+created: 2026-01-07T10:14:00
 tags:
   - note
   - journal
@@ -8,17 +8,17 @@ categories:
   - "[[Books]]"
   - "[[Current Fanfiction]]"
 author:
-  - EmilyWritesStuff
-url: https://archiveofourown.org/works/52213033/chapters/132071593
+  - MightyDamsel
+url: https://archiveofourown.org/works/51066994/chapters/129022336
 genre:
   - Fanfiction
 year: 2023
-rating: 6
+rating:
 topics:
   - Talder
 Last read: 2026-01-07
-last updated: 2024-04-20
+last updated: 2025-12-31
 via: ao3
 status:
-  - " Done"
+  - "[[Active]]"
 ---

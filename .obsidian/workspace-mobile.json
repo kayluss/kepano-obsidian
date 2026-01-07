@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Fanfiction.md",
+                "file": "Love is the Master.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Current Fanfiction"
+              "title": "Love is the Master"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books.md",
+                "file": "Daily/2026-01-07.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,37 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Books"
-            }
-          }
-        ]
-      },
-      {
-        "id": "dcf376b92fa90e91",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "149cc2cb107068a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly/2026-W02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-W02"
+              "title": "2026-01-07"
             }
           }
         ]
@@ -254,32 +224,32 @@
   },
   "active": "c13454cb0d297aab",
   "lastOpenFiles": [
-    "Books.md",
+    "Daily/2026-01-07.md",
     "Templates/Fanfiction.md",
-    "Beautiful destruction at the Hands of The moon and sun.md",
-    "The Subtle Threads of Souls.md",
+    "Love is the Master.md",
     "Current Fanfiction.md",
-    "Of Blood and Cinders.md",
-    "The Cradle of the Mother, the Cradle of Death.md",
     "Where This Leaves Us.md",
+    "The Subtle Threads of Souls.md",
+    "Of Blood and Cinders.md",
+    "Made For You.md",
+    "In The Shadow of Your Heart.md",
+    "Don’t bleed out (it’s not the time).md",
+    "A Tale of Frost and Embers.md",
+    "Books.md",
+    "Hegemony.md",
+    "Untitled.md",
+    "Random thoughts 2026-01-07.md",
+    "Vault 2.0.md",
+    "Beautiful destruction at the Hands of The moon and sun.md",
+    "The Cradle of the Mother, the Cradle of Death.md",
     "Weekly/2026-W02.md",
     "Love Is the Master.md",
     "Beautiful Destruction at the Hands of The Moon and Sun.md",
     "Templates/Book Template.md",
-    "Random thoughts 2026-01-07.md",
-    "Daily/2026-01-07.md",
     "Prody.md",
     "Schedule 2026-01-07.md",
     "Daily/2025-07-23.md",
     "Daily/2026-01-06.md",
-    "2025-03-10.md",
-    "Schedule 2023-01-03.md",
-    "Schedule 2025-04-08.md",
-    "Schedule 2025-02-12.md",
-    "2023-01-03.md",
-    "Schedule 2025-03-10.md",
-    "Shopping list 2520-03-10.md",
-    "Daily/2025-07-21.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",

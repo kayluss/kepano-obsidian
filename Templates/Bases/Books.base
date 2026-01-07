@@ -27,6 +27,7 @@ views:
       - rating
       - topics
       - last
+      - status
     sort:
       - property: file.name
         direction: ASC

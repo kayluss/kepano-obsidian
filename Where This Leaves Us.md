@@ -6,16 +6,19 @@ tags:
   - to-read
 categories:
   - "[[Books]]"
+  - "[[Current Fanfiction]]"
 author:
   - lesbiancyberpirate
 url: https://archiveofourown.org/works/52658803/chapters/133198501
 genre:
   - Fanfiction
 year: 2023
-rating:
+rating: 1
 topics:
   - Talder
 Last read: 2026-01-07
 last updated: 2023-12-30
-via:
+via: ao3
+status:
+  - "[[Active]]"
 ---

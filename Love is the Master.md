@@ -12,16 +12,16 @@ author:
 cover:
 genre:
   - Fanfiction
-pages:
-isbn:
-isbn13:
 year: 2021
 rating: 6
 topics:
   - Talder
 Last read: 2026-01-06
+last updated: 2025-11-23
 via: ""
 url: https://archiveofourown.org/works/33735043
+status:
+  - "[[Active]]"
 ---
 Rereading from Chapter 1.
 Last read Chapter 30

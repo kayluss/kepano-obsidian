@@ -1,6 +1,7 @@
 ---
 categories:
   - "[[Books]]"
+  - "[[Current Fanfiction]]"
 author:
 url:
 genre:
@@ -13,4 +14,5 @@ last updated:
 via:
 tags:
   - to-read
+status:
 ---

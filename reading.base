@@ -9,6 +9,7 @@ views:
       - Last read
       - rating
       - topics
+      - status
     sort:
       - property: Last read
         direction: DESC

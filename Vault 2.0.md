@@ -15,8 +15,11 @@ Converted notes from archived vault system to this vault’s system
 ### Questions
 	should I use [[weekly notes]] - answered Yes I will use weekly notes for to do list Not associated with individual projects
 
-# To Do
+# Priority To Do
 	- [ ] Conver [[Current Fanfiction]] into a category and create notes for links listed. Next- where this leaves us. 
+	- [ ] Migrate MOC files over
+	- [ ] Migrate Menstruation tracker
+	- [ ] Migrate Bills
 # Troubleshoot solutions
 	Bases for categories 
 		Problem: filtering for bills need to exclude the MOC. Had to insert a property on the MOC file that linked to itself and then create a filter where file does not link to. 
