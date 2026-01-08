@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-01.md",
+                "file": "References/Obsidian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2024-07-01"
+              "title": "Obsidian"
+            }
+          },
+          {
+            "id": "66dc1bca89bd84c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2024-06-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2024-06-03"
             }
           },
           {
@@ -126,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Darkness inside of me"
             }
+          },
+          {
+            "id": "a68df3c59de812e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -271,34 +319,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "676e7ad0081c11b4",
+  "active": "a68df3c59de812e4",
   "lastOpenFiles": [
+    "Schedule 2024-06-03.md",
+    "Untitled 1.md",
+    "Daily/2024-06-03.md",
+    "References/Obsidian.md",
+    "Zotero.md",
     "Schedule 2024-07-01.md",
+    "Daily/2024-07-01.md",
     "Thoughts 2024-07-01.md",
     "Darkness inside of me.md",
-    "2024-07-31.md",
+    "Daily/2024-07-31.md",
     "Morning Writing 2020-07-16.md",
     "To read 2024-07-01.md",
-    "2024-07-01.md",
     "Schedule for 2026-01-08.md",
     "Daily/2026-01-08.md",
     "Random thoughts 2026-01-07.md",
     "Schedule 2020-07-16.md",
-    "2020-07-16.md",
+    "Daily/2020-07-16.md",
     "Schedule 2024-08-26.md",
     "Schedule 2024-07-31.md",
     "2026-01-08 0949.md",
     "2026-01-08 0940.md",
-    "2024-08-26.md",
+    "Daily/2024-08-26.md",
     "Menstrating.md",
     "Schedule 2024-12-18.md",
     "What’s Wrong With Emma Swan.md",
     "2024-10-18 Passports Update- Fort.md",
-    "Schedule 2024-10-18.md",
-    "Daily/2024-10-18.md",
-    "Daily/2024-11-18.md",
-    "01-14-25 schedule.md",
-    "Schedule 2024-12-15.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
