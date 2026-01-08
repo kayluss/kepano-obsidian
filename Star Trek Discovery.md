@@ -6,6 +6,6 @@ genre:
 year: 2020
 cast: []
 rating: 8
-created: 2026-01-08
-last: 2026-01-08
+created: 2020-01-06T00:00:00
+last:
 ---
