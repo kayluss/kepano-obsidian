@@ -8,150 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c13454cb0d297aab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Love is the Master.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Love is the Master"
-            }
-          },
-          {
-            "id": "8594052e836152d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule for 2026-01-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule for 2026-01-08"
-            }
-          },
-          {
-            "id": "676e7ad0081c11b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/Obsidian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian"
-            }
-          },
-          {
-            "id": "66dc1bca89bd84c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2024-06-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2024-06-03"
-            }
-          },
-          {
-            "id": "389ea3199a1715e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Menstrating.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Menstrating"
-            }
-          },
-          {
-            "id": "26c85b07357a5e68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Darkness inside of me.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Darkness inside of me"
-            }
-          },
-          {
             "id": "a68df3c59de812e4",
             "type": "leaf",
             "state": {
@@ -198,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Schedule 2024-04-10"
             }
+          },
+          {
+            "id": "88e639cb36dfc088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2024-03-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2024-03-13"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -343,34 +223,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8908aef635de70dd",
+  "active": "88e639cb36dfc088",
   "lastOpenFiles": [
-    "2024-04-10.md",
-    "Schedule 2024-04-10.md",
+    "2024-03-13.md",
+    "Schedule 2024-03-13.md",
+    "Heartstone 10th Anniversary.md",
     "Schedule 2024-05-06.md",
-    "2024-05-06.md",
-    "Schedule 2024-06-03.md",
-    "Daily/2024-06-03.md",
+    "Darkness inside of me.md",
+    "Love is the Master.md",
+    "Schedule for 2026-01-08.md",
     "References/Obsidian.md",
+    "Menstrating.md",
+    "Schedule 2024-06-03.md",
+    "Schedule 2024-04-10.md",
+    "2024-04-10.md",
+    "2024-05-06.md",
+    "Daily/2024-06-03.md",
     "Zotero.md",
     "Schedule 2024-07-01.md",
     "Daily/2024-07-01.md",
     "Thoughts 2024-07-01.md",
-    "Darkness inside of me.md",
     "Daily/2024-07-31.md",
     "Morning Writing 2020-07-16.md",
     "To read 2024-07-01.md",
-    "Schedule for 2026-01-08.md",
     "Daily/2026-01-08.md",
     "Random thoughts 2026-01-07.md",
     "Schedule 2020-07-16.md",
     "Daily/2020-07-16.md",
     "Schedule 2024-08-26.md",
-    "Schedule 2024-07-31.md",
-    "2026-01-08 0949.md",
-    "2026-01-08 0940.md",
-    "Daily/2024-08-26.md",
-    "Menstrating.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
