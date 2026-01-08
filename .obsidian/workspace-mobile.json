@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Schedule 2024-03-13"
             }
+          },
+          {
+            "id": "859bead4e00cbc6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schdule 2024-02-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schdule 2024-02-15"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,10 +247,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88e639cb36dfc088",
+  "active": "859bead4e00cbc6c",
   "lastOpenFiles": [
-    "2024-03-13.md",
+    "2024-02-15.md",
+    "Schdule 2024-02-15.md",
     "Schedule 2024-03-13.md",
+    "2024-03-13.md",
     "Heartstone 10th Anniversary.md",
     "Schedule 2024-05-06.md",
     "Darkness inside of me.md",
@@ -249,8 +275,6 @@
     "Daily/2026-01-08.md",
     "Random thoughts 2026-01-07.md",
     "Schedule 2020-07-16.md",
-    "Daily/2020-07-16.md",
-    "Schedule 2024-08-26.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
