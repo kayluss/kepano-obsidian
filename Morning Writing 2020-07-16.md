@@ -1,0 +1,20 @@
+---
+created: 2020-07-16T09:55:00
+tags:
+  - note
+  - journal
+---
+- 07:28
+
+- [[Morning Writing]]
+    - [[What am I grateful for?]]
+        - I am grateful for the ability to be able to be sick and not have to go to work
+    - [[What do I want today's highlight to be?]]
+        - to enjoy the quiet morning
+    - [[Daily Affirmation]]
+        - I am ok as I am
+    - [[What am I thinking of?]]
+        - I am very fatigued, I notice sone spotting last night. I called out of work today and now I am glad. I can feel my body preparing to menstruate.
+        - I should get a reading to seek clarity on what would suit me better in terms of fulfillment. 
+- Started Menstruating
+    - [[Moon Phase]]: WANING CRESCENT (20.88% full)
