@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Menstrating"
             }
+          },
+          {
+            "id": "20da6c8d48bd2a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2024-08-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2024-08-26"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,16 +247,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "389ea3199a1715e7",
+  "active": "20da6c8d48bd2a79",
   "lastOpenFiles": [
-    "Schedule for 2026-01-08.md",
+    "2026-01-08 0940.md",
+    "Schedule 2024-08-26.md",
+    "2024-08-26.md",
     "Menstrating.md",
+    "Schedule for 2026-01-08.md",
     "Schedule 2024-12-18.md",
     "What’s Wrong With Emma Swan.md",
     "2024-10-18 Passports Update- Fort.md",
     "Schedule 2024-10-18.md",
-    "2024-10-18.md",
-    "2024-11-18.md",
+    "Daily/2024-10-18.md",
+    "Daily/2024-11-18.md",
     "01-14-25 schedule.md",
     "Schedule 2024-12-15.md",
     "Daily/2024-12-15.md",
@@ -241,16 +268,13 @@
     "Now solo-able in 11.0.5 patch WoW.md",
     "Deserved.md",
     "Luggage Ideas.md",
-    "2025-01-14.md",
+    "Daily/2025-01-14.md",
     "Daily/2026-01-08.md",
     "The Subtle Threads of Souls.md",
     "Daily/2026-01-07.md",
     "Schedule 2026-01-07.md",
     "Bobo’s Order 389552.md",
     "Random thoughts 2026-01-07.md",
-    "Prody.md",
-    "Weekly/2026-W02.md",
-    "Vault 2.0.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
