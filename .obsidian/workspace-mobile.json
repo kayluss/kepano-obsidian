@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "2022-09-30"
             }
+          },
+          {
+            "id": "3aefe60d9f892b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2020-09-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2020-09-11"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -295,12 +319,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa0f103a51cfa136",
+  "active": "3aefe60d9f892b7e",
   "lastOpenFiles": [
+    "Health thought 2020-09-11.md",
+    "Schedule 2020-09-11.md",
+    "2020-09-11.md",
+    "2022-09-30.md",
     "Wow mount farm for 2022-09-30.md",
     "Groceries 2022-09-30.md",
     "Schdule 2022-09-30.md",
-    "2022-09-30.md",
     "Schdule 2022-09-03.md",
     "2022-09-03.md",
     "Paypal.md",
@@ -320,9 +347,6 @@
     "Menstrating.md",
     "Schedule 2024-06-03.md",
     "Schedule 2024-04-10.md",
-    "2024-04-10.md",
-    "2024-05-06.md",
-    "Daily/2024-06-03.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
