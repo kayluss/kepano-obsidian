@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-08.md",
+                "file": "Where did Runes Come From.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-08"
+              "title": "Where did Runes Come From"
             }
           },
           {
-            "id": "bf5ffcd8ff24e332",
+            "id": "2331390965a2ba9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helrunar- A Manual of Rune Magick.md",
+                "file": "Star Trek Discovery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,31 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Helrunar- A Manual of Rune Magick"
-            }
-          },
-          {
-            "id": "3aefe60d9f892b7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mega Houndoom Unlock event.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mega Houndoom Unlock event"
+              "title": "Star Trek Discovery"
             }
           }
         ],
@@ -271,9 +247,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf5ffcd8ff24e332",
+  "active": "2331390965a2ba9a",
   "lastOpenFiles": [
+    "Where did Runes Come From.md",
+    "Star Trek Discovery.md",
+    "Harigast means guest of the army.md",
     "Daily/2026-01-08.md",
+    "Mega Houndoom Unlock event.md",
     "Helrunar- A Manual of Rune Magick.md",
     "Schdule 2022-09-30.md",
     "4 of Swords.md",
@@ -288,7 +268,6 @@
     "Schedule 2020-09-11.md",
     "2020-09-11.md",
     "2022-09-30.md",
-    "Mega Houndoom Unlock event.md",
     "Schdule 2022-09-03.md",
     "Schedule 2024-05-06.md",
     "Schedule 2024-04-10.md",
@@ -296,9 +275,6 @@
     "Paypal.md",
     "Health thought 2020-09-11.md",
     "Wow mount farm for 2022-09-30.md",
-    "Groceries 2022-09-30.md",
-    "2022-09-03.md",
-    "PayPal 2024-02-15.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
