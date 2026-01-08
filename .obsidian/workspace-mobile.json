@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Schedule for 2026-01-08"
             }
+          },
+          {
+            "id": "4326abe585336f2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-14-25 schedule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01-14-25 schedule"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -223,10 +247,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27858285bc16d74e",
+  "active": "4326abe585336f2b",
   "lastOpenFiles": [
-    "Daily/2026-01-08.md",
+    "Deserved.md",
+    "01-14-25 schedule.md",
+    "Luggage Ideas.md",
+    "2025-01-14.md",
     "Schedule for 2026-01-08.md",
+    "Daily/2026-01-08.md",
     "The Subtle Threads of Souls.md",
     "Daily/2026-01-07.md",
     "Schedule 2026-01-07.md",
@@ -247,10 +275,6 @@
     "A Tale of Frost and Embers.md",
     "Books.md",
     "Hegemony.md",
-    "Untitled.md",
-    "Beautiful destruction at the Hands of The moon and sun.md",
-    "The Cradle of the Mother, the Cradle of Death.md",
-    "Love Is the Master.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
