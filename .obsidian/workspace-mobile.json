@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020-09-11.md",
+                "file": "Schedule 2020-09-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2020-09-11"
+              "title": "Schedule 2020-09-11"
+            }
+          },
+          {
+            "id": "00ec0bd4de710c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-08 1129.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-08 1129"
             }
           },
           {
@@ -37,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-09-30.md",
+                "file": "Schdule 2022-09-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2022-09-30"
+              "title": "Schdule 2022-09-30"
             }
           },
           {
@@ -223,21 +247,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa0f103a51cfa136",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
-    "Mega Houndoom Unlock event.md",
+    "Schedule 2020-09-12.md",
+    "2026-01-08 1129.md",
+    "Raiding PoGo 2020-09-12.md",
+    "Amanda Sees.md",
+    "2020-09-12.md",
+    "Schedule 2020-09-11.md",
     "2020-09-11.md",
+    "Schdule 2022-09-30.md",
+    "2022-09-30.md",
+    "Mega Houndoom Unlock event.md",
     "Schdule 2022-09-03.md",
     "Schedule 2024-05-06.md",
     "Schedule 2024-04-10.md",
     "Schedule 2024-03-13.md",
     "Paypal.md",
-    "Schedule 2020-09-11.md",
     "Health thought 2020-09-11.md",
-    "2022-09-30.md",
     "Wow mount farm for 2022-09-30.md",
     "Groceries 2022-09-30.md",
-    "Schdule 2022-09-30.md",
     "2022-09-03.md",
     "PayPal 2024-02-15.md",
     "2024-02-15.md",
@@ -246,11 +275,6 @@
     "Care Credit 2024-02-15.md",
     "2024-03-13.md",
     "Heartstone 10th Anniversary.md",
-    "Darkness inside of me.md",
-    "Love is the Master.md",
-    "Schedule for 2026-01-08.md",
-    "References/Obsidian.md",
-    "Menstrating.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
