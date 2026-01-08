@@ -13,3 +13,5 @@ tags:
 - Bananas
 - Pick up coffee
 - Chocolate
+- Block Cheese
+- Bacon
