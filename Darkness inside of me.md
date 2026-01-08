@@ -1,13 +1,16 @@
 ---
 type: full
-class: poetry
+categories: poetry
 origin: Obsidian
-created:
+created: 2024-07-31T09:52:00
+tags:
+  - note
+  - journal
 ---
 
 
 ---
-Swan Queen inspired
+[[SwanQueen]] inspired
 
 One look, and  I know
 		- the darkness inside of me, I took from you
