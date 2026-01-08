@@ -20,6 +20,9 @@ Converted notes from archived vault system to this vault’s system
 	- [ ] Migrate MOC files over
 	- [ ] Migrate Menstruation tracker
 	- [ ] Migrate Bills
+# Breadcrumbs to finish
+	[[2020-10-15]]
+	
 # Troubleshoot solutions
 	Bases for categories 
 		Problem: filtering for bills need to exclude the MOC. Had to insert a property on the MOC file that linked to itself and then create a filter where file does not link to. 
