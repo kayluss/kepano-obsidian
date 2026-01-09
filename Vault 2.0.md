@@ -21,7 +21,7 @@ Converted notes from archived vault system to this vault’s system
 	- [ ] Migrate Menstruation tracker
 	- [ ] Migrate Bills
 # Breadcrumbs to finish
-	[[2020-10-15]]
+	~~2020-10-15~~ 
 	[[2020-10-09]]
 	
 	
