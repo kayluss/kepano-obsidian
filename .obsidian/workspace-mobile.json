@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 of Swords.md",
+                "file": "Vault 2.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4 of Swords"
+              "title": "Vault 2.0"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Almanack of Naval Ravikant.md",
+                "file": "Thoughts 2026-01-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Almanack of Naval Ravikant"
+              "title": "Thoughts 2026-01-08"
             }
           }
         ],
@@ -249,11 +249,13 @@
   },
   "active": "2331390965a2ba9a",
   "lastOpenFiles": [
+    "Files moved to new System.md",
     "Vault 2.0.md",
+    "4 of Swords.md",
+    "The Almanack of Naval Ravikant.md",
     "Templates/Daily Note Template.md",
     "Thoughts 2026-01-08.md",
     "Daily/2026-01-08.md",
-    "The Almanack of Naval Ravikant.md",
     "ACNH.md",
     "Untitled.base",
     "ACNH.base",
@@ -275,8 +277,6 @@
     "Schedule 2021-11-24.md",
     "Thoughts 2021-10-23.md",
     "Pokemon Home.md",
-    "Schedule 2021-10-23.md",
-    "Dream - 20-10-08.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Life board.canvas",
