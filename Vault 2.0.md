@@ -23,6 +23,7 @@ Converted notes from archived vault system to this vault’s system
 # Breadcrumbs to finish
 	 2022-05-13
 	2022-05-15
+	2022-05-06
 	
 # Troubleshoot solutions
 	Bases for categories 
