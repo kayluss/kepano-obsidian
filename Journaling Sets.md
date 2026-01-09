@@ -1,9 +1,11 @@
 ---
-created:
+created: 2020-10-09T20:27:00
 tags:
   - note
   - journal
+url: https://elaptics.co.uk/journal/191-journaling-prompts/
 ---
+[[Andy Henson]]’s prompts 
 [[Morning Writing]]
     - [[What am I grateful for?]]
     - [[What do I want today's highlight to be?]]
