@@ -109,6 +109,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Schedule 2018-10-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2018-10-17"
+            }
+          },
+          {
+            "id": "ed0557eafe4aa3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Untitled.md",
                 "mode": "source",
                 "source": false,
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -271,10 +295,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b59b93a84e1f418a",
+  "active": "ed0557eafe4aa3bf",
   "lastOpenFiles": [
-    "Schedule 2019-10-14.md",
+    "Schedule 2018-10-17.md",
     "Untitled.md",
+    "2018-10-17.md",
+    "Schedule 2019-10-14.md",
     "Thoughts 2019-10-14.md",
     "2019-10-14.md",
     "Anna’s Archive.md",
@@ -300,8 +326,6 @@
     "Journaling Sets.md",
     "Magic and Journaling.md",
     "Inside Brandon Toney’s Roam Journal.md",
-    "Pokemon GO News 2020-10-09.md",
-    "Schedule 2020-10-09.md",
     "Untitled 2.base",
     "Life board.canvas",
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
