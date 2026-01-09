@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021-10-23.md",
+                "file": "2021-11-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2021-10-23"
+              "title": "2021-11-24"
             }
           },
           {
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2021-11-24.md",
+                "file": "Car payment 2021-11-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +172,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2021-11-24"
+              "title": "Car payment 2021-11-24"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -319,11 +319,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f860e4e44f2785a",
+  "active": "49ac67f0c2f52a6c",
   "lastOpenFiles": [
-    "2021-11-24.md",
-    "Schedule 2021-11-24.md",
     "2021-10-23.md",
+    "Car payment 2021-11-24.md",
+    "Schedule 2021-11-24.md",
+    "2021-11-24.md",
     "Thoughts 2021-10-23.md",
     "Pokemon Home.md",
     "Schdule 2020-10-08.md",
@@ -346,7 +347,6 @@
     "4 of Swords.md",
     "9 of Swords.md",
     "I See You.md",
-    "Helen Hunt.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
