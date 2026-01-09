@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Where did Runes Come From.md",
+                "file": "Task master list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Where did Runes Come From"
-            }
-          },
-          {
-            "id": "2331390965a2ba9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts 2026-01-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Thoughts 2026-01-08"
+              "title": "Task master list"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,14 +223,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2331390965a2ba9a",
+  "active": "aa0f103a51cfa136",
   "lastOpenFiles": [
+    "Weekly/2026-W02.md",
+    "Where did Runes Come From.md",
+    "Thoughts 2026-01-08.md",
     "Files moved to new System.md",
     "Vault 2.0.md",
     "4 of Swords.md",
     "The Almanack of Naval Ravikant.md",
     "Templates/Daily Note Template.md",
-    "Thoughts 2026-01-08.md",
     "Daily/2026-01-08.md",
     "ACNH.md",
     "Untitled.base",
@@ -275,8 +253,6 @@
     "2021-11-24.md",
     "2021-10-23.md",
     "Schedule 2021-11-24.md",
-    "Thoughts 2021-10-23.md",
-    "Pokemon Home.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Life board.canvas",
