@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "486de3c1ce279e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "f2cf3d07392162ac",
             "type": "leaf",
             "state": {
@@ -85,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Pogo 2021-02-04.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Pogo 2021-02-04"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,10 +271,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "279ec350c7295dcd",
+  "active": "486de3c1ce279e8b",
   "lastOpenFiles": [
-    "2019-01-15.md",
+    "Vault 2.0.md",
     "Untitled.md",
+    "Pogo 2021-02-04.md",
+    "Thoughts 2021-02-04.md",
+    "Schedule 2021-02-04.md",
+    "2021-02-04.md",
+    "2019-01-15.md",
     "Schedule 2019-01-15.md",
     "Thoughts 2019-01-15.md",
     "Daily/2022-05-05.md",
@@ -270,11 +299,6 @@
     "to do- Achievement to unlock Flying Zereth Mortis.md",
     "Schedule 2022-04-30.md",
     "Daily/2022-04-30.md",
-    "Vault 2.0.md",
-    "Custom design ACNH 5-1-22.md",
-    "Daily/2022-05-01.md",
-    "The Big list of Digital Gardens.md",
-    "PoGo Schedule May 2022.md",
     "Attachments/IMG_3414.jpeg",
     "Untitled 1.base",
     "Untitled.base",
