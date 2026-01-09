@@ -102,33 +102,8 @@
               "icon": "lucide-file",
               "title": "Schedule 2022-05-12"
             }
-          },
-          {
-            "id": "27e0ee58b4809933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pogo Water Festival 2022.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pogo Water Festival 2022"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,15 +246,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27e0ee58b4809933",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
-    "Vault 2.0.md",
+    "Schedule 2022-05-12.md",
+    "Custom design ACNH 5-1-22.md",
+    "2022-05-01.md",
+    "The Big list of Digital Gardens.md",
+    "PoGo Schedule May 2022.md",
+    "Thoughts 2022-05-01.md",
+    "Schedule 2022-05-01.md",
     "Pogo Water Festival 2022.md",
+    "Vault 2.0.md",
     "One Damn Thing After Another.md",
     "Thoughts-One Damn Thing after another.md",
     "Schedule 2022-05-11.md",
     "2022-05-11.md",
-    "Schedule 2022-05-12.md",
     "2022-05-12.md",
     "Schedule 2022-05-05.md",
     "Geico may 2022 payment.md",
@@ -294,12 +275,6 @@
     "2026-01-09 0754.md",
     "Schedule 2025-11-11.md",
     "Daily/2025-11-11.md",
-    "2025-11-11 1655 Health Concerns.md",
-    "Menstruating.md",
-    "Schedule 2021-10-23.md",
-    "2020-05-12.md",
-    "2018-10-17.md",
-    "Thoughts 2019-10-14.md",
     "Untitled 1.base",
     "Untitled.base",
     "ACNH.base",
