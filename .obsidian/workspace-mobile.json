@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts 2026-01-09 0704.md",
+                "file": "What’s Wrong With Emma Swan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts 2026-01-09 0704"
+              "title": "What’s Wrong With Emma Swan"
+            }
+          },
+          {
+            "id": "70ee86ef5e442d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wicked Games.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wicked Games"
             }
           }
         ],
@@ -273,10 +297,13 @@
   },
   "active": "a9cc2883858fe44f",
   "lastOpenFiles": [
+    "Books.md",
+    "Wicked Games.md",
+    "Current Fanfiction.md",
+    "Thoughts 2026-01-09 0704.md",
     "Daily/2026-01-09.md",
     "Schedule 2022-04-11.md",
     "2022-04-11.md",
-    "Untitled.md",
     "Schedule 2021-04-02.md",
     "2021-04-02.md",
     "Schedule 2021-04-30.md",
@@ -298,9 +325,6 @@
     "Daily/2019-02-14.md",
     "Daily/2022-02-19.md",
     "Vault 2.0.md",
-    "Thoughts 2021-02-04.md",
-    "Schedule 2021-02-04.md",
-    "Daily/2021-02-04.md",
     "Attachments/IMG_3414.jpeg",
     "Untitled.base",
     "ACNH.base",

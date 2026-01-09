@@ -16,7 +16,7 @@ year: 2016
 rating:
 topics:
   - SwanQueen
-Last read:
+Last read: 2026-01-09
 last updated: 2018-08-17
 via: ao3
 status:
