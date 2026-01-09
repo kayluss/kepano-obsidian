@@ -21,9 +21,8 @@ Converted notes from archived vault system to this vault’s system
 	- [ ] Migrate Menstruation tracker
 	- [ ] Migrate Bills
 # Breadcrumbs to finish
-	2020-10-15 done 
-	2020-10-09 done
-	
+	 2022-05-13
+	2022-05-15
 	
 # Troubleshoot solutions
 	Bases for categories 

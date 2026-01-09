@@ -1,3 +1,10 @@
+---
+created: 2026-01-09T08:14:00
+tags:
+  - note
+  - journal
+---
+
 The largest truly open Library in human history. - tag line
 
 Current Alternative links
