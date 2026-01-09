@@ -24,6 +24,7 @@ Converted notes from archived vault system to this vault’s system
 	 2022-05-13
 	2022-05-15
 	2022-05-06
+	2022-05-20
 	
 # Troubleshoot solutions
 	Bases for categories 
