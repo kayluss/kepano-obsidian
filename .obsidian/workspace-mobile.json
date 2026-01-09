@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thought 2020-10-09.md",
+                "file": "2026-01-08 2015.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thought 2020-10-09"
+              "title": "2026-01-08 2015"
             }
           },
           {
@@ -149,78 +149,6 @@
               },
               "icon": "lucide-file",
               "title": "Daily Note Template"
-            }
-          },
-          {
-            "id": "5393395fdff08be2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2020-10-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2020-10-15"
-            }
-          },
-          {
-            "id": "49ac67f0c2f52a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule for 2026-01-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule for 2026-01-08"
-            }
-          },
-          {
-            "id": "2f860e4e44f2785a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Car payment 2021-11-24.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Car payment 2021-11-24"
             }
           }
         ],
@@ -369,18 +297,21 @@
   },
   "active": "1747ae322e02e40d",
   "lastOpenFiles": [
+    "Pokemon GO News 2020-10-09.md",
+    "2026-01-08 2015.md",
+    "Schedule 2020-10-09.md",
     "2020-10-09.md",
     "Thought 2020-10-09.md",
-    "Schdule 2020-10-08.md",
     "Templates/Daily Note Template.md",
-    "Vault 2.0.md",
-    "Schedule 2020-10-15.md",
-    "2020-10-15.md",
+    "Car payment 2021-11-24.md",
     "Schedule for 2026-01-08.md",
+    "Schedule 2020-10-15.md",
+    "Schdule 2020-10-08.md",
+    "Vault 2.0.md",
+    "2020-10-15.md",
     "Daily/2026-01-08.md",
     "2021-11-24.md",
     "2021-10-23.md",
-    "Car payment 2021-11-24.md",
     "Schedule 2021-11-24.md",
     "Thoughts 2021-10-23.md",
     "Pokemon Home.md",
@@ -392,9 +323,6 @@
     "Schedule 2020-09-12.md",
     "Discovery season 3.md",
     "Star Trek Discovery.md",
-    "ST- Discovery Season 3 release.md",
-    "Where did Runes Come From.md",
-    "Harigast means guest of the army.md",
     "Untitled 2.base",
     "Untitled.base",
     "Untitled 1.base",
