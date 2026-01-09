@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "Anna’s Archive"
             }
+          },
+          {
+            "id": "9ee4c7c0a2000611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2019-10-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2019-10-14"
+            }
+          },
+          {
+            "id": "b59b93a84e1f418a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,12 +271,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa0f103a51cfa136",
+  "active": "b59b93a84e1f418a",
   "lastOpenFiles": [
-    "Thoughts 2026-01-09 0704.md",
-    "Anna’s Archive.md",
-    "Daily/2020-10-15.md",
+    "Schedule 2019-10-14.md",
     "Untitled.md",
+    "Thoughts 2019-10-14.md",
+    "2019-10-14.md",
+    "Anna’s Archive.md",
+    "Thoughts 2026-01-09 0704.md",
+    "Daily/2020-10-15.md",
     "Schedule 2026-01-09 0655.md",
     "Untitled 1.base",
     "Daily/2026-01-09.md",
@@ -251,9 +302,6 @@
     "Inside Brandon Toney’s Roam Journal.md",
     "Pokemon GO News 2020-10-09.md",
     "Schedule 2020-10-09.md",
-    "Daily/2020-10-09.md",
-    "Thought 2020-10-09.md",
-    "Car payment 2021-11-24.md",
     "Untitled 2.base",
     "Life board.canvas",
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
