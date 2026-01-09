@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault 2.0.md",
+                "file": "The Almanack of Naval Ravikant.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,59 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vault 2.0"
-            }
-          },
-          {
-            "id": "1747ae322e02e40d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ACNH.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ACNH"
-            }
-          },
-          {
-            "id": "8510008510ffea24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily Note Template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daily Note Template"
+              "title": "The Almanack of Naval Ravikant"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,11 +247,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1747ae322e02e40d",
+  "active": "2331390965a2ba9a",
   "lastOpenFiles": [
+    "Vault 2.0.md",
+    "Templates/Daily Note Template.md",
+    "Thoughts 2026-01-08.md",
+    "Daily/2026-01-08.md",
+    "The Almanack of Naval Ravikant.md",
+    "ACNH.md",
     "Untitled.base",
     "ACNH.base",
-    "ACNH.md",
     "Custom designs ACNH 10-09-20.md",
     "Journaling Sets.md",
     "Magic and Journaling.md",
@@ -308,14 +265,11 @@
     "Schedule 2020-10-09.md",
     "2020-10-09.md",
     "Thought 2020-10-09.md",
-    "Templates/Daily Note Template.md",
     "Car payment 2021-11-24.md",
     "Schedule for 2026-01-08.md",
     "Schedule 2020-10-15.md",
     "Schdule 2020-10-08.md",
-    "Vault 2.0.md",
     "2020-10-15.md",
-    "Daily/2026-01-08.md",
     "2021-11-24.md",
     "2021-10-23.md",
     "Schedule 2021-11-24.md",
@@ -323,7 +277,6 @@
     "Pokemon Home.md",
     "Schedule 2021-10-23.md",
     "Dream - 20-10-08.md",
-    "2020-10-08.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "Life board.canvas",
@@ -338,7 +291,6 @@
     "Templates/Bases/Related.base",
     "Templates/Bases/Ratings.base",
     "Templates/Bases/discord.base",
-    "Attachments/ID Card 1.pdf",
     "Attachments/IMG_2580.png",
     "Attachments/Pasted image 20251230092812.png",
     "Attachments/Pasted image 20251230052808.jpg",
