@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "486de3c1ce279e8b",
+            "id": "74a366ed8ea4ebf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2022-02-19.md",
+                "file": "Files moved to new System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,59 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2022-02-19"
-            }
-          },
-          {
-            "id": "183299230aeaa1c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2019-02-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2019-02-14"
-            }
-          },
-          {
-            "id": "c257522f5df36998",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2021-12-22.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2021-12-22"
+              "title": "Files moved to new System"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,16 +199,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c257522f5df36998",
+  "active": "74a366ed8ea4ebf7",
   "lastOpenFiles": [
-    "2021-12-22.md",
+    "Schedule 2021-08-26.md",
+    "Templates/Bases/Analog to Digital PKMS.md",
     "Schedule 2021-12-22.md",
     "Schedule 2019-02-14.md",
+    "Schedule 2022-02-19.md",
+    "Analog to digital migrated 2021-08-26.md",
+    "a2dpkms.base",
+    "Untitled 1.base",
+    "2021-08-26.md",
+    "2021-12-22.md",
     "Pogo 2021-02-04.md",
     "Daily/2019-01-15.md",
     "Daily/2022-05-05.md",
     "Daily/2019-02-14.md",
-    "Schedule 2022-02-19.md",
     "Daily/2022-02-19.md",
     "Vault 2.0.md",
     "Thoughts 2021-02-04.md",
@@ -271,12 +229,7 @@
     "Schedule 2019-06-16.md",
     "Schedule 2021-06-01.md",
     "Thoughts 2019-01-16.md",
-    "Schedule 2019-01-16.md",
-    "Daily/2019-01-16.md",
-    "Daily/2021-06-01.md",
-    "Daily/2019-06-16.md",
     "Attachments/IMG_3414.jpeg",
-    "Untitled 1.base",
     "Untitled.base",
     "ACNH.base",
     "Untitled 2.base",
@@ -291,7 +244,6 @@
     "towatch.base",
     "Templates/Bases/Related.base",
     "Templates/Bases/Ratings.base",
-    "Templates/Bases/discord.base",
     "Attachments/IMG_2580.png",
     "Attachments/Pasted image 20251230092812.png",
     "Attachments/Pasted image 20251230052808.jpg",
