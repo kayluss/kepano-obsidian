@@ -1,0 +1,5 @@
+---
+categories:
+  - "[[Games]]"
+---
+![[ACNH.base]]
