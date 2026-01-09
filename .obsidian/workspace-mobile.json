@@ -103,7 +103,8 @@
               "title": "Schedule 2022-05-12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,8 +247,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "f2cf3d07392162ac",
   "lastOpenFiles": [
+    "to do- Achievement to unlock Flying Zereth Mortis.md",
+    "Schedule 2022-04-30.md",
+    "2022-04-30.md",
+    "Vault 2.0.md",
     "Schedule 2022-05-12.md",
     "Custom design ACNH 5-1-22.md",
     "2022-05-01.md",
@@ -256,7 +261,6 @@
     "Thoughts 2022-05-01.md",
     "Schedule 2022-05-01.md",
     "Pogo Water Festival 2022.md",
-    "Vault 2.0.md",
     "One Damn Thing After Another.md",
     "Thoughts-One Damn Thing after another.md",
     "Schedule 2022-05-11.md",
@@ -272,9 +276,6 @@
     "Schedule 2019-10-14.md",
     "Schedule 2018-10-17.md",
     "Schedule 01-14-25.md",
-    "2026-01-09 0754.md",
-    "Schedule 2025-11-11.md",
-    "Daily/2025-11-11.md",
     "Untitled 1.base",
     "Untitled.base",
     "ACNH.base",
