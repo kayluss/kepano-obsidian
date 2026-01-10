@@ -17,7 +17,10 @@ date: 2025-12-25
 org:
 people:
   - "[[Tina Sutton]]"
+  - "[[Janice]]"
+  - "[[Jasmine Oertel]]"
+  - "[[Mike Oertel]]"
 topics: []
 ---
 Finished Sam’s gift
-- [ ] Finish printing photos
+- [x] Finish printing photos  [completion:: 2026-01-10]
