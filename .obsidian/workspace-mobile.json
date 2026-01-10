@@ -32,132 +32,12 @@
             }
           },
           {
-            "id": "74a366ed8ea4ebf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2021-08-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2021-08-26"
-            }
-          },
-          {
-            "id": "90d21ae5f9189c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2021-04-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2021-04-30"
-            }
-          },
-          {
-            "id": "526608f0a9bb0b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2021-04-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2021-04-02"
-            }
-          },
-          {
-            "id": "a9cc2883858fe44f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Fanfiction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Current Fanfiction"
-            }
-          },
-          {
-            "id": "457d1408422330df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eight Strand Brand Part 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Eight Strand Brand Part 1"
-            }
-          },
-          {
             "id": "3ff1582a719cda61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eight Strand Brand Part 2.md",
+                "file": "Files moved to new System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Eight Strand Brand Part 2"
-            }
-          },
-          {
-            "id": "70ee86ef5e442d5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wicked Games.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wicked Games"
+              "title": "Files moved to new System"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,7 +121,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 3
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -345,34 +201,34 @@
   },
   "active": "3ff1582a719cda61",
   "lastOpenFiles": [
+    "Schedule 2026-01-10 0807.md",
+    "Weekly/2026-W02.md",
+    "Daily/2026-01-08.md",
+    "Thoughts 2026-01-08.md",
+    "Daily/2026-01-09.md",
+    "Thoughts 2026-01-09 0704.md",
+    "Current Fanfiction.md",
+    "Schedule 2021-04-30.md",
+    "Schedule 2021-08-26.md",
     "Eight Strand Brand Part 1.md",
+    "Schedule 2021-04-02.md",
+    "Wicked Games.md",
+    "Daily/2026-01-10.md",
     "Eight Strand Brand Part 2.md",
     "2026-01-09 1958.md",
-    "Current Fanfiction.md",
     "What’s Wrong With Emma Swan.md",
     "Books.md",
-    "Wicked Games.md",
-    "Thoughts 2026-01-09 0704.md",
-    "Daily/2026-01-09.md",
     "Schedule 2022-04-11.md",
     "2022-04-11.md",
-    "Schedule 2021-04-02.md",
     "2021-04-02.md",
-    "Schedule 2021-04-30.md",
     "2021-04-30.md",
-    "Schedule 2021-08-26.md",
     "Files moved to new System.md",
     "Templates/Bases/Analog to Digital PKMS.md",
     "Schedule 2021-12-22.md",
     "Schedule 2019-02-14.md",
     "Schedule 2022-02-19.md",
-    "Analog to digital migrated 2021-08-26.md",
     "a2dpkms.base",
     "Untitled 1.base",
-    "2021-08-26.md",
-    "2021-12-22.md",
-    "Pogo 2021-02-04.md",
-    "Daily/2019-01-15.md",
     "Attachments/IMG_3414.jpeg",
     "Untitled.base",
     "ACNH.base",
