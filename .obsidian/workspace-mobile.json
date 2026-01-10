@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "523eeefd6f2842a4",
+            "id": "a1aad11c4918e31d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PvP Analysis of Annihilape.md",
+                "file": "Thoughts 2026-01-10 1029.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,59 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PvP Analysis of Annihilape"
-            }
-          },
-          {
-            "id": "a4b599818b1afd58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shopping 2023-10-27.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Shopping 2023-10-27"
-            }
-          },
-          {
-            "id": "d75709143f07310a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NKTE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NKTE"
+              "title": "Thoughts 2026-01-10 1029"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,14 +223,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d75709143f07310a",
+  "active": "a1aad11c4918e31d",
   "lastOpenFiles": [
-    "Linear Calendar - Nick Milo.md",
-    "NKTE.md",
-    "Notion Masterclass - Build a Notes Dashboard with Me.md",
-    "Untitled.md",
+    "PvP Analysis of Annihilape.md",
+    "Thoughts 2026-01-10 1029.md",
     "Shopping 2023-10-27.md",
+    "NKTE.md",
+    "Daily/2026-01-10.md",
+    "Weekly/2026-W02.md",
+    "Thoughts 2023-09-28.md",
+    "Schedule 2023-09-28.md",
     "Schedule 2023-10-27.md",
+    "Schedule 2024-01-19.md",
+    "Shopping  2025-03-10.md",
+    "Schedule 2025-03-10.md",
+    "Shopping 2023-09-28.md",
+    "2023-09-28.md",
+    "Linear Calendar - Nick Milo.md",
+    "Notion Masterclass - Build a Notes Dashboard with Me.md",
     "Update  AO3 12-22-23.md",
     "2026-01-10 0942.md",
     "The Enduring East.md",
@@ -291,16 +253,6 @@
     "passport.base",
     "Untitled 2.base",
     "Schedule 2023-12-22.md",
-    "2023-12-22.md",
-    "PvP Analysis of Annihilape.md",
-    "Shopping 2024-01-19.md",
-    "Schedule 2024-01-19.md",
-    "2024-01-19.md",
-    "Files moved to new System.md",
-    "Clippings/Killing Eve(n When You Should Know Better) The Persistence of Bury Your Gays.md",
-    "Schedule 2022-04-14.md",
-    "Killing Eve, When you should know better The Persistence of Bury Your Gays.md",
-    "2022-04-14.md",
     "a2dpkms.base",
     "Untitled 1.base",
     "Attachments/IMG_3414.jpeg",
