@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "PvP Analysis of Annihilape"
             }
+          },
+          {
+            "id": "a4b599818b1afd58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Update  AO3 12-22-23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Update  AO3 12-22-23"
+            }
+          },
+          {
+            "id": "7baca6423b80c00f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Enduring east.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Enduring east"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,10 +271,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "523eeefd6f2842a4",
+  "active": "7baca6423b80c00f",
   "lastOpenFiles": [
-    "Shopping 2024-01-19.md",
+    "Construction of Ritual.md",
+    "The Enduring east.md",
+    "Untitled.md",
+    "Passports.md",
+    "2024-10-18 Passports Update- Fort.md",
+    "passport.base",
+    "Update  AO3 12-22-23.md",
+    "Untitled 2.base",
+    "Schedule 2023-12-22.md",
+    "2023-12-22.md",
     "PvP Analysis of Annihilape.md",
+    "Shopping 2024-01-19.md",
     "Schedule 2024-01-19.md",
     "2024-01-19.md",
     "Files moved to new System.md",
@@ -243,20 +301,11 @@
     "Current Fanfiction.md",
     "Schedule 2021-04-30.md",
     "Schedule 2021-08-26.md",
-    "Eight Strand Brand Part 1.md",
-    "Schedule 2021-04-02.md",
-    "Wicked Games.md",
-    "Daily/2026-01-10.md",
-    "Eight Strand Brand Part 2.md",
-    "2026-01-09 1958.md",
-    "What’s Wrong With Emma Swan.md",
-    "Books.md",
     "a2dpkms.base",
     "Untitled 1.base",
     "Attachments/IMG_3414.jpeg",
     "Untitled.base",
     "ACNH.base",
-    "Untitled 2.base",
     "Life board.canvas",
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
@@ -267,7 +316,6 @@
     "reading.base",
     "towatch.base",
     "Templates/Bases/Related.base",
-    "Templates/Bases/Ratings.base",
     "Attachments/IMG_2580.png",
     "Attachments/Pasted image 20251230092812.png",
     "Attachments/Pasted image 20251230052808.jpg",
