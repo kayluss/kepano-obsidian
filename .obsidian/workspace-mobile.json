@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Enduring east.md",
+                "file": "The Enduring East.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Enduring east"
+              "title": "The Enduring East"
+            }
+          },
+          {
+            "id": "3c3f904a147fb846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -271,11 +295,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7baca6423b80c00f",
+  "active": "3c3f904a147fb846",
   "lastOpenFiles": [
-    "Construction of Ritual.md",
-    "The Enduring east.md",
+    "The Enduring East.md",
     "Untitled.md",
+    "Construction of Ritual.md",
     "Passports.md",
     "2024-10-18 Passports Update- Fort.md",
     "passport.base",
