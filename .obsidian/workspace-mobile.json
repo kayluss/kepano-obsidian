@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What’s Wrong With Emma Swan.md",
+                "file": "Current Fanfiction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What’s Wrong With Emma Swan"
+              "title": "Current Fanfiction"
             }
           },
           {
@@ -180,7 +180,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Eight braided strands",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -217,7 +217,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -295,8 +295,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9cc2883858fe44f",
+  "active": "016477e729f7f701",
   "lastOpenFiles": [
+    "What’s Wrong With Emma Swan.md",
     "Books.md",
     "Wicked Games.md",
     "Current Fanfiction.md",
@@ -324,7 +325,6 @@
     "Daily/2022-05-05.md",
     "Daily/2019-02-14.md",
     "Daily/2022-02-19.md",
-    "Vault 2.0.md",
     "Attachments/IMG_3414.jpeg",
     "Untitled.base",
     "ACNH.base",
