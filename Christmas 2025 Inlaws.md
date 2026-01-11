@@ -24,3 +24,4 @@ topics: []
 ---
 Finished Sam’s gift
 - [x] Finish printing photos  [completion:: 2026-01-10]
+- [x] Picked up Emmy  [completion:: 2026-01-10]
