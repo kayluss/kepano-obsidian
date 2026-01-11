@@ -8,7 +8,11 @@ views:
       - file.name
       - created
     sort:
-      - property: file.name
-        direction: DESC
-  - type: table
-    name: View
+      - property: file.ctime
+        direction: ASC
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.hasLink("Menstruating")
+    sort: []
