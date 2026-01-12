@@ -18,10 +18,18 @@ org:
 people:
   - "[[Tina Sutton]]"
   - "[[Janice]]"
-  - "[[Jasmine Oertel]]"
-  - "[[Mike Oertel]]"
+  - "[[Rose Curtis]]"
+  - Bobby
+  - Jaz
+  - Emmy
+  - Chris Curtis
+  - Nathan
+  - Caden
+  - Sam
 topics: []
 ---
 Finished Sam’s gift
 - [x] Finish printing photos  [completion:: 2026-01-10]
 - [x] Picked up Emmy  [completion:: 2026-01-10]
+
+The Suite was nice, large enough to not feel cramped with everyone that was there.
