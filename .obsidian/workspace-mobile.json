@@ -88,9 +88,33 @@
               "icon": "lucide-file",
               "title": "Christmas 2025 Inlaws"
             }
+          },
+          {
+            "id": "e37d020797cb43b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2023-05-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2023-05-17"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -273,13 +297,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47a8283416d8d3b2",
+  "active": "e37d020797cb43b6",
   "lastOpenFiles": [
+    "2023-05-15.md",
+    "Schedule 2023-05-17.md",
+    "Schedule 2023-04-26.md",
+    "2023-04-26.md",
+    "Untitled.md",
+    "Christmas 2025 Inlaws.md",
     "Thoughts 2026-01-11 0857.md",
     "Thougts 2026-01-12 0806.md",
     "Meditations.md",
     "Daily/2026-01-12.md",
-    "Untitled.md",
     "Schedule 2026-01-12 0800.md",
     "Charles Savitski.md",
     "2024 review.md",
@@ -297,11 +326,6 @@
     "Weekly/2026-W03.md",
     "Menstruating.md",
     "Schedule 01-14-25.md",
-    "Schedule 2021-08-26.md",
-    "Schedule 2021-04-02.md",
-    "Daily/2018-03-10.md",
-    "Current Fanfiction.md",
-    "Eight Strand Brand Part 1.md",
     "passport.base",
     "Untitled 2.base",
     "a2dpkms.base",
