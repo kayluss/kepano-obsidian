@@ -14,7 +14,7 @@ rating:
 topics:
   - "[[Modern Witchcraft]]"
   - "[[HooDoo]]"
-created: 2026-01-12
+created: 2023-03-30T00:00:00
 last:
 via: ""
 tags:
