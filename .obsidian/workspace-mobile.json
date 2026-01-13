@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "7ef8f4af59a008ed",
+            "id": "4c65b0ccc73fa912",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2022-05-12.md",
+                "file": "Schedule 2022-05-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,65 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2022-05-12"
-            }
-          },
-          {
-            "id": "3ff1582a719cda61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sticks Stones Roots & Bones - HooDoo, Mojo & Conjuringwith Herbs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sticks Stones Roots & Bones - HooDoo, Mojo & Conjuringwith Herbs"
-            }
-          },
-          {
-            "id": "ec17fff299eb97f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shopping 2026-01-12 0847.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Shopping 2026-01-12 0847"
+              "title": "Schedule 2022-05-14"
             }
           },
           {
             "id": "f367c83c22aea17c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2022-05-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2022-05-13"
             }
           },
           {
@@ -345,17 +311,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ef8f4af59a008ed",
+  "active": "4c65b0ccc73fa912",
   "lastOpenFiles": [
-    "2022-05-13.md",
-    "Schedule 2022-05-12.md",
+    "2022-05-14.md",
+    "Schedule 2022-05-14.md",
     "Vault 2.0.md",
+    "Schedule 2022-05-13.md",
+    "Schedule 2022-05-12.md",
+    "Daily/2022-05-12.md",
+    "2022-05-13.md",
+    "Shopping 2026-01-12 0847.md",
+    "Sticks Stones Roots & Bones - HooDoo, Mojo & Conjuringwith Herbs.md",
     "passport.base",
     "Construction of Ritual.md",
     "References/Linear Calendar - Nick Milo.md",
-    "Sticks Stones Roots & Bones - HooDoo, Mojo & Conjuringwith Herbs.md",
     "Schedule 2023-04-21.md",
-    "Shopping 2026-01-12 0847.md",
     "Daily/2023-04-21.md",
     "Files moved to new System.md",
     "Thougts 2026-01-12 0806.md",
@@ -370,10 +340,6 @@
     "Daily/2023-04-26.md",
     "Christmas 2025 Inlaws.md",
     "Thoughts 2026-01-11 0857.md",
-    "Meditations.md",
-    "Schedule 2026-01-12 0800.md",
-    "Charles Savitski.md",
-    "2024 review.md",
     "Templates/Bases/Daily.base",
     "Untitled 2.base",
     "a2dpkms.base",
