@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2026-01-13 0608.md",
+                "file": "Daily/2026-01-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2026-01-13 0608"
+              "title": "2026-01-11"
             }
           },
           {
@@ -337,6 +337,7 @@
   },
   "active": "87abb54f5720566b",
   "lastOpenFiles": [
+    "Daily/2026-01-12.md",
     "Daily/2026-01-13.md",
     "Schedule 2026-01-13 0608.md",
     "Thoughts 2023-03-24.md",
@@ -362,7 +363,6 @@
     "Schedule 2022-05-12.md",
     "Daily/2022-05-12.md",
     "2022-05-13.md",
-    "Shopping 2026-01-12 0847.md",
     "passport.base",
     "Templates/Bases/Daily.base",
     "Untitled 2.base",
