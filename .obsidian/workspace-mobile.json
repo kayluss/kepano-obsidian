@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Thoughts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Thoughts"
             }
           },
           {
@@ -337,8 +337,11 @@
   },
   "active": "87abb54f5720566b",
   "lastOpenFiles": [
+    "Shopping 2023-03-24.md",
+    "Thoughts.md",
+    "Schedule 2023-03-24.md",
+    "2023-03-24.md",
     "Schedule 2022-05-13.md",
-    "Untitled.md",
     "One Damn Thing After Another.md",
     "Thoughts 2022-05-14.md",
     "Schedule 2022-05-14.md",
@@ -361,9 +364,6 @@
     "Schedule 2023-04-26.md",
     "Schedule 2023-05-15.md",
     "Thoughts 2023-05-15.md",
-    "Augmentation Rotation.md",
-    "2026-01-12 0821.md",
-    "Daily/2023-05-15.md",
     "Templates/Bases/Daily.base",
     "Untitled 2.base",
     "a2dpkms.base",
