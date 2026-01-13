@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Patch Notes 0.199 - Winter's Wonder Snowbound Sanctuary.md",
+                "file": "Thoughts 2023-07-09.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Patch Notes 0.199 - Winter's Wonder Snowbound Sanctuary"
+              "title": "Thoughts 2023-07-09"
             }
           },
           {
@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "2023-11-26"
             }
+          },
+          {
+            "id": "1235b82c8319bd9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -335,10 +359,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e815b11f1c1914b",
+  "active": "1235b82c8319bd9b",
   "lastOpenFiles": [
-    "Palia.md",
+    "Thoughts 2023-07-09.md",
+    "Untitled.md",
+    "Daily/2023-07-09.md",
+    "Schedule 2023-07-09.md",
     "References/Patch Notes 0.199 - Winter's Wonder Snowbound Sanctuary.md",
+    "Palia.md",
     "Clippings/68 Bits of Unsolicited Advice.md",
     "Clippings/In good hands.md",
     "Clippings/Buy wisely.md",
@@ -351,18 +379,14 @@
     "Thoughts 2023-03-24.md",
     "Schedule 2022-05-13.md",
     "One Damn Thing After Another.md",
-    "2023-11-26.md",
+    "Daily/2023-11-26.md",
     "Schedule 2023-05-17.md",
     "Christmas 2025 Inlaws.md",
-    "Thoughts 2023-07-09.md",
-    "Schedule 2023-07-09.md",
-    "2023-07-09.md",
     "Of Prayer Bruised Knees & Crimson Crucifixes.md",
     "Schedule 2023-11-26.md",
     "Schedule 2018-04-08.md",
-    "2018-04-08.md",
+    "Daily/2018-04-08.md",
     "Shopping 2023-03-24.md",
-    "Schedule 2023-03-24.md",
     "passport.base",
     "Templates/Bases/Daily.base",
     "Untitled 2.base",
