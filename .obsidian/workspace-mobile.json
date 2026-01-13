@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2022-05-14.md",
+                "file": "Thoughts 2022-05-14.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2022-05-14"
+              "title": "Thoughts 2022-05-14"
             }
           },
           {
@@ -313,10 +313,11 @@
   },
   "active": "4c65b0ccc73fa912",
   "lastOpenFiles": [
-    "2022-05-14.md",
     "Schedule 2022-05-14.md",
-    "Vault 2.0.md",
+    "Thoughts 2022-05-14.md",
     "Schedule 2022-05-13.md",
+    "2022-05-14.md",
+    "Vault 2.0.md",
     "Schedule 2022-05-12.md",
     "Daily/2022-05-12.md",
     "2022-05-13.md",
@@ -339,7 +340,6 @@
     "Daily/2023-05-15.md",
     "Daily/2023-04-26.md",
     "Christmas 2025 Inlaws.md",
-    "Thoughts 2026-01-11 0857.md",
     "Templates/Bases/Daily.base",
     "Untitled 2.base",
     "a2dpkms.base",
