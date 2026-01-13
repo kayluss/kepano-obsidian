@@ -1,17 +1,19 @@
 ---
 categories:
   - "[[Books]]"
-author: []
+author:
+  - William P. Barr
 cover:
 genre: []
-pages:
-isbn:
-isbn13:
-year:
+pages: 608
+isbn: 63158604
+isbn13: 9780063158603
+year: 2022
 rating:
-topics: []
-created: 2026-01-09
-last:
+topics:
+  - U.S Politics
+created: 2022-04-23T00:00:00
+Last read: 2022-05-31
 via: ""
 tags:
   - to-read
