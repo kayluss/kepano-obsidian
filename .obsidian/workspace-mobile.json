@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "ec17fff299eb97f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopping 2026-01-12 0847.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Shopping 2026-01-12 0847"
+            }
+          },
+          {
             "id": "f367c83c22aea17c",
             "type": "leaf",
             "state": {
@@ -114,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,22 +321,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ff1582a719cda61",
+  "active": "ec17fff299eb97f0",
   "lastOpenFiles": [
+    "Thougts 2026-01-12 0806.md",
+    "Shopping 2026-01-12 0847.md",
+    "Daily/2026-01-12.md",
+    "Schedule 2023-04-21.md",
+    "2023-04-21.md",
+    "Files moved to new System.md",
     "Schedule 2023-05-17.md",
     "Schedule 2023-04-26.md",
     "Schedule 2023-05-15.md",
     "Thoughts 2023-05-15.md",
     "Augmentation Rotation.md",
-    "Untitled.md",
     "2026-01-12 0821.md",
     "2023-05-15.md",
     "2023-04-26.md",
     "Christmas 2025 Inlaws.md",
     "Thoughts 2026-01-11 0857.md",
-    "Thougts 2026-01-12 0806.md",
     "Meditations.md",
-    "Daily/2026-01-12.md",
     "Schedule 2026-01-12 0800.md",
     "Charles Savitski.md",
     "2024 review.md",
@@ -323,9 +350,6 @@
     "Templates/Bases/Daily.base",
     "Daily/2021-12-18.md",
     "Schedule 2026-01-11 0805.md",
-    "2026-01-11 0855.md",
-    "Schedule 2023-09-01.md",
-    "Thoughts 2026-01-11 0819.md",
     "passport.base",
     "Untitled 2.base",
     "a2dpkms.base",
