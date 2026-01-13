@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "e299c02087f2f406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2018-04-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2018-04-08"
+            }
+          },
+          {
             "id": "47a8283416d8d3b2",
             "type": "leaf",
             "state": {
@@ -152,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -335,10 +359,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87abb54f5720566b",
+  "active": "e299c02087f2f406",
   "lastOpenFiles": [
-    "Shopping 2023-03-24.md",
+    "2018-04-08.md",
+    "Schedule 2018-04-08.md",
     "Thoughts.md",
+    "Shopping 2023-03-24.md",
     "Schedule 2023-03-24.md",
     "2023-03-24.md",
     "Schedule 2022-05-13.md",
@@ -362,8 +388,6 @@
     "Daily/2026-01-12.md",
     "Schedule 2023-05-17.md",
     "Schedule 2023-04-26.md",
-    "Schedule 2023-05-15.md",
-    "Thoughts 2023-05-15.md",
     "Templates/Bases/Daily.base",
     "Untitled 2.base",
     "a2dpkms.base",
