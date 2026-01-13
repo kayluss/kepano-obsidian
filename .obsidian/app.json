@@ -25,6 +25,7 @@
     "editor:configure-toolbar",
     "editor:set-heading-0",
     "editor:set-heading-1",
-    "editor:set-heading-3"
+    "editor:set-heading-3",
+    "command-palette:open"
   ]
 }
