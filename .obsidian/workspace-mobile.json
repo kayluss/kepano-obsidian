@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "b9f3b3b119911ba2",
+            "id": "9d71f4cf749462e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts 23-02-19.md",
+                "file": "Schedule 2022-01-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,83 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts 23-02-19"
-            }
-          },
-          {
-            "id": "1646797bd15a3153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts 2023-02-18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Thoughts 2023-02-18"
-            }
-          },
-          {
-            "id": "98a42bb1c59fc989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FTS/Schedule 2018-08-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2018-08-12"
-            }
-          },
-          {
-            "id": "6b1d0f09ebaeee17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FTS/Schedule 2018-06-09.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2018-06-09"
+              "title": "Schedule 2022-01-19"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -359,12 +287,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e815b11f1c1914b",
+  "active": "9d71f4cf749462e3",
   "lastOpenFiles": [
-    "Looks Ritual 2018.md",
-    "FTS/Schedule 2018-06-09.md",
-    "Daily/2018-06-09.md",
+    "2022-01-22.md",
+    "FTS/Schedule 2022-01-22.md",
     "FTS/Schedule 2018-08-12.md",
+    "Schedule 2022-01-19.md",
+    "2022-01-19.md",
+    "FTS/Schedule 2018-06-09.md",
+    "Looks Ritual 2018.md",
+    "Daily/2018-06-09.md",
     "Daily/2018-08-12.md",
     "Daily/2017-04-16.md",
     "FTS/Schedule 2025-05-25.md",
@@ -385,10 +317,6 @@
     "FTS/Schedule 2021-02-04.md",
     "FTS/Thoughts 2024-07-01.md",
     "FTS/Schedule 2022-05-12.md",
-    "FTS/Thougts 2026-01-12 0806.md",
-    "FTS/Shopping 2023-10-27.md",
-    "FTS/Schedule 2019-02-14.md",
-    "FTS/Schedule 2023-10-27.md",
     "FTS",
     "Attachments/Pasted image 20260114100908.png",
     "passport.base",
