@@ -131,10 +131,24 @@
             "id": "4626e7ae901c40bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Pap’s potential family tree.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pap’s potential family tree"
             }
           }
         ],
@@ -166,7 +180,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Mildred",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -217,7 +231,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
