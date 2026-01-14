@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2023-02-19.md",
+                "file": "Thoughts 23-02-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2023-02-19"
+              "title": "Thoughts 23-02-19"
+            }
+          },
+          {
+            "id": "1646797bd15a3153",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts 2023-02-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thoughts 2023-02-18"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,16 +311,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f3b3b119911ba2",
+  "active": "1646797bd15a3153",
   "lastOpenFiles": [
-    "Thoughts.md",
+    "Shopping 2023-02-18.md",
+    "Thoughts 2023-02-18.md",
+    "Schedule 2023-02-18.md",
+    "2023-02-18.md",
+    "Thoughts 23-02-19.md",
     "Schedule 2023-02-19.md",
     "2023-02-19.md",
     "23-03-03 Moms Phone Bill.md",
     "23-03-03 Frontier.md",
     "23-03-03 Gieco payment.md",
     "Schedule 2023-03-03.md",
-    "2023-03-03.md",
+    "Daily/2023-03-03.md",
     "Files moved to new System.md",
     "Daily/2026-01-14.md",
     "Weekly/2026-W03.md",
@@ -311,10 +339,6 @@
     "2023-06-13.md",
     "Daily/2023-07-09.md",
     "Schedule 2023-07-09.md",
-    "References/Patch Notes 0.199 - Winter's Wonder Snowbound Sanctuary.md",
-    "Palia.md",
-    "Clippings/68 Bits of Unsolicited Advice.md",
-    "Clippings/In good hands.md",
     "passport.base",
     "Templates/Bases/Daily.base",
     "Untitled 2.base",
