@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "23-03-03 Moms Phone Bill"
             }
+          },
+          {
+            "id": "b9f3b3b119911ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2023-02-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2023-02-19"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -263,10 +287,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4336f055c7de04d",
+  "active": "b9f3b3b119911ba2",
   "lastOpenFiles": [
-    "23-03-03 Frontier.md",
+    "Thoughts.md",
+    "Schedule 2023-02-19.md",
+    "2023-02-19.md",
     "23-03-03 Moms Phone Bill.md",
+    "23-03-03 Frontier.md",
     "23-03-03 Gieco payment.md",
     "Schedule 2023-03-03.md",
     "2023-03-03.md",
@@ -288,9 +315,6 @@
     "Palia.md",
     "Clippings/68 Bits of Unsolicited Advice.md",
     "Clippings/In good hands.md",
-    "Clippings/Buy wisely.md",
-    "References/People with autism less likely to succumb to bystander effect, York University father-son research duo finds.md",
-    "References/Can you Dig It? Introducing Hodari's Starstone Search.md",
     "passport.base",
     "Templates/Bases/Daily.base",
     "Untitled 2.base",
