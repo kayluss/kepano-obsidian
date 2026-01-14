@@ -131,52 +131,14 @@
             "id": "4626e7ae901c40bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-11-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2023-11-26"
-            }
-          },
-          {
-            "id": "1235b82c8319bd9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/15 Types of Professional Soft Skills (With Definitions).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "15 Types of Professional Soft Skills (With Definitions)"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -359,10 +321,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1235b82c8319bd9b",
+  "active": "4626e7ae901c40bb",
   "lastOpenFiles": [
-    "Schedule 2023-06-13.md",
     "Clippings/15 Types of Professional Soft Skills (With Definitions).md",
+    "Schedule 2023-06-13.md",
     "2023-06-13.md",
     "Thoughts 2023-07-09.md",
     "Daily/2023-07-09.md",
