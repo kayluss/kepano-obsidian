@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "Files moved to new System"
             }
+          },
+          {
+            "id": "c4336f055c7de04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2023-03-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2023-03-03"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,8 +263,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e815b11f1c1914b",
+  "active": "c4336f055c7de04d",
   "lastOpenFiles": [
+    "2023-03-03.md",
+    "Schedule 2023-03-03.md",
+    "Files moved to new System.md",
     "Daily/2026-01-14.md",
     "Weekly/2026-W03.md",
     "Schedule 2022-05-13.md",
@@ -264,9 +291,6 @@
     "Daily/2026-01-11.md",
     "Daily/2026-01-12.md",
     "Daily/2026-01-13.md",
-    "Schedule 2026-01-13 0608.md",
-    "Thoughts 2023-03-24.md",
-    "One Damn Thing After Another.md",
     "passport.base",
     "Templates/Bases/Daily.base",
     "Untitled 2.base",
