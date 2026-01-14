@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Schedule 2018-08-12"
             }
+          },
+          {
+            "id": "6b1d0f09ebaeee17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FTS/Schedule 2018-06-09.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2018-06-09"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -335,8 +359,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98a42bb1c59fc989",
+  "active": "3e815b11f1c1914b",
   "lastOpenFiles": [
+    "Looks Ritual 2018.md",
+    "FTS/Schedule 2018-06-09.md",
+    "Daily/2018-06-09.md",
+    "FTS/Schedule 2018-08-12.md",
     "Daily/2018-08-12.md",
     "Daily/2017-04-16.md",
     "FTS/Schedule 2025-05-25.md",
@@ -346,7 +374,6 @@
     "FTS/2025-12-30 0443 Schedule.md",
     "FTS/Schedule 2025-09-21.md",
     "Photo walk 2025-12-24.md",
-    "FTS/Schedule 2018-08-12.md",
     "vault2progress.base",
     "FTS/Shopping 2026-01-10 1648.md",
     "FTS/Thoughts 2026-01-08.md",
@@ -362,9 +389,6 @@
     "FTS/Shopping 2023-10-27.md",
     "FTS/Schedule 2019-02-14.md",
     "FTS/Schedule 2023-10-27.md",
-    "FTS/Thoughts 2023-03-24.md",
-    "FTS/Schedule 2024-12-15.md",
-    "FTS/Schedule 2022-02-19.md",
     "FTS",
     "Attachments/Pasted image 20260114100908.png",
     "passport.base",

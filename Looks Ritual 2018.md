@@ -1,0 +1,24 @@
+---
+created: 2018-06-09T11:20:00
+tags:
+  - note
+  - journal
+---
+- Hail North, the keeper of the dark, the land of the deep thicket, creeping vines, and the land of the Dwarves. Awaken this day to the wanderers of [[Twisting Yew]], Â We honor you and welcome your energy into our ritual.
+- Hail East, the keeper of whispers, the bearer of messages, the land of the mist, the talking leaves, the howling Night, and the land of the Fae. Awaken this day to the wanderers of [[Twisting Yew]], and those of us who are Guardians of the Roots. We honor you and welcome your energy into our ritual.
+- Hail South, the keeper of flames, the land smoldering ash, burning truth, building creativity, land of the Salamanders. Awaken this day to the wanderers [[Twisting Yew]], and to those of us who are Guardians of the Roots. We honor you and welcome your energy into our ritual.
+- Hail West, the keeper of the ponds, the land of the Underworld, land of emotions, land of the Nymphs. Awaken this day to the wanderers [[Twisting Yew]]. We honor you and welcome your energy into our ritual.
+- Hail [[Twisting Yew]], the fuel for our internal fires, the revealer of knowledge, the guide to the Gods. We honor you and welcome your energy into our daily life.
+- The Quarters are called sacred space is brought forth to this land once more. Mind your thoughts, your feelings, and your emotions, for today we call to the most ancient, the most prolific in myth, the most wise, the most common transculture Deities. Today we call Dragons! Creatures of fire, immense emotions, and endless wisdom.
+-   O' Great Adroka, Queen of the Stars and Moon, and knowledge long forgotten, O' Shinning Pearl One, hear our prayers, and add your blessings to our Fires! We honor you and welcome you!
+-  O' Great Maruk, Lord of the Sun, Fields, and knowledge not yet known, O' Mighty Dark One, hear our prayers, and add your blessings to our fires! We honor and welcome you!
+-   In your presence we are not alone. In your presence we accept all of our self, the light, the dark, it is us. It is you. Without one we become unbalanced, stagnant. As we Walk through these Midsummer Fires we are at one moment whole. Any separation we might have felt, any denial we might have had is no longer stopping us. We now see our shadow mask illuminated by the long daylight hours, by the Sacred Fires,Â  By Adroka, By Maruk.Â __( As the participants pass through the fires, they may add herbs as offerings, or offerings pain, hurt, or non-____beneficial____Â trait to be__ __assimilated____Â and no longer__ __separate.____Â Each participant is to take a white and a black stone/bead from the bowls next to each fire as representation in the physical world)__
+-  In the midst of Summer you have grown tall, strong and abundant plants, flowers and trees. Now is the time to start to see what can be harvested soon and what needs some work before it will ready to harvest. Take the time to look at your garden. (soft drumming for a few minutes. Drumming gets louder and picks up beat until a full drum circle has emerged.)
+- In honor of you Adroka, and Maruk we drum and we dance!
+- (When the celebration reaches it's peak, a Gaurdian shall lead the participants back to circle form, the drumming recedes.)
+- Once again we thank you O' Great Adroka and O' Mighty Maruk. Stay if you will, Go if you must!
+- Hail North, the keeper of the dark, the land of the deep thicket, creeping vines, and the land of the Dwarves. Thank you for sharing your grounding energy in our ritual.
+-   Hail East, the keeper of whispers, the bearer of messages, the land of the mist, the talking leaves, the howling Night, and the land of the Fae. We thank you for sharing your moving energy into our ritual.
+- Hail South, the keeper of flames, the land smoldering ash, burning truth, building creativity, land of the Salamanders. We thank you for sharing your searing energy in our ritual.
+-  Â Hail West, the keeper of the ponds, the land of the Underworld, land of emotions, land of the Nymphs. We thank you for sharing your cyclic energy into our ritual.
+- To [[Twisting Yew]], Teacher, Wander, stripper of false. We thank you and for sharing your blessings upon our ritual.
