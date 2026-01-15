@@ -16,12 +16,22 @@
                 "file": "Life board.canvas",
                 "viewState": {
                   "x": -160,
-                  "y": -829.6301355452916,
+                  "y": -147.39387677819133,
                   "zoom": -0.8439670295187973
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Life board"
+            }
+          },
+          {
+            "id": "4cdde16e7c494777",
+            "type": "leaf",
+            "state": {
+              "type": "custom-calendar-view-default",
+              "state": {},
+              "icon": "calendar",
+              "title": "Calendar"
             }
           },
           {
@@ -71,8 +81,33 @@
               "icon": "lucide-file",
               "title": "Thoughts 2026-01-15 1135"
             }
+          },
+          {
+            "id": "b1782e570e0be3be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-01-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-15"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -252,13 +287,16 @@
       "bases:Create new base": false,
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false,
+      "prisma-calendar:Calendar": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "b1782e570e0be3be",
   "lastOpenFiles": [
-    "Eight Strand Brand Part 1.md",
+    "progressive.base",
     "Life board.canvas",
+    "Eight Strand Brand Part 1.md",
     "Vault 2.0.md",
     "Thoughts 2026-01-15 1135.md",
     "23-03-03 Moms Phone Bill.md",
@@ -283,7 +321,6 @@
     "2022-01-22.md",
     "FTS/Schedule 2022-01-22.md",
     "FTS/Schedule 2018-08-12.md",
-    "2022-01-19.md",
     "a2dpkms.base",
     "vault2progress.base",
     "FTS",
