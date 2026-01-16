@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2019-04-16.md",
+                "file": "FTS/Schedule 2019-04-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -320,10 +320,10 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "69fa031856b0d130",
+  "active": "3e815b11f1c1914b",
   "lastOpenFiles": [
-    "2019-04-16.md",
-    "Schedule 2019-04-16.md",
+    "Daily/2019-04-16.md",
+    "FTS/Schedule 2019-04-16.md",
     "Litha Ritual 2018.md",
     "FTS/Schedule 2016-08-22.md",
     "Daily/2017-08-14.md",
