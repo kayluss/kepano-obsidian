@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "custom-calendar-view-default"
             }
           },
           {
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Thoughts 2004-08-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,7 +59,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Thoughts 2004-08-17"
+            }
+          },
+          {
+            "id": "33edde2b95273d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2017-08-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2017-08-14"
             }
           },
           {
@@ -111,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -296,9 +320,11 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "99d86e7c9edbac47",
+  "active": "33edde2b95273d45",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Thoughts 2004-08-17.md",
+    "2017-08-14.md",
+    "2004-08-17.md",
     "Midnight Prepatch Starts-20260116065934.md",
     "Legion remix ends-20260116065655.md",
     "Schedule 2026-01-16 0703.md",
@@ -323,9 +349,7 @@
     "2019-06-16.md",
     "FTS/Schedule 2019-06-16.md",
     "Alyssandra’s 1st birthday party-20260115191650.md",
-    "Midnight Launch-20260116070002.md",
     "progressive.base",
-    "Vault 2.0.md",
     "a2dpkms.base",
     "vault2progress.base",
     "FTS",
