@@ -10,6 +10,7 @@
           {
             "id": "00ec0bd4de710c47",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
@@ -20,6 +21,7 @@
                   "zoom": -0.8439670295187973
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Life board"
             }
@@ -27,9 +29,11 @@
           {
             "id": "4cdde16e7c494777",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "custom-calendar-view-default",
               "state": {},
+              "pinned": true,
               "icon": "calendar",
               "title": "Calendar"
             }
@@ -107,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,7 +296,7 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "b1782e570e0be3be",
+  "active": "4cdde16e7c494777",
   "lastOpenFiles": [
     "progressive.base",
     "Life board.canvas",
