@@ -133,9 +133,33 @@
               "icon": "lucide-file",
               "title": "Schedule 2026-01-16 0703"
             }
+          },
+          {
+            "id": "d7624a54a815474f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2016-08-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2016-08-22"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -320,11 +344,14 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "f3491976d4b7d4ad",
+  "active": "d7624a54a815474f",
   "lastOpenFiles": [
+    "2016-08-22.md",
+    "Schedule 2016-08-22.md",
+    "Untitled.md",
+    "Schedule 2026-01-16 0703.md",
     "2019-06-16.md",
     "FTS/Schedule 2019-06-16.md",
-    "Schedule 2026-01-16 0703.md",
     "Daily/2026-01-16.md",
     "Alyssandra’s 1st birthday party-20260115191650.md",
     "Eight Strand Brand Part 1.md",
@@ -347,9 +374,6 @@
     "Schedule 2020-03-14.md",
     "2020-03-14.md",
     "Schedule 2019-03-14.md",
-    "2019-03-14.md",
-    "Daily/2020-09-11.md",
-    "FTS/Schedule 2020-09-11.md",
     "a2dpkms.base",
     "vault2progress.base",
     "FTS",
