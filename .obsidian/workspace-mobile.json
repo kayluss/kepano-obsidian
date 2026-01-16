@@ -85,9 +85,33 @@
               "icon": "lucide-file",
               "title": "Schedule 2018-09-18"
             }
+          },
+          {
+            "id": "786a4d53bb949dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2016-09-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2016-09-16"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,10 +296,12 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "50d4d58452bbbc1f",
+  "active": "786a4d53bb949dd3",
   "lastOpenFiles": [
-    "2018-09-18.md",
+    "2016-09-16.md",
+    "Schedule 2016-09-16.md",
     "Schedule 2018-09-18.md",
+    "2018-09-18.md",
     "Files moved to new System.md",
     "Litha Ritual 2018.md",
     "FTS/Schedule 2019-04-16.md",
@@ -298,9 +324,7 @@
     "References/Hodari’s Star Stone Search Ends-20260116065829.md",
     "References/Hodari’s Star stone seach Starts-20260116065808.md",
     "Palia.md",
-    "FTS/Thoughts 2026-01-15 1135.md",
     "Life board.canvas",
-    "Eight Strand Brand Part 2.md",
     "progressive.base",
     "a2dpkms.base",
     "vault2progress.base",
