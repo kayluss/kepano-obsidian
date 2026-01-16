@@ -39,54 +39,6 @@
             }
           },
           {
-            "id": "33edde2b95273d45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Litha Ritual 2018.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Litha Ritual 2018"
-            }
-          },
-          {
-            "id": "69fa031856b0d130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FTS/Schedule 2019-04-16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2019-04-16"
-            }
-          },
-          {
             "id": "4626e7ae901c40bb",
             "type": "leaf",
             "state": {
@@ -109,57 +61,9 @@
               "icon": "lucide-file",
               "title": "Files moved to new System"
             }
-          },
-          {
-            "id": "f3491976d4b7d4ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2026-01-16 0703.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2026-01-16 0703"
-            }
-          },
-          {
-            "id": "885a9ebf15798102",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2016-04-24.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2016-04-24"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -344,19 +248,21 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "885a9ebf15798102",
+  "active": "4626e7ae901c40bb",
   "lastOpenFiles": [
-    "2016-04-24.md",
-    "Schedule 2016-04-24.md",
-    "Daily/2019-04-16.md",
-    "FTS/Schedule 2019-04-16.md",
     "Litha Ritual 2018.md",
+    "Files moved to new System.md",
+    "FTS/Schedule 2019-04-16.md",
+    "FTS/Schedule 2020-04-16.md",
+    "2020-04-16.md",
+    "Schedule 2016-04-24.md",
+    "2016-04-24.md",
+    "Daily/2019-04-16.md",
     "FTS/Schedule 2016-08-22.md",
     "Daily/2017-08-14.md",
     "FTS/Schedule 2017-08-14.md",
     "Initiation ritual idea TY.md",
     "FTS/Thoughts 2004-08-17.md",
-    "Files moved to new System.md",
     "Daily/2004-08-17.md",
     "References/Midnight Prepatch Starts-20260116065934.md",
     "References/Legion remix ends-20260116065655.md",
@@ -371,8 +277,6 @@
     "Eight Strand Brand Part 2.md",
     "FTS/Schedule 2019-08-16.md",
     "Eight Strand Brand Part 1.md",
-    "Daily/2026-01-16.md",
-    "Daily/2019-08-16.md",
     "progressive.base",
     "a2dpkms.base",
     "vault2progress.base",
