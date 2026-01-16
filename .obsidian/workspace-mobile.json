@@ -17,7 +17,7 @@
                 "file": "Life board.canvas",
                 "viewState": {
                   "x": -160,
-                  "y": -147.39387677819133,
+                  "y": -795.1451481653954,
                   "zoom": -0.8439670295187973
                 }
               },
@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "custom-calendar-view-default"
+              "icon": "calendar",
+              "title": "Calendar"
             }
           },
           {
@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alyssandra’s 1st birthday party-20260115191650.md",
+                "file": "Schedule 2026-01-16 0703.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Alyssandra’s 1st birthday party-20260115191650"
+              "title": "Schedule 2026-01-16 0703"
             }
           }
         ],
@@ -322,10 +322,17 @@
   },
   "active": "f3491976d4b7d4ad",
   "lastOpenFiles": [
+    "Daily/2026-01-16.md",
+    "Schedule 2026-01-16 0703.md",
     "Alyssandra’s 1st birthday party-20260115191650.md",
-    "progressive.base",
-    "Life board.canvas",
     "Eight Strand Brand Part 1.md",
+    "Life board.canvas",
+    "Midnight Launch-20260116070002.md",
+    "Midnight Prepatch Starts-20260116065934.md",
+    "Hodari’s Star Stone Search Ends-20260116065829.md",
+    "Hodari’s Star stone seach Starts-20260116065808.md",
+    "Legion remix ends-20260116065655.md",
+    "progressive.base",
     "Vault 2.0.md",
     "Thoughts 2026-01-15 1135.md",
     "23-03-03 Moms Phone Bill.md",
@@ -343,13 +350,6 @@
     "FTS/Schedule 2020-09-11.md",
     "FTS/Schedule 2021-09-21.md",
     "calc.md",
-    "ACNH design codes 2021-09-21.md",
-    "Nintendo Switch CFW.md",
-    "PoGo News 2021-09-21.md",
-    "2021-09-21.md",
-    "2022-01-22.md",
-    "FTS/Schedule 2022-01-22.md",
-    "FTS/Schedule 2018-08-12.md",
     "a2dpkms.base",
     "vault2progress.base",
     "FTS",
