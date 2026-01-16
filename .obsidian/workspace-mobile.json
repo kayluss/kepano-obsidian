@@ -133,9 +133,33 @@
               "icon": "lucide-file",
               "title": "Schedule 2026-01-16 0703"
             }
+          },
+          {
+            "id": "885a9ebf15798102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2016-04-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2016-04-24"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -320,8 +344,10 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "3e815b11f1c1914b",
+  "active": "885a9ebf15798102",
   "lastOpenFiles": [
+    "2016-04-24.md",
+    "Schedule 2016-04-24.md",
     "Daily/2019-04-16.md",
     "FTS/Schedule 2019-04-16.md",
     "Litha Ritual 2018.md",
@@ -347,8 +373,6 @@
     "Eight Strand Brand Part 1.md",
     "Daily/2026-01-16.md",
     "Daily/2019-08-16.md",
-    "Work with Deities or Spirits, Not worship.md",
-    "Ninefold Sea Blessing.md",
     "progressive.base",
     "a2dpkms.base",
     "vault2progress.base",
