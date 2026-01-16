@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "custom-calendar-view-default"
             }
           },
           {
