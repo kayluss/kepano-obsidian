@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2017-08-14.md",
+                "file": "Initiation ritual idea TY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,7 +83,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2017-08-14"
+              "title": "Initiation ritual idea TY"
             }
           },
           {
@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -320,10 +320,12 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "33edde2b95273d45",
+  "active": "4626e7ae901c40bb",
   "lastOpenFiles": [
-    "Thoughts 2004-08-17.md",
+    "Initiation ritual idea TY.md",
+    "Schedule 2017-08-14.md",
     "2017-08-14.md",
+    "Thoughts 2004-08-17.md",
     "2004-08-17.md",
     "Midnight Prepatch Starts-20260116065934.md",
     "Legion remix ends-20260116065655.md",
@@ -347,8 +349,6 @@
     "Sea Magic.md",
     "2016-08-22.md",
     "2019-06-16.md",
-    "FTS/Schedule 2019-06-16.md",
-    "Alyssandra’s 1st birthday party-20260115191650.md",
     "progressive.base",
     "a2dpkms.base",
     "vault2progress.base",
