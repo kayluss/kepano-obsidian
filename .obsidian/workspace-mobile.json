@@ -85,9 +85,33 @@
               "icon": "lucide-file",
               "title": "Schedule 2017-09-13"
             }
+          },
+          {
+            "id": "1aad1c2e50bf5666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-16 1829.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-16 1829"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,10 +296,12 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "3e815b11f1c1914b",
+  "active": "1aad1c2e50bf5666",
   "lastOpenFiles": [
-    "Daily/2017-09-13.md",
+    "2016-10-17.md",
+    "2026-01-16 1829.md",
     "FTS/Schedule 2017-09-13.md",
+    "Daily/2017-09-13.md",
     "Files moved to new System.md",
     "FTS/Schedule 2018-09-18.md",
     "FTS/Schedule 2016-09-16.md",
@@ -298,8 +324,6 @@
     "References/Midnight Prepatch Starts-20260116065934.md",
     "References/Legion remix ends-20260116065655.md",
     "FTS/Schedule 2026-01-16 0703.md",
-    "References/Can you Dig It? Introducing Hodari's Starstone Search.md",
-    "Daily/2026-01-15.md",
     "Life board.canvas",
     "progressive.base",
     "a2dpkms.base",
