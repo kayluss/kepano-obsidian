@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "custom-calendar-view-default"
+              "icon": "calendar",
+              "title": "Calendar"
             }
           },
           {
@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping 2026-01-15.md",
+                "file": "The First Step.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,11 +107,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shopping 2026-01-15"
+              "title": "The First Step"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,10 +296,13 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "1aad1c2e50bf5666",
+  "active": "4cdde16e7c494777",
   "lastOpenFiles": [
-    "2016-10-17.md",
+    "Schedule 2026-01-17 0859.md",
+    "The First Step.md",
+    "Daily/2026-01-17.md",
     "Shopping 2026-01-15.md",
+    "2016-10-17.md",
     "FTS/Schedule 2017-09-13.md",
     "Daily/2017-09-13.md",
     "Files moved to new System.md",
@@ -321,9 +324,6 @@
     "Initiation ritual idea TY.md",
     "FTS/Thoughts 2004-08-17.md",
     "Daily/2004-08-17.md",
-    "References/Midnight Prepatch Starts-20260116065934.md",
-    "References/Legion remix ends-20260116065655.md",
-    "FTS/Schedule 2026-01-16 0703.md",
     "Life board.canvas",
     "progressive.base",
     "a2dpkms.base",
