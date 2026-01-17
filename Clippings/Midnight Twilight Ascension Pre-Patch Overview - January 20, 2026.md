@@ -1,16 +1,16 @@
 ---
-title: "Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026"
-source: "https://www.wowhead.com/guide/midnight/pre-patch-game-updates-overview"
+title: Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026
+source: https://www.wowhead.com/guide/midnight/pre-patch-game-updates-overview
 author:
   - "[[Neryssa]]"
 published: 2025-12-18
 created: 2026-01-17
 description: "The World of Warcraft: Midnight pre-patch period allow players to get used to changes to addons, systems, and classes before Midnight launches. Players will also be able to participate in the Twilight Ascension event for unique rewards and catch-up gear."
 tags:
-  - "clippings"
+  - clippings
+  - to-read
 category: "[[WoW]]"
 ---
-[Remove All Ads](https://www.wowhead.com/premium) Report Ad
 
 The Midnight pre-patch introduces extensive updates, giving players time to familiarize themselves with changes to addons, systems, and classes before the expansion's launch. Players can participate in the Twilight Ascension pre-patch event for unique rewards and catch-up gear.
 

@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "custom-calendar-view-default"
             }
           },
           {
@@ -140,7 +140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wow Midnight Pre-patch Launch.md",
+                "file": "Clippings/Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -155,7 +155,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wow Midnight Pre-patch Launch"
+              "title": "Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026"
             }
           }
         ],
@@ -346,20 +346,20 @@
   },
   "active": "651a0ba04b771078",
   "lastOpenFiles": [
+    "Daily/2026-01-17.md",
+    "Clippings/Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026.md",
+    "Wow Midnight Pre-patch Launch.md",
+    "Untitled 1.base",
     "WoW.md",
     "References/Midnight Prepatch Starts-20260116065934.md",
     "References/Legion remix ends- 1-19-26- use all bronze.md",
     "FTS/Schedule 2023-09-01.md",
     "FTS/Schedule 2023-05-17.md",
     "warcraft.base",
-    "Untitled 1.base",
     "Untitled 2.base",
-    "Clippings/Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026.md",
-    "Wow Midnight Pre-patch Launch.md",
     "References/Midnight Twilight Ascension Pre-Patch Event and Rewards - Mounts, Pets, Decor, Transmog.md",
     "The First Step.md",
     "Schedule 2026-01-17 0859.md",
-    "Daily/2026-01-17.md",
     "Shopping 2026-01-15.md",
     "2016-10-17.md",
     "FTS/Schedule 2017-09-13.md",
@@ -374,7 +374,6 @@
     "FTS/Schedule 2019-04-16.md",
     "FTS/Schedule 2020-04-16.md",
     "Daily/2020-04-16.md",
-    "FTS/Schedule 2016-04-24.md",
     "Life board.canvas",
     "progressive.base",
     "a2dpkms.base",
