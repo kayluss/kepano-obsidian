@@ -63,30 +63,6 @@
             }
           },
           {
-            "id": "2f7c6a5c463f5fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FTS/Schedule 2017-09-13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2017-09-13"
-            }
-          },
-          {
             "id": "1aad1c2e50bf5666",
             "type": "leaf",
             "state": {
@@ -111,12 +87,12 @@
             }
           },
           {
-            "id": "91c335b18e976622",
+            "id": "8c93c3df25be1d17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Midnight Twilight Ascension Pre-Patch Event and Rewards - Mounts, Pets, Decor, Transmog.md",
+                "file": "Schedule 2019-11-13.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -131,131 +107,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Midnight Twilight Ascension Pre-Patch Event and Rewards - Mounts, Pets, Decor, Transmog"
-            }
-          },
-          {
-            "id": "651a0ba04b771078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026"
-            }
-          },
-          {
-            "id": "89bcbd43ff32e1d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FTS/Schedule 2026-01-17 0859.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2026-01-17 0859"
-            }
-          },
-          {
-            "id": "5d7158bfc4eba286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2017-10-13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2017-10-13"
-            }
-          },
-          {
-            "id": "8dcf26469d51b53e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2026-01-18 1206.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2026-01-18 1206"
-            }
-          },
-          {
-            "id": "70a7c1da960661a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2016-11-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2016-11-15"
+              "title": "Schedule 2019-11-13"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -440,24 +296,28 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "70a7c1da960661a1",
+  "active": "8c93c3df25be1d17",
   "lastOpenFiles": [
+    "2019-11-13.md",
+    "Schedule 2019-11-13.md",
+    "The First Step.md",
+    "FTS/Schedule 2017-09-13.md",
+    "References/Midnight Twilight Ascension Pre-Patch Event and Rewards - Mounts, Pets, Decor, Transmog.md",
+    "Clippings/Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026.md",
+    "FTS/Schedule 2026-01-17 0859.md",
+    "Daily/2017-10-13.md",
+    "FTS/Schedule 2026-01-18 1206.md",
+    "FTS/Schedule 2016-11-15.md",
     "2016-11-15.md",
-    "Schedule 2016-11-15.md",
-    "Schedule 2026-01-18 1206.md",
     "Daily/2026-01-18.md",
     "Schedule 2015-11-14.md",
     "2015-11-14.md",
-    "Daily/2017-10-13.md",
     "FTS/Schedule 2017-10-13.md",
     "Attachments/IMG_3436.png",
-    "FTS/Schedule 2026-01-17 0859.md",
     "Daily/2026-01-17.md",
-    "Clippings/Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026.md",
     "Early Access Midnight Launch-20260117095409.md",
     "Two minutes to Midnight.md",
     "Wow Midnight Pre-patch Launch.md",
-    "References/Midnight Twilight Ascension Pre-Patch Event and Rewards - Mounts, Pets, Decor, Transmog.md",
     "Untitled 1.base",
     "WoW.md",
     "References/Midnight Prepatch Starts-20260116065934.md",
@@ -466,12 +326,8 @@
     "FTS/Schedule 2023-05-17.md",
     "warcraft.base",
     "Untitled 2.base",
-    "The First Step.md",
     "FTS/Shopping 2026-01-15.md",
     "Daily/2016-10-17.md",
-    "FTS/Schedule 2017-09-13.md",
-    "Daily/2017-09-13.md",
-    "Files moved to new System.md",
     "Life board.canvas",
     "progressive.base",
     "a2dpkms.base",

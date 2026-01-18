@@ -22,4 +22,4 @@ via: ao3
 status:
   - Done
 ---
-1 chapter fiction with almost 10,00 words. Covers Emmaleaving SB after becoming the Dark one. Non-canon. Good angst. Did not download.
+1 chapter fiction with almost 10,00 words. Covers Emma leaving SB after becoming the Dark one. Non-canon. Good angst. Did not download.
