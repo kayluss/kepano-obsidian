@@ -212,7 +212,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-18.md",
+                "file": "Schedule 2026-01-18 1206.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -227,7 +227,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-18"
+              "title": "Schedule 2026-01-18 1206"
             }
           }
         ],
@@ -418,8 +418,9 @@
   },
   "active": "8dcf26469d51b53e",
   "lastOpenFiles": [
-    "Schedule 2015-11-14.md",
     "Daily/2026-01-18.md",
+    "Schedule 2026-01-18 1206.md",
+    "Schedule 2015-11-14.md",
     "2015-11-14.md",
     "Daily/2017-10-13.md",
     "FTS/Schedule 2017-10-13.md",
@@ -447,7 +448,6 @@
     "Files moved to new System.md",
     "FTS/Schedule 2018-09-18.md",
     "FTS/Schedule 2016-09-16.md",
-    "On the Outisde.md",
     "Life board.canvas",
     "progressive.base",
     "a2dpkms.base",
