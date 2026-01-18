@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "custom-calendar-view-default"
             }
           },
           {
@@ -157,9 +157,33 @@
               "icon": "lucide-file",
               "title": "Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026"
             }
+          },
+          {
+            "id": "89bcbd43ff32e1d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2026-01-17 0859.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2026-01-17 0859"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -344,14 +368,14 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "4cdde16e7c494777",
+  "active": "89bcbd43ff32e1d5",
   "lastOpenFiles": [
+    "Daily/2026-01-17.md",
+    "Clippings/Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026.md",
     "Early Access Midnight Launch-20260117095409.md",
     "Two minutes to Midnight.md",
     "Wow Midnight Pre-patch Launch.md",
     "References/Midnight Twilight Ascension Pre-Patch Event and Rewards - Mounts, Pets, Decor, Transmog.md",
-    "Clippings/Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026.md",
-    "Daily/2026-01-17.md",
     "Untitled 1.base",
     "WoW.md",
     "References/Midnight Prepatch Starts-20260116065934.md",
