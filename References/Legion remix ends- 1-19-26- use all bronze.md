@@ -7,3 +7,4 @@ categories:
   - "[[WoW]]"
 ---
 
+[[2026-01-18]] - grind  last bronze and acheivements

@@ -35,6 +35,7 @@ views:
     filters:
       and:
         - list(show).contains(this)
+        - file.hasLink("StarTalk")
     order:
       - file.name
       - show
