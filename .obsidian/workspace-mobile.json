@@ -229,9 +229,33 @@
               "icon": "lucide-file",
               "title": "Schedule 2026-01-18 1206"
             }
+          },
+          {
+            "id": "70a7c1da960661a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2016-11-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2016-11-15"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -416,10 +440,12 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "8dcf26469d51b53e",
+  "active": "70a7c1da960661a1",
   "lastOpenFiles": [
-    "Daily/2026-01-18.md",
+    "2016-11-15.md",
+    "Schedule 2016-11-15.md",
     "Schedule 2026-01-18 1206.md",
+    "Daily/2026-01-18.md",
     "Schedule 2015-11-14.md",
     "2015-11-14.md",
     "Daily/2017-10-13.md",
@@ -446,8 +472,6 @@
     "FTS/Schedule 2017-09-13.md",
     "Daily/2017-09-13.md",
     "Files moved to new System.md",
-    "FTS/Schedule 2018-09-18.md",
-    "FTS/Schedule 2016-09-16.md",
     "Life board.canvas",
     "progressive.base",
     "a2dpkms.base",
