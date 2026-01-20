@@ -61,33 +61,9 @@
               "icon": "lucide-file",
               "title": "Files moved to new System"
             }
-          },
-          {
-            "id": "1aad1c2e50bf5666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The First Step.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The First Step"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -272,8 +248,9 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "1aad1c2e50bf5666",
+  "active": "4626e7ae901c40bb",
   "lastOpenFiles": [
+    "The First Step.md",
     "Keep Me for Your Sweetness.md",
     "Everything Looks Better (in Hindsight).md",
     "Kissing Regina Mills.md",
@@ -296,7 +273,6 @@
     "Your Brain is a Time Machine, with Dean Buonomano.md",
     "Schedule 2019-11-13.md",
     "2019-11-13.md",
-    "The First Step.md",
     "FTS/Schedule 2017-09-13.md",
     "References/Midnight Twilight Ascension Pre-Patch Event and Rewards - Mounts, Pets, Decor, Transmog.md",
     "Clippings/Midnight Twilight Ascension Pre-Patch Overview - January 20, 2026.md",
