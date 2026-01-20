@@ -39,12 +39,12 @@
             }
           },
           {
-            "id": "4626e7ae901c40bb",
+            "id": "67b4befd7d7d36ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2016-06-22.md",
+                "file": "Files moved to new System.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,59 +59,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2016-06-22"
-            }
-          },
-          {
-            "id": "0f2fa5083617efbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2017-06-16.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2017-06-16"
-            }
-          },
-          {
-            "id": "43f82d0d8bb46353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2019-07-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2019-07-15"
+              "title": "Files moved to new System"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -296,19 +248,20 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "43f82d0d8bb46353",
+  "active": "67b4befd7d7d36ba",
   "lastOpenFiles": [
-    "2019-07-15.md",
+    "Schedule 2018-07-08.md",
     "Schedule 2019-07-15.md",
+    "Daily/2017-06-16.md",
+    "Daily/2016-06-22.md",
+    "2018-07-08.md",
+    "2019-07-15.md",
     "Daily/2016-07-22.md",
     "WoW.md",
     "StarTalk.md",
-    "Untitled.md",
-    "Daily/2017-06-16.md",
     "FTS/Thoughts 2020-06-16.md",
     "FTS/Schedule 2020-06-16.md",
     "Daily/2020-06-16.md",
-    "Daily/2016-06-22.md",
     "FTS/Schedule 2016-06-22.md",
     "FTS/Thoughts 2016-06-22.md",
     "FTS/Schedule 2026-01-19 0911.md",
@@ -325,7 +278,6 @@
     "Helrunar- A Manual of Rune Magick.md",
     "FTS/Schedule 2017-11-11.md",
     "Daily/2017-11-11.md",
-    "FTS/Schedule 2018-11-13.md",
     "Life board.canvas",
     "Attachments/IMG_3436.png",
     "Untitled 1.base",
