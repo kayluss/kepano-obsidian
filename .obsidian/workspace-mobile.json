@@ -42,76 +42,14 @@
             "id": "4626e7ae901c40bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2017-11-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Schedule 2017-11-11"
-            }
-          },
-          {
-            "id": "b7c70fb0f9529c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly/2025-12-28 2026-01-03 0752 W1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-28 2026-01-03 0752 W1"
-            }
-          },
-          {
-            "id": "d2c94a092a5a0450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2021-06-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2021-06-30"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -296,23 +234,24 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "d2c94a092a5a0450",
+  "active": "4626e7ae901c40bb",
   "lastOpenFiles": [
+    "FTS/Schedule 2026-01-19 0911.md",
+    "Weekly/2025-12-28 2026-01-03 0752 W1.md",
+    "FTS/Schedule 2021-06-30.md",
     "Attachments/IMG_3441.jpeg",
     "Attachments/IMG_3439.jpeg",
-    "2021-06-30.md",
-    "Schedule 2021-06-30.md",
-    "Weekly/2025-12-28 2026-01-03 0752 W1.md",
+    "Daily/2021-06-30.md",
     "ACNH Discord activity 2020-11-04.md",
-    "2020-11-04.md",
-    "Schedule 2020-11-04.md",
+    "Daily/2020-11-04.md",
+    "FTS/Schedule 2020-11-04.md",
     "Hunter Biden Email Scandals.md",
     "twittersaves commands.md",
     "Helrunar- A Manual of Rune Magick.md",
-    "Schedule 2017-11-11.md",
-    "2017-11-11.md",
-    "Schedule 2018-11-13.md",
-    "2018-11-13.md",
+    "FTS/Schedule 2017-11-11.md",
+    "Daily/2017-11-11.md",
+    "FTS/Schedule 2018-11-13.md",
+    "Daily/2018-11-13.md",
     "Files moved to new System.md",
     "The First Step.md",
     "Keep Me for Your Sweetness.md",
@@ -320,7 +259,6 @@
     "Kissing Regina Mills.md",
     "Life board.canvas",
     "SHopping 2026-01-19 0912.md",
-    "2026-01-19 0911.md",
     "Daily/2026-01-19.md",
     "References/Legion remix ends- 1-19-26- use all bronze.md",
     "Daily/2026-01-18.md",
@@ -343,7 +281,6 @@
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE 1.png",
     "Attachments/IMG_3401.jpeg",
-    "Attachments/image 39.jpg",
-    "Attachments/IMG_2580.png"
+    "Attachments/image 39.jpg"
   ]
 }
