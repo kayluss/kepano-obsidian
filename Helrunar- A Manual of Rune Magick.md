@@ -43,3 +43,15 @@ Notes:
         - immanuel Veilikovsky- Was blacklisted because he suggested the earth had several geological catastrophes through out the ages. 
         - Celts and Germani people still have an unknown origin. Caesar and Tacitus differ on their description of the German people. dear tended toward primitive barbarians while Tacitus Leland toward noble savages. Caesar never distinguished between tribes, just used a geographical division to label the tribes.
         - The[[ Prose Eddas]] is a handbook for skalds with the most common part of the myths we know now. There was no fundamental Norse pagan religion practiced in prehistory or the age before snorting.
+[[2020-11-04]]
+	- pg 151
+        - the first aettir is associated with [[Frey]]/[[Freyja]]
+        - the second [[Wodan]] as [[Har]](the High) or [[Hodir]] (the one with the hat/hood)
+        - the second can also be linked to [[Helja]], the [[vield]] one of the [[underworld]]
+        - the third to [[Tyr ]]the primal bisexual god  **first reference to bisexual Tyr I have heard**
+        - Chp 6 **Runes and Fascism**
+            - Most facts about the third Rich and Esoterism can't be proved.
+            - Thule society was an esoteric order and a politcal club, so not every member was a magic practitioner.
+            - Thule society grabbed from lots of different sources, Wagner, Arthurian Mythos, Eddic Legends, Grimm's stories. 
+            - Believed that Tibet was the home country of the Aryan race.
+            - Guido von list interpretations and creation of an 18 letter alphabet was highly influential to the Thule Society and Nazi  esoteric thought.
