@@ -61,9 +61,33 @@
               "icon": "lucide-file",
               "title": "2016-06-22"
             }
+          },
+          {
+            "id": "0f2fa5083617efbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts 2020-06-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thoughts 2020-06-16"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,11 +272,14 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "4626e7ae901c40bb",
+  "active": "0f2fa5083617efbe",
   "lastOpenFiles": [
+    "Schedule 2020-06-16.md",
+    "Thoughts 2020-06-16.md",
+    "2020-06-16.md",
+    "Daily/2016-06-22.md",
     "Schedule 2016-06-22.md",
     "FTS/Thoughts 2016-06-22.md",
-    "Daily/2016-06-22.md",
     "FTS/Schedule 2026-01-19 0911.md",
     "Weekly/2025-12-28 2026-01-03 0752 W1.md",
     "FTS/Schedule 2021-06-30.md",
@@ -276,9 +303,6 @@
     "Kissing Regina Mills.md",
     "Life board.canvas",
     "SHopping 2026-01-19 0912.md",
-    "Daily/2026-01-19.md",
-    "References/Legion remix ends- 1-19-26- use all bronze.md",
-    "Daily/2026-01-18.md",
     "Attachments/IMG_3436.png",
     "Untitled 1.base",
     "warcraft.base",
