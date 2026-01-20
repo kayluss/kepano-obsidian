@@ -4,7 +4,7 @@ tags:
   - note
   - journal
 ---
-Trades
+- Trades
         - Ry - discord- 6 stacks of wood for 6 crescent chairs
         - Layne -discord- autumn wall for mats + tip
     - Server Boosters Drops
@@ -12,3 +12,11 @@ Trades
     - TI Giveaways
         - Sad ducky
             - kgpsb
+- Pokemon Giveaways
+	- - @aka_elixe on [[twittersaves]] 2018 Legends Shiny Zygarde
+        - [x] still trying to pin down time to trade.
+    - IGN Gracilinadiscord server  won the LVL 70 Lugia for Sword/Shield/Home!
+        - [x] waiting to hear from them.
+        - giveaway completed
+    - Angy discord server won the Jirachi wishmaker 
+        - giveaway completed 
