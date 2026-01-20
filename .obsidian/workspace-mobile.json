@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts 2020-06-16.md",
+                "file": "2017-06-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,11 +83,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts 2020-06-16"
+              "title": "2017-06-16"
+            }
+          },
+          {
+            "id": "43f82d0d8bb46353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2016-07-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2016-07-22"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,10 +296,13 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "0f2fa5083617efbe",
+  "active": "43f82d0d8bb46353",
   "lastOpenFiles": [
-    "Schedule 2020-06-16.md",
+    "Untitled.md",
+    "2016-07-22.md",
+    "2017-06-16.md",
     "Thoughts 2020-06-16.md",
+    "Schedule 2020-06-16.md",
     "2020-06-16.md",
     "Daily/2016-06-22.md",
     "Schedule 2016-06-22.md",
@@ -299,10 +326,7 @@
     "Files moved to new System.md",
     "The First Step.md",
     "Keep Me for Your Sweetness.md",
-    "Everything Looks Better (in Hindsight).md",
-    "Kissing Regina Mills.md",
     "Life board.canvas",
-    "SHopping 2026-01-19 0912.md",
     "Attachments/IMG_3436.png",
     "Untitled 1.base",
     "warcraft.base",
