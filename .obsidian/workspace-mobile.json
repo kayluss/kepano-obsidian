@@ -42,10 +42,24 @@
             "id": "4626e7ae901c40bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2016-06-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2016-06-22"
             }
           }
         ],
@@ -236,6 +250,9 @@
   },
   "active": "4626e7ae901c40bb",
   "lastOpenFiles": [
+    "Schedule 2016-06-22.md",
+    "FTS/Thoughts 2016-06-22.md",
+    "Daily/2016-06-22.md",
     "FTS/Schedule 2026-01-19 0911.md",
     "Weekly/2025-12-28 2026-01-03 0752 W1.md",
     "FTS/Schedule 2021-06-30.md",
@@ -262,8 +279,6 @@
     "Daily/2026-01-19.md",
     "References/Legion remix ends- 1-19-26- use all bronze.md",
     "Daily/2026-01-18.md",
-    "Daily/2026-01-11.md",
-    "Daily/2026-01-12.md",
     "Attachments/IMG_3436.png",
     "Untitled 1.base",
     "warcraft.base",
