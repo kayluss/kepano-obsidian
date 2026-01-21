@@ -157,6 +157,54 @@
               "icon": "lucide-file",
               "title": "Hodari’s Star stone seach Starts-20260116065808"
             }
+          },
+          {
+            "id": "ea74e65b4b136ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar Notes/Christmas 2025 Inlaws.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Christmas 2025 Inlaws"
+            }
+          },
+          {
+            "id": "fc7e1bd13993b6dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar Notes/Alyssandra’s 1st birthday party-20260115191650.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Alyssandra’s 1st birthday party-20260115191650"
+            }
           }
         ],
         "currentTab": 1
@@ -346,6 +394,7 @@
   },
   "active": "4cdde16e7c494777",
   "lastOpenFiles": [
+    "Calendar Notes/Christmas 2025 Inlaws.md",
     "Calendar Notes/Tanner for the weekend-20260121095410.md",
     "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
     "Life board.canvas",

@@ -6,7 +6,8 @@ categories:
 tags:
   - events
 type:
-start: 2026-05-02
-end: 2026-05-02
+Start Date: 2026-05-02
+End Date: 2026-05-02
 loc:
+Category: "[[Family Visits]]"
 ---
