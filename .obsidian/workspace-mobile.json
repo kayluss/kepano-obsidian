@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "custom-calendar-view-default"
             }
           },
           {
@@ -207,7 +207,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,7 +235,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Mildred",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -286,7 +286,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -392,8 +392,9 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "4cdde16e7c494777",
+  "active": "016477e729f7f701",
   "lastOpenFiles": [
+    "Calendar Notes/Alyssandra’s 1st birthday party-20260115191650.md",
     "Calendar Notes/Christmas 2025 Inlaws.md",
     "Calendar Notes/Tanner for the weekend-20260121095410.md",
     "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
@@ -421,7 +422,6 @@
     "FTS/Schedules 2020-06-16.md",
     "Daily/2016-07-22.md",
     "FTS/Schedule 2018-07-08.md",
-    "FTS/Schedule 2019-07-15.md",
     "Attachments/IMG_3441.jpeg",
     "Attachments/IMG_3439.jpeg",
     "Attachments/IMG_3436.png",
