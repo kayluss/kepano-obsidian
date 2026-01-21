@@ -17,8 +17,9 @@ categories:
 	 - [[Progressive]]
 	 - [[Garbage]]
 	 - [[Gas]]
-	 - [[YoutubeBill]]
+	 - [[YoutubeBill]] - 21st of thw month
 	 - [[Navient]]
+	 - Magick spoon- 20th of the month
 
 - Medical
 	 - [[Mile Bluff Clinic]]

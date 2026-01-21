@@ -16,9 +16,9 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -160,
-                  "y": -825.8067939522074,
-                  "zoom": -0.8439670295187973
+                  "x": -1326.6176384777052,
+                  "y": -1016.7414925898834,
+                  "zoom": 0.677991237874345
                 }
               },
               "pinned": true,
@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "custom-calendar-view-default"
+              "icon": "calendar",
+              "title": "Calendar"
             }
           },
           {
@@ -63,36 +63,12 @@
             }
           },
           {
-            "id": "3aac6b9135a13c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FTS/Schedule 2026-01-21 0943.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2026-01-21 0943"
-            }
-          },
-          {
             "id": "6888668c201c9562",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar Notes/Tanner for the weekend-20260121095410.md",
+                "file": "FTS/2025-12-26 2200 to do.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,7 +83,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tanner for the weekend-20260121095410"
+              "title": "2025-12-26 2200 to do"
             }
           },
           {
@@ -206,8 +182,7 @@
               "title": "Alyssandra’s 1st birthday party-20260115191650"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,7 +197,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -235,7 +210,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Income",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -392,17 +367,28 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "016477e729f7f701",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
+    "FTS/2025-12-26 2200 to do.md",
+    "Daily/2025-12-26.md",
+    "Daily/2025-12-27.md",
+    "Daily/2025-12-28.md",
+    "Daily/2025-12-29.md",
+    "Daily/2025-12-30.md",
+    "Daily/2025-12-31.md",
+    "2024-10-18 Passports Update- Fort.md",
+    "Daily/2025-12-06.md",
+    "Passports.md",
+    "Update  AO3 12-22-23.md",
+    "Calendar Notes/Tanner for the weekend-20260121095410.md",
+    "FTS/Schedule 2026-01-21 0943.md",
+    "Files moved to new System.md",
     "Calendar Notes/Alyssandra’s 1st birthday party-20260115191650.md",
     "Calendar Notes/Christmas 2025 Inlaws.md",
-    "Calendar Notes/Tanner for the weekend-20260121095410.md",
     "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
     "Life board.canvas",
-    "Files moved to new System.md",
     "Family Visits.md",
     "Calendar Notes/Wow Midnight Pre-patch Launch.md",
-    "FTS/Schedule 2026-01-21 0943.md",
     "Calendar Notes/Tanner till Sunday-20260121094619.md",
     "Calendar Notes",
     "Daily/2026-01-21.md",
@@ -411,17 +397,6 @@
     "Weekly/2026-W04.md",
     "FTS/Thoughts 1.20.26.md",
     "Weekly/2026-W03.md",
-    "New food work 01-20-26.md",
-    "FTS/Thoughts 2020-07-16.md",
-    "FTS/Shopping 2020-07-16.md",
-    "FTS/Schedule 2020-07-16.md",
-    "Daily/2020-07-16 1.md",
-    "Daily/2020-06-16.md",
-    "FTS/Morning Writing 2020-06-16.md",
-    "FTS/Schedule 2020-06-16.md",
-    "FTS/Schedules 2020-06-16.md",
-    "Daily/2016-07-22.md",
-    "FTS/Schedule 2018-07-08.md",
     "Attachments/IMG_3441.jpeg",
     "Attachments/IMG_3439.jpeg",
     "Attachments/IMG_3436.png",
