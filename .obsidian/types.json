@@ -74,6 +74,7 @@
     "TQ_show_urgency": "checkbox",
     "last updated": "date",
     "": "date",
-    "End Date": "date"
+    "End Date": "datetime",
+    "Start Date": "date"
   }
 }

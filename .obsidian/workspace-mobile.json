@@ -39,30 +39,6 @@
             }
           },
           {
-            "id": "42399606a14e3c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Family Visits.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Family Visits"
-            }
-          },
-          {
             "id": "67b4befd7d7d36ba",
             "type": "leaf",
             "state": {
@@ -140,7 +116,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "References/Hodari’s Star stone seach Starts-20260116065808.md",
+                "file": "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hodari’s Star stone seach Starts-20260116065808"
+            }
+          },
+          {
+            "id": "f9b8cbf372e492f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -346,10 +346,12 @@
   },
   "active": "4cdde16e7c494777",
   "lastOpenFiles": [
-    "Family Visits.md",
     "Calendar Notes/Tanner for the weekend-20260121095410.md",
-    "References/Hodari’s Star stone seach Starts-20260116065808.md",
-    "References/Wow Midnight Pre-patch Launch.md",
+    "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
+    "Life board.canvas",
+    "Files moved to new System.md",
+    "Family Visits.md",
+    "Calendar Notes/Wow Midnight Pre-patch Launch.md",
     "FTS/Schedule 2026-01-21 0943.md",
     "Calendar Notes/Tanner till Sunday-20260121094619.md",
     "Calendar Notes",
@@ -369,13 +371,10 @@
     "FTS/Schedule 2020-06-16.md",
     "FTS/Schedules 2020-06-16.md",
     "Daily/2016-07-22.md",
-    "Files moved to new System.md",
     "FTS/Schedule 2018-07-08.md",
     "FTS/Schedule 2019-07-15.md",
-    "Daily/2017-06-16.md",
     "Attachments/IMG_3441.jpeg",
     "Attachments/IMG_3439.jpeg",
-    "Life board.canvas",
     "Attachments/IMG_3436.png",
     "Untitled 1.base",
     "warcraft.base",
