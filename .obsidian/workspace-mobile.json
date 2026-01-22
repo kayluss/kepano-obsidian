@@ -17,7 +17,7 @@
                 "file": "Life board.canvas",
                 "viewState": {
                   "x": -626.7565041463818,
-                  "y": -656.3654423948649,
+                  "y": -1002.3482680997641,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files moved to new System.md",
+                "file": "Thoughts2026-01-22 0740.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,71 +59,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Files moved to new System"
-            }
-          },
-          {
-            "id": "6888668c201c9562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FTS/2025-12-26 2200 to do.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-26 2200 to do"
-            }
-          },
-          {
-            "id": "4fe43d382138a2a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hodari’s Star stone seach Starts-20260116065808"
-            }
-          },
-          {
-            "id": "7e7b5052394e7d95",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Templates/Bases/Books.base",
-                "viewName": "Books"
-              },
-              "icon": "lucide-table",
-              "title": "Books"
+              "title": "Thoughts2026-01-22 0740"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -308,15 +248,20 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "67b4befd7d7d36ba",
   "lastOpenFiles": [
+    "Daily/2026-01-22.md",
+    "Thoughts2026-01-22 0740.md",
+    "Schedule 2026-01-22 0739.md",
+    "Files moved to new System.md",
+    "FTS/2025-12-26 2200 to do.md",
     "Templates/Bases/Books.base",
+    "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
+    "Life board.canvas",
     "Untitled.md",
     "Gideon the Ninth - Tamsyn Muir.md",
-    "Life board.canvas",
     "Books.md",
     "What’s Wrong With Emma Swan.md",
-    "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
     "References/The Machine Stops.md",
     "The Enduring East.md",
     "References/Out of Control.md",
@@ -333,10 +278,6 @@
     "The Subtle Threads of Souls.md",
     "Where This Leaves Us.md",
     "Beautiful destruction at the Hands of The moon and sun.md",
-    "Love is the Master.md",
-    "The Captain and her Captain.md",
-    "The Cradle of the Mother, the Cradle of Death.md",
-    "Deserved.md",
     "Untitled 1.base",
     "Calendar Notes",
     "Attachments/IMG_3441.jpeg",
