@@ -19,12 +19,10 @@ views:
         - file.hasLink("Books")
         - not:
             - file.inFolder("Templates")
+            - status == [" Done"]
     order:
       - file.name
       - author
-      - length
-      - year
-      - rating
       - topics
       - last
       - status

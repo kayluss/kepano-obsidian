@@ -5,7 +5,6 @@ tags:
   - journal
   - to-read
 categories:
-  - "[[Books]]"
   - "[[Current Fanfiction]]"
 author:
   - Nopejune

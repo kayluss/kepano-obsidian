@@ -6,7 +6,6 @@ tags:
   - to-read
 categories:
   - "[[Current Fanfiction]]"
-  - "[[Books]]"
 Last read: 2026-01-01
 author:
   - Mgthejrkbender

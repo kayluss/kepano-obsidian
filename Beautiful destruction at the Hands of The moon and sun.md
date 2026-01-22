@@ -3,7 +3,6 @@ created: 2026-01-01
 tags:
   - to-read
 categories:
-  - "[[Books]]"
   - "[[Current Fanfiction]]"
 author:
   - AlexandraUdinov144

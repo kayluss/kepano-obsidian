@@ -1,6 +1,5 @@
 ---
 categories:
-  - "[[Books]]"
   - "[[Current Fanfiction]]"
 author:
   - insanetwin

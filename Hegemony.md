@@ -1,7 +1,6 @@
 ---
 created: 2026-01-01
 categories:
-  - "[[Books]]"
   - "[[Current Fanfiction]]"
 author:
   - Astronaut86
