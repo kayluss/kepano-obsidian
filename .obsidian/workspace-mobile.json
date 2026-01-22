@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -626.7565041463818,
-                  "y": -1002.3482680997641,
+                  "x": -1391.7260015399095,
+                  "y": -1083.287202456069,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -37,14 +37,20 @@
               "icon": "calendar",
               "title": "Calendar"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f3b801f4dd91576e",
+        "type": "tabs",
+        "children": [
           {
-            "id": "67b4befd7d7d36ba",
+            "id": "70066dfdd321ab12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts 2026-01-22 0740.md",
+                "file": "The Swan and The Nightingale.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,11 +65,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts 2026-01-22 0740"
+              "title": "The Swan and The Nightingale"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,36 +253,36 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "4cdde16e7c494777",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
-    "Daily/2026-01-22.md",
-    "Thoughts 2026-01-22 0740.md",
-    "Schedule 2026-01-22 0739.md",
-    "Files moved to new System.md",
-    "FTS/2025-12-26 2200 to do.md",
-    "Templates/Bases/Books.base",
-    "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
-    "Life board.canvas",
-    "Untitled.md",
-    "Gideon the Ninth - Tamsyn Muir.md",
-    "Books.md",
-    "What’s Wrong With Emma Swan.md",
-    "References/The Machine Stops.md",
-    "The Enduring East.md",
-    "References/Out of Control.md",
-    "Of Blood and Cinders.md",
-    "Of Prayer Bruised Knees & Crimson Crucifixes.md",
-    "In The Shadow of Your Heart.md",
-    "Hegemony.md",
-    "Don’t bleed out (it’s not the time).md",
-    "Construction of Ritual.md",
-    "Can’t You See (What That Women Been Doing to ME).md",
+    "The Swan and The Nightingale.md",
+    "Next Best Thing.md",
     "Current Fanfiction.md",
-    "Wicked Games.md",
+    "Life board.canvas",
+    "The Compass and The Soldier.md",
+    "Templates/Fanfiction.md",
+    "Just Before The Walls Come Down.md",
+    "Just Let Go, I Promise I’ll catch You.md",
+    "In Such Cunning Disguise.md",
+    "The Zephyr and The Ray.md",
+    "My Swirling Wants - Your Frozen Lips.md",
+    "The Tales of Fangs.md",
+    "Your Secrets I’ll Keep.md",
+    "Romance and All Its Strategy.md",
+    "Daily/2026-01-22.md",
+    "Burn.md",
     "Made For You.md",
     "The Subtle Threads of Souls.md",
-    "Where This Leaves Us.md",
-    "Beautiful destruction at the Hands of The moon and sun.md",
+    "Untitled.md",
+    "Of Blood and Cinders.md",
+    "Vault 2.0.md",
+    "Thoughts 2026-01-22 0740.md",
+    "Calendar Notes/work 1130-7-20260122080640.md",
+    "Care Credit 1-21-26.md",
+    "Calendar Notes/work 630-2-20260122080745.md",
+    "work schedule.md",
+    "Calendar Notes/work 10-4-20260122080556.md",
+    "Templates/Bases/Books.base",
     "Untitled 1.base",
     "Calendar Notes",
     "Attachments/IMG_3441.jpeg",

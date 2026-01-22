@@ -15,7 +15,8 @@ year: 2024
 rating:
 topics:
   - Talder
-Last read:
+Last read: 2026-01-22
 last updated: 2024-02-17
 via: ao3
 ---
+rereading from beginning

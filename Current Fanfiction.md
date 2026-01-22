@@ -8,31 +8,16 @@ tags:
 
 
 
-
+# Pairings
 ### Talder
--  [Of Blood and Cinders](https://archiveofourown.org/works/53866576)
--  [The Subtle Threads of Souls](https://archiveofourown.org/works/52213033)
--  [Don't bleed out (it's not the time)](https://archiveofourown.org/works/53089252)
--  [In The Shadow of Your Heart](https://archiveofourown.org/works/53643460)
--  [A Tale of Frost and Embers](https://archiveofourown.org/works/46814626)
-- [Just let go, I promise i'll catch you.](https://archiveofourown.org/works/54510310)
--  [In Such Cunning Disguise](https://archiveofourown.org/works/47629600) #read 
--  [The Zephyr and The Ray](https://archiveofourown.org/works/42910215)
-- [my swirling wants. your frozen lips.](https://archiveofourown.org/works/53236831)
--  [Made for you](https://archiveofourown.org/works/51066994)
--  [The Tale of Fangs](https://archiveofourown.org/works/53207245)
-- [Your Secrets I'll Keep](https://archiveofourown.org/works/32806057)
--  [Romance and All Its Strategy](https://archiveofourown.org/works/42774375)
--  [Burn](https://archiveofourown.org/works/54160018)
--  <a href="https://archiveofourown.org/works/43574082"><strong>Just Before The Walls Come Down</strong></a> 
-- [The Compass and The Soldier - Chapter 6 - Evehs_Lullaby - Motherland: Fort Salem (TV) [Archive of Our Own]](https://archiveofourown.org/works/40327041/chapters/139605913#workskin) 
 
 ### SwanQueen
-https://archiveofourown.org/works/69583601 - Next Best Thing (house, Miami Trauma AU)
-https://archiveofourown.org/works/4593264/chapters/21094481#workskin - The Swan and The Nightengale
+
 https://archiveofourown.org/works/53861446/chapters/143737837#workskin - Through the hat
 [Over The Town Line - Chapter 38 - SpookshowBabyx - Once Upon a Time (TV) [Archive of Our Own]](https://archiveofourown.org/works/55788835/chapters/147940108#workskin)
 [Powerless - Chapter 1 - elmaxswanmills - Once Upon a Time (TV) [Archive of Our Own]](https://archiveofourown.org/works/26273695/chapters/63960961)
+
+### La’Una
  
 
 ### Finished Works
