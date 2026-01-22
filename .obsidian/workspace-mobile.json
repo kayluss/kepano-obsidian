@@ -17,7 +17,7 @@
                 "file": "Life board.canvas",
                 "viewState": {
                   "x": -753.6747267538782,
-                  "y": -635.1270770785958,
+                  "y": -737.3472797997068,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping 2026-01-22 1608.md",
+                "file": "Templates/Bills Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -131,11 +131,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shopping 2026-01-22 1608"
+              "title": "Bills Template"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -320,10 +319,12 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "fc9dea5daebba760",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
-    "Daily/2026-01-21.md",
+    "Templates/Bills Template.md",
+    "Jan 2026 Paypal.md",
     "Shopping 2026-01-22 1608.md",
+    "Daily/2026-01-21.md",
     "Life board.canvas",
     "Schedule 2026-01-22 0739.md",
     "Daily/2026-01-22.md",
@@ -347,8 +348,6 @@
     "Romance and All Its Strategy.md",
     "Burn.md",
     "Made For You.md",
-    "The Subtle Threads of Souls.md",
-    "Of Blood and Cinders.md",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
     "Calendar Notes",
