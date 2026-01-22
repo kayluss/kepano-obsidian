@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -842.9886555770535,
-                  "y": -593.6598958392643,
+                  "x": -592.2716982377118,
+                  "y": -631.9372939063396,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "custom-calendar-view-default"
+              "icon": "calendar",
+              "title": "Calendar"
             }
           },
           {
@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-22.md",
+                "file": "Schedule 2026-01-22 0739.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,11 +107,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-22"
+              "title": "Schedule 2026-01-22 0739"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,16 +295,16 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "6c37fd6b56fc4e74",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
+    "Schedule 2026-01-22 0739.md",
+    "Daily/2026-01-22.md",
     "Life board.canvas",
     "Books.md",
     "The T’ai Shang Tractate.md",
     "Vault 2.0.md",
     "Daily/2020-07-16.md",
     "Daily/2020-07-16 1.md",
-    "Schedule 2026-01-22 0739.md",
-    "Daily/2026-01-22.md",
     "Current Fanfiction.md",
     "The Swan and The Nightingale.md",
     "Next Best Thing.md",
