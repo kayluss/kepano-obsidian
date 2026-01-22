@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -1391.7260015399095,
-                  "y": -1083.287202456069,
+                  "x": -450.88888873761255,
+                  "y": -1017.5755118827623,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -38,7 +38,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f3b801f4dd91576e",
@@ -50,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Swan and The Nightingale.md",
+                "file": "Vault 2.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -65,7 +66,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Swan and The Nightingale"
+              "title": "Vault 2.0"
             }
           }
         ]
@@ -253,12 +254,17 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "4cdde16e7c494777",
   "lastOpenFiles": [
+    "Vault 2.0.md",
+    "Life board.canvas",
+    "Daily/2020-07-16.md",
+    "Daily/2020-07-16 1.md",
+    "Schedule 2026-01-22 0739.md",
+    "Daily/2026-01-22.md",
+    "Current Fanfiction.md",
     "The Swan and The Nightingale.md",
     "Next Best Thing.md",
-    "Current Fanfiction.md",
-    "Life board.canvas",
     "The Compass and The Soldier.md",
     "Templates/Fanfiction.md",
     "Just Before The Walls Come Down.md",
@@ -269,19 +275,13 @@
     "The Tales of Fangs.md",
     "Your Secrets I’ll Keep.md",
     "Romance and All Its Strategy.md",
-    "Daily/2026-01-22.md",
     "Burn.md",
     "Made For You.md",
     "The Subtle Threads of Souls.md",
     "Untitled.md",
     "Of Blood and Cinders.md",
-    "Vault 2.0.md",
     "Thoughts 2026-01-22 0740.md",
     "Calendar Notes/work 1130-7-20260122080640.md",
-    "Care Credit 1-21-26.md",
-    "Calendar Notes/work 630-2-20260122080745.md",
-    "work schedule.md",
-    "Calendar Notes/work 10-4-20260122080556.md",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
     "Calendar Notes",

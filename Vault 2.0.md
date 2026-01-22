@@ -21,17 +21,16 @@ should I use [[weekly notes]] - answered Yes I will use weekly notes for to do l
 
 # Priority To Do
 
-- [ ] Conver [[Current Fanfiction]] into a category and create notes for links listed. Next- of Blood and cinders
+- [ ] Conver [[Current Fanfiction]] into a category and create notes for links listed. Next- Through the Hat
 - [ ] Migrate MOC files over
-- [ ] Migrate Menstruation tracker
-- [ ] Migrate Bills
+- [ ] Migrate Menstruation tracker left off at 2020-07-16.
+- [ ] Migrate Bills ~~progressive~~ ~~spectrum~~
 # Breadcrumbs to finish
 
 2022-05-14
 2022-05-15
 2022-05-06
 2022-05-20
-Sticks, Stones, Roots, & Bones
 	
 # Troubleshoot solutions
 Bases for categories 
