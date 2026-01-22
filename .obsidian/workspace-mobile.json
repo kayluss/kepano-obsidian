@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "custom-calendar-view-default"
+              "icon": "calendar",
+              "title": "Calendar"
             }
           },
           {
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts2026-01-22 0740.md",
+                "file": "Thoughts 2026-01-22 0740.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,11 +59,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts2026-01-22 0740"
+              "title": "Thoughts 2026-01-22 0740"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,10 +248,10 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "67b4befd7d7d36ba",
+  "active": "4cdde16e7c494777",
   "lastOpenFiles": [
     "Daily/2026-01-22.md",
-    "Thoughts2026-01-22 0740.md",
+    "Thoughts 2026-01-22 0740.md",
     "Schedule 2026-01-22 0739.md",
     "Files moved to new System.md",
     "FTS/2025-12-26 2200 to do.md",
