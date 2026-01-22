@@ -61,3 +61,16 @@ views:
       - genre
   - type: table
     name: Fanfiction
+  - type: table
+    name: last read
+    filters:
+      and:
+        - "!last.isEmpty()"
+    order:
+      - file.name
+      - last
+      - topics
+      - genre
+    sort:
+      - property: last
+        direction: DESC

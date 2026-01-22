@@ -4,7 +4,8 @@ categories:
 author:
   - Sandra Kynes
 cover:
-genre: []
+genre:
+  - "[[Nonfiction]]"
 pages: 201
 isbn:
 isbn13: 9780738713533

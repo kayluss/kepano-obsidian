@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -450.88888873761255,
-                  "y": -1017.5755118827623,
+                  "x": -842.9886555770535,
+                  "y": -593.6598958392643,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -34,24 +34,17 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "custom-calendar-view-default"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f3b801f4dd91576e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "70066dfdd321ab12",
+            "id": "438bb12cab72fc3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault 2.0.md",
+                "file": "The T’ai Shang Tractate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -66,10 +59,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vault 2.0"
+              "title": "The T’ai Shang Tractate"
+            }
+          },
+          {
+            "id": "67644f7b2d786d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Books"
+            }
+          },
+          {
+            "id": "6c37fd6b56fc4e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-01-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-22"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -254,10 +296,12 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "4cdde16e7c494777",
+  "active": "6c37fd6b56fc4e74",
   "lastOpenFiles": [
-    "Vault 2.0.md",
     "Life board.canvas",
+    "Books.md",
+    "The T’ai Shang Tractate.md",
+    "Vault 2.0.md",
     "Daily/2020-07-16.md",
     "Daily/2020-07-16 1.md",
     "Schedule 2026-01-22 0739.md",
@@ -278,10 +322,8 @@
     "Burn.md",
     "Made For You.md",
     "The Subtle Threads of Souls.md",
-    "Untitled.md",
     "Of Blood and Cinders.md",
     "Thoughts 2026-01-22 0740.md",
-    "Calendar Notes/work 1130-7-20260122080640.md",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
     "Calendar Notes",
