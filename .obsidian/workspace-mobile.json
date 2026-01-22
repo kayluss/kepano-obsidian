@@ -16,9 +16,9 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -580.9180511087277,
-                  "y": -1193.5983481690596,
-                  "zoom": -0.6902543531339633
+                  "x": 155.56403802985088,
+                  "y": -1028.8517714327163,
+                  "zoom": -1.3515302642305758
                 }
               },
               "pinned": true,
@@ -109,8 +109,33 @@
               "icon": "lucide-file",
               "title": "Hodari’s Star stone seach Starts-20260116065808"
             }
+          },
+          {
+            "id": "b0301f936a351177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-21 1909.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-21 1909"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -295,11 +320,14 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "b0301f936a351177",
   "lastOpenFiles": [
+    "Weekly/2026-W04.md",
+    "2026-01-21 1909.md",
+    "Daily/2026-01-21.md",
+    "Life board.canvas",
     "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
     "Eight Strand Brand Part 2.md",
-    "Life board.canvas",
     "Calendar Notes/Christmas 2025 Inlaws.md",
     "Calendar Notes/Alyssandra’s 1st birthday party-20260115191650.md",
     "Everything Looks Better (in Hindsight).md",
@@ -321,9 +349,7 @@
     "Calendar Notes/Wow Midnight Pre-patch Launch.md",
     "Calendar Notes/Tanner till Sunday-20260121094619.md",
     "Calendar Notes",
-    "Daily/2026-01-21.md",
     "FTS/Schedule 2026-01-20 1251.md",
-    "Daily/2026-01-20.md",
     "Attachments/IMG_3441.jpeg",
     "Attachments/IMG_3439.jpeg",
     "Attachments/IMG_3436.png",
