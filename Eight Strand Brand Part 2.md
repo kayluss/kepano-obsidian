@@ -12,11 +12,12 @@ rating: 8
 topics:
   - Talder
 created: 2026-01-09T19:59:00
-Last read:
-last updated: 2026-01-16
+Last read: 2026-01-21
+last updated: 2025-05-06
 via: ao3
 tags:
   - to-read
 status:
   - "[[Active]]"
 ---
+Current to Chp 32 

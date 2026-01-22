@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.hasLink("Current Fanfiction")
 views:
   - type: table
     name: Last Read
