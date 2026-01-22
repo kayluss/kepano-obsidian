@@ -27,5 +27,6 @@
     "editor:set-heading-1",
     "editor:set-heading-3",
     "command-palette:open"
-  ]
+  ],
+  "showLineNumber": true
 }

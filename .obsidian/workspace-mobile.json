@@ -150,7 +150,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byCreatedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -214,7 +214,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -322,13 +322,18 @@
   },
   "active": "b0301f936a351177",
   "lastOpenFiles": [
-    "Vault iterations.md",
-    "Vault 2.0.md",
+    "NVIM on Your iPad.md",
+    "Video What makes a Photographer When everyone is Taking Photos.md",
+    "To watch.md",
+    "YT-towatch.md",
+    "Untitled 1.base",
     "Note taking in Neovim-New Area of Learning.md",
+    "Daily/2026-01-21.md",
+    "Vault 2.0.md",
+    "Vault iterations.md",
     "Why i dont use email as a note inbox.md",
     "Discord Inbox.md",
     "Weekly/2026-W04.md",
-    "Daily/2026-01-21.md",
     "Life board.canvas",
     "Calendar Notes/Hodari’s Star stone seach Starts-20260116065808.md",
     "Eight Strand Brand Part 2.md",
@@ -345,15 +350,10 @@
     "2024-10-18 Passports Update- Fort.md",
     "Daily/2025-12-06.md",
     "Passports.md",
-    "Update  AO3 12-22-23.md",
-    "Calendar Notes/Tanner for the weekend-20260121095410.md",
-    "FTS/Schedule 2026-01-21 0943.md",
-    "Files moved to new System.md",
     "Calendar Notes",
     "Attachments/IMG_3441.jpeg",
     "Attachments/IMG_3439.jpeg",
     "Attachments/IMG_3436.png",
-    "Untitled 1.base",
     "warcraft.base",
     "Untitled 2.base",
     "progressive.base",
