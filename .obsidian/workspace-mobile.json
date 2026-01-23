@@ -27,18 +27,6 @@
             }
           },
           {
-            "id": "4cdde16e7c494777",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "custom-calendar-view-default",
-              "state": {},
-              "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "438bb12cab72fc3a",
             "type": "leaf",
             "state": {
@@ -109,33 +97,9 @@
               "icon": "lucide-file",
               "title": "Schedule 2026-01-22 0739"
             }
-          },
-          {
-            "id": "0f8652a9ca44224e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Why I Stopped Following My Heart.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Why I Stopped Following My Heart"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -317,12 +281,16 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
-      "prisma-calendar:Calendar": false,
-      "prisma-calendar:Calendar 2": false
+      "prisma-calendar:Calendar": false
     }
   },
-  "active": "0f8652a9ca44224e",
+  "active": "6c37fd6b56fc4e74",
   "lastOpenFiles": [
+    "Books.md",
+    "The T’ai Shang Tractate.md",
+    "Life board.canvas",
+    "Schedule 2026-01-22 0739.md",
+    "Clippings/Why I Stopped Following My Heart.md",
     "FTS/Thoughts 2026-01-23.md",
     "Updated Front Counter Note.md",
     "work hub.md",
@@ -333,7 +301,6 @@
     "Calendar Notes/work 1130-7-20260122080640.md",
     "Calendar Notes/work 630-2-20260122080745.md",
     "Calendar Notes/Tanner for the weekend-20260121095410.md",
-    "Clippings/Why I Stopped Following My Heart.md",
     "References/Brown butter nectarine tart.md",
     "References/Jazz.md",
     "References/Catan.md",
@@ -346,11 +313,7 @@
     "Clippings/15 Types of Professional Soft Skills (With Definitions).md",
     "References/Steph Ango.md",
     "Clippings/Buy wisely.md",
-    "References/Jennifer Herrity.md",
-    "Clippings/68 Bits of Unsolicited Advice.md",
-    "FTS/Schedule 2026-01-23 0722.md",
     "commands",
-    "Life board.canvas",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
     "Calendar Notes",
