@@ -75,6 +75,8 @@
     "last updated": "date",
     "": "date",
     "End Date": "datetime",
-    "Start Date": "date"
+    "Start Date": "date",
+    "Start Time": "datetime",
+    "End Time": "datetime"
   }
 }
