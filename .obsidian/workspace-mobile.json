@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/Strftime code.md",
+                "file": "NVIM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Strftime code"
+              "title": "NVIM"
             }
           }
         ],
@@ -322,9 +322,10 @@
   },
   "active": "0f8652a9ca44224e",
   "lastOpenFiles": [
+    "commands/Strftime code.md",
+    "NVIM.md",
     "String Format Time.md",
-    "code/Strftime code.md",
-    "code",
+    "commands",
     "Nvim Learning Notes.md",
     "Insert is different than Append.md",
     "Clippings/History and effective use of Vim.md",
@@ -349,7 +350,6 @@
     "Next Best Thing.md",
     "The Compass and The Soldier.md",
     "Templates/Fanfiction.md",
-    "Just Before The Walls Come Down.md",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
     "Calendar Notes",
