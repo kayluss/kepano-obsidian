@@ -109,9 +109,33 @@
               "icon": "lucide-file",
               "title": "Schedule 2026-01-22 0739"
             }
+          },
+          {
+            "id": "0f8652a9ca44224e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/History and effective use of Vim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "History and effective use of Vim"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -296,8 +320,10 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "4cdde16e7c494777",
+  "active": "0f8652a9ca44224e",
   "lastOpenFiles": [
+    "Vim Motions.md",
+    "Clippings/History and effective use of Vim.md",
     "Templates/Bills Template.md",
     "Sea Magic.md",
     "Ninefold Sea Blessing.md",
@@ -323,8 +349,6 @@
     "In Such Cunning Disguise.md",
     "The Zephyr and The Ray.md",
     "My Swirling Wants - Your Frozen Lips.md",
-    "The Tales of Fangs.md",
-    "Your Secrets I’ll Keep.md",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
     "Calendar Notes",
