@@ -16,3 +16,5 @@ views:
     sort:
       - property: Last read
         direction: DESC
+  - type: table
+    name: all
