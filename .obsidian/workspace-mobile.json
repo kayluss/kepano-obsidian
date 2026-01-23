@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-default",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "custom-calendar-view-default"
+              "icon": "calendar",
+              "title": "Calendar"
             }
           },
           {
@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,7 +296,7 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "6c37fd6b56fc4e74",
+  "active": "4cdde16e7c494777",
   "lastOpenFiles": [
     "Templates/Bills Template.md",
     "Sea Magic.md",
