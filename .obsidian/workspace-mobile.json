@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/History and effective use of Vim.md",
+                "file": "Nvim Learning Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "History and effective use of Vim"
+              "title": "Nvim Learning Notes"
             }
           }
         ],
@@ -322,8 +322,9 @@
   },
   "active": "0f8652a9ca44224e",
   "lastOpenFiles": [
-    "Vim Motions.md",
     "Clippings/History and effective use of Vim.md",
+    "Nvim Learning Notes.md",
+    "Vim Motions.md",
     "Templates/Bills Template.md",
     "Sea Magic.md",
     "Ninefold Sea Blessing.md",
@@ -348,7 +349,6 @@
     "Just Let Go, I Promise I’ll catch You.md",
     "In Such Cunning Disguise.md",
     "The Zephyr and The Ray.md",
-    "My Swirling Wants - Your Frozen Lips.md",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
     "Calendar Notes",
