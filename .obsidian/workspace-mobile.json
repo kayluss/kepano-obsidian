@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Why I Stopped Following My Heart.md",
+                "file": "Thoughts 2026-01-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Why I Stopped Following My Heart"
+              "title": "Thoughts 2026-01-23"
             }
           }
         ],
@@ -322,8 +322,9 @@
   },
   "active": "0f8652a9ca44224e",
   "lastOpenFiles": [
-    "References/Brown butter nectarine tart.md",
     "Clippings/Why I Stopped Following My Heart.md",
+    "Thoughts 2026-01-23.md",
+    "References/Brown butter nectarine tart.md",
     "References/Jazz.md",
     "References/Catan.md",
     "References/Futurama.md",
@@ -348,7 +349,6 @@
     "Clippings/History and effective use of Vim.md",
     "Vim Motions.md",
     "Templates/Bills Template.md",
-    "Sea Magic.md",
     "Life board.canvas",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
