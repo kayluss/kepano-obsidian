@@ -13,3 +13,4 @@ vaigation key: k-> up J-> down H-> left L-> right.
 Insert places the cursor before the current position where append places after the current cursor position.
 
 :wq -> write a file snd quit
+[[String Format Time]]

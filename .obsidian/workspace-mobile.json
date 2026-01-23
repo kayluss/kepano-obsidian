@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nvim Learning Notes.md",
+                "file": "code/Strftime code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nvim Learning Notes"
+              "title": "Strftime code"
             }
           }
         ],
@@ -322,8 +322,11 @@
   },
   "active": "0f8652a9ca44224e",
   "lastOpenFiles": [
-    "Insert is different than Append.md",
+    "String Format Time.md",
+    "code/Strftime code.md",
+    "code",
     "Nvim Learning Notes.md",
+    "Insert is different than Append.md",
     "Clippings/History and effective use of Vim.md",
     "Vim Motions.md",
     "Templates/Bills Template.md",
@@ -347,8 +350,6 @@
     "The Compass and The Soldier.md",
     "Templates/Fanfiction.md",
     "Just Before The Walls Come Down.md",
-    "Just Let Go, I Promise I’ll catch You.md",
-    "In Such Cunning Disguise.md",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
     "Calendar Notes",
@@ -362,7 +363,6 @@
     "vault2progress.base",
     "FTS",
     "Attachments/Pasted image 20260114100908.png",
-    "passport.base",
     "Attachments/IMG_3414.jpeg",
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
