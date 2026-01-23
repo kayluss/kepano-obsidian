@@ -116,9 +116,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FTS/Thoughts 2026-01-23.md",
+                "file": "Clippings/Why I Stopped Following My Heart.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -131,35 +131,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts 2026-01-23"
-            }
-          },
-          {
-            "id": "6d0915537cf429b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Files moved to new System.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Files moved to new System"
+              "title": "Why I Stopped Following My Heart"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +150,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byCreatedTime",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -345,13 +321,18 @@
       "prisma-calendar:Calendar 2": false
     }
   },
-  "active": "6d0915537cf429b6",
+  "active": "0f8652a9ca44224e",
   "lastOpenFiles": [
+    "FTS/Thoughts 2026-01-23.md",
+    "Updated Front Counter Note.md",
+    "work hub.md",
+    "Weekly/2026-W04.md",
+    "Daily/2026-01-23.md",
+    "Files moved to new System.md",
     "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
     "Calendar Notes/work 1130-7-20260122080640.md",
     "Calendar Notes/work 630-2-20260122080745.md",
     "Calendar Notes/Tanner for the weekend-20260121095410.md",
-    "FTS/Thoughts 2026-01-23.md",
     "Clippings/Why I Stopped Following My Heart.md",
     "References/Brown butter nectarine tart.md",
     "References/Jazz.md",
@@ -368,12 +349,7 @@
     "References/Jennifer Herrity.md",
     "Clippings/68 Bits of Unsolicited Advice.md",
     "FTS/Schedule 2026-01-23 0722.md",
-    "Daily/2026-01-23.md",
-    "NVIM.md",
-    "commands/Strftime code.md",
-    "String Format Time.md",
     "commands",
-    "Nvim Learning Notes.md",
     "Life board.canvas",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
