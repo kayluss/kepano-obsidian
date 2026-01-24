@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Of Blood and Cinders.md",
+                "file": "NVIM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,7 +83,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Of Blood and Cinders"
+              "title": "NVIM"
             }
           }
         ],
@@ -274,6 +274,7 @@
   },
   "active": "5360f2bac56a7605",
   "lastOpenFiles": [
+    "Of Blood and Cinders.md",
     "Life board.canvas",
     "Daily/2026-01-23.md",
     "FTS/Schedule 2026-01-23 0722.md",
