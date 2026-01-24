@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-calendar",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "custom-calendar-view-calendar"
+              "icon": "calendar",
+              "title": "Calendar"
             }
           },
           {
@@ -109,8 +109,57 @@
               "icon": "lucide-file",
               "title": "Of Blood and Cinders"
             }
+          },
+          {
+            "id": "e20d82eefac67eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar Notes/work 630-2-20260122080745.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "work 630-2-20260122080745"
+            }
+          },
+          {
+            "id": "b3b742258dbeef05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-01-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-24"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -189,7 +238,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -295,9 +344,12 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "b3b742258dbeef05",
   "lastOpenFiles": [
+    "Calendar Notes/work 630-2-20260122080745.md",
+    "Daily/2026-01-24.md",
     "Of Blood and Cinders.md",
+    "Calendar Notes/work 1130-7-20260122080640.md",
     "Life board.canvas",
     "FTS/Thoughts 2026-01-23.md",
     "Daily/2026-01-23.md",
@@ -315,8 +367,6 @@
     "work hub.md",
     "Files moved to new System.md",
     "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
-    "Calendar Notes/work 1130-7-20260122080640.md",
-    "Calendar Notes/work 630-2-20260122080745.md",
     "Calendar Notes/Tanner for the weekend-20260121095410.md",
     "References/Brown butter nectarine tart.md",
     "References/Jazz.md",
