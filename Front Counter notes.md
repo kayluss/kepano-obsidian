@@ -9,16 +9,25 @@ categories:
 FC means let the runner take care of orders, stock soda area clean lobby, clean trays. 
 
 ## Order Taking
-	Ask to round up
-	Pennies- round to the nearest nickel, Let them know
-	Eat in requires tag number, as order brought out to customer.
-	
+
+Ask to round up
+Pennies- round to the nearest nickel, Let them know
+Eat in requires tag number, as order brought out to customer.
+### Back to Basic’s
+
+coke w/ that?
+bbq? w/ that?
+choc milk w/ that?
+### Make It Promise
+fast friendly accurate
+
 ## Parked orders
-	PLace receipts left to right on fry station in order of where they are parked.
+Place receipts left to right on fry station in order of where they are parked.
+
 ## Drinks
-	Sizes Soda - Lg 32, Md 22, Sm 16 
+Sizes Soda - Lg 32, Md 22, Sm 16 
 	
-	 Iced coffee
+ Iced coffee
 		L = 6 pumps of syrup
 		M = 5 Pumps of syrup
 		S = 4 pumps of syrup

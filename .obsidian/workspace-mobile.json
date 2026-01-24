@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -965.991123821371,
-                  "y": -873.258291611813,
+                  "x": -883.0567613427081,
+                  "y": -699.0961304066215,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -164,7 +164,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "commands/Mount Ipad from iSH.md",
+                "file": "Front Counter notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -179,11 +179,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mount Ipad from iSH"
+              "title": "Front Counter notes"
+            }
+          },
+          {
+            "id": "1a5d63d3ad809673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Blood and Cinders.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Of Blood and Cinders"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -368,15 +391,16 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "2d7824357f6da1d0",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
-    "Schedule 2026-01-24 0541.md",
+    "Of Blood and Cinders.md",
+    "Life board.canvas",
+    "Front Counter notes.md",
     "commands/Mount Ipad from iSH.md",
+    "Schedule 2026-01-24 0541.md",
     "Daily/2026-01-24.md",
     "Calendar Notes/work 630-2-20260122080745.md",
-    "Of Blood and Cinders.md",
     "Calendar Notes/work 1130-7-20260122080640.md",
-    "Life board.canvas",
     "FTS/Thoughts 2026-01-23.md",
     "Daily/2026-01-23.md",
     "Weekly/2026-W04.md",
@@ -395,8 +419,6 @@
     "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
     "Calendar Notes/Tanner for the weekend-20260121095410.md",
     "References/Brown butter nectarine tart.md",
-    "References/Jazz.md",
-    "References/Catan.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
