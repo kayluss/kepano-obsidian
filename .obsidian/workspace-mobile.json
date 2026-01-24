@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-calendar",
               "state": {},
               "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "custom-calendar-view-calendar"
             }
           },
           {
@@ -140,7 +140,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-24.md",
+                "file": "Schedule 2026-01-24 0541.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -155,7 +155,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-24"
+              "title": "Schedule 2026-01-24 0541"
             }
           }
         ],
@@ -346,8 +346,9 @@
   },
   "active": "b3b742258dbeef05",
   "lastOpenFiles": [
-    "Calendar Notes/work 630-2-20260122080745.md",
     "Daily/2026-01-24.md",
+    "Schedule 2026-01-24 0541.md",
+    "Calendar Notes/work 630-2-20260122080745.md",
     "Of Blood and Cinders.md",
     "Calendar Notes/work 1130-7-20260122080640.md",
     "Life board.canvas",
@@ -372,7 +373,6 @@
     "References/Jazz.md",
     "References/Catan.md",
     "References/Futurama.md",
-    "References/Kevin Kelly.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
