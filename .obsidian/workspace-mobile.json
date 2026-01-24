@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -1205.9859805798153,
-                  "y": -890.5778500071665,
+                  "x": -736.3267354189204,
+                  "y": -824.7735873935178,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Captain and her Captain.md",
+                "file": "Daily/2026-01-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,11 +59,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Captain and her Captain"
+              "title": "2026-01-23"
+            }
+          },
+          {
+            "id": "5360f2bac56a7605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Blood and Cinders.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Of Blood and Cinders"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,10 +272,13 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "0c1258d236d0a30b",
+  "active": "5360f2bac56a7605",
   "lastOpenFiles": [
-    "Current Fanfiction.md",
     "Life board.canvas",
+    "Daily/2026-01-23.md",
+    "FTS/Schedule 2026-01-23 0722.md",
+    "The Captain and her Captain.md",
+    "Current Fanfiction.md",
     "What’s Wrong With Emma Swan.md",
     "The T’ai Shang Tractate.md",
     "Books.md",
@@ -261,7 +288,6 @@
     "Updated Front Counter Note.md",
     "work hub.md",
     "Weekly/2026-W04.md",
-    "Daily/2026-01-23.md",
     "Files moved to new System.md",
     "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
     "Calendar Notes/work 1130-7-20260122080640.md",
@@ -274,8 +300,6 @@
     "References/Kevin Kelly.md",
     "References/Parks.md",
     "Clippings/In good hands.md",
-    "References/Well Made.md",
-    "References/Well Made 145 Kevin Kelly.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
