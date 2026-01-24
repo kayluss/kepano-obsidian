@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -736.3267354189204,
-                  "y": -824.7735873935178,
+                  "x": -965.991123821371,
+                  "y": -873.258291611813,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-23.md",
+                "file": "FTS/Thoughts 2026-01-23.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,7 +59,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-23"
+              "title": "Thoughts 2026-01-23"
             }
           },
           {
@@ -85,9 +85,32 @@
               "icon": "lucide-file",
               "title": "NVIM"
             }
+          },
+          {
+            "id": "d59458cc78301ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Of Blood and Cinders.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Of Blood and Cinders"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,11 +295,14 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "5360f2bac56a7605",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
     "Of Blood and Cinders.md",
     "Life board.canvas",
+    "FTS/Thoughts 2026-01-23.md",
     "Daily/2026-01-23.md",
+    "Weekly/2026-W04.md",
+    "NVIM.md",
     "FTS/Schedule 2026-01-23 0722.md",
     "The Captain and her Captain.md",
     "Current Fanfiction.md",
@@ -285,10 +311,8 @@
     "Books.md",
     "Schedule 2026-01-22 0739.md",
     "Clippings/Why I Stopped Following My Heart.md",
-    "FTS/Thoughts 2026-01-23.md",
     "Updated Front Counter Note.md",
     "work hub.md",
-    "Weekly/2026-W04.md",
     "Files moved to new System.md",
     "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
     "Calendar Notes/work 1130-7-20260122080640.md",
@@ -299,8 +323,6 @@
     "References/Catan.md",
     "References/Futurama.md",
     "References/Kevin Kelly.md",
-    "References/Parks.md",
-    "Clippings/In good hands.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
