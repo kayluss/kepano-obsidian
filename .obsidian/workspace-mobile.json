@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -753.6747267538782,
-                  "y": -780.2113522471001,
+                  "x": -1205.9859805798153,
+                  "y": -890.5778500071665,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-calendar",
               "state": {},
               "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "custom-calendar-view-calendar"
             }
           },
           {
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Fanfiction.md",
+                "file": "The Captain and her Captain.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,7 +59,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Current Fanfiction"
+              "title": "The Captain and her Captain"
             }
           }
         ],
@@ -91,7 +91,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Discord",
+            "query": "tag:to-read",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -142,7 +142,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -250,8 +250,9 @@
   },
   "active": "0c1258d236d0a30b",
   "lastOpenFiles": [
-    "What’s Wrong With Emma Swan.md",
+    "Current Fanfiction.md",
     "Life board.canvas",
+    "What’s Wrong With Emma Swan.md",
     "The T’ai Shang Tractate.md",
     "Books.md",
     "Schedule 2026-01-22 0739.md",
@@ -275,7 +276,6 @@
     "Clippings/In good hands.md",
     "References/Well Made.md",
     "References/Well Made 145 Kevin Kelly.md",
-    "Clippings/15 Types of Professional Soft Skills (With Definitions).md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",

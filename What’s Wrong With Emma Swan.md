@@ -3,7 +3,6 @@ created: 2024-10-18T09:29:00
 tags:
   - note
   - journal
-  - to-read
 categories:
   - "[[Current Fanfiction]]"
 author:
@@ -21,3 +20,4 @@ via: ao3
 status:
   - " Done"
 ---
+Finished reading 1.9.26
