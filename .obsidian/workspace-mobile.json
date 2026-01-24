@@ -157,9 +157,33 @@
               "icon": "lucide-file",
               "title": "Schedule 2026-01-24 0541"
             }
+          },
+          {
+            "id": "2d7824357f6da1d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "commands/Mount Ipad from iSH.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mount Ipad from iSH"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -344,10 +368,11 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "b3b742258dbeef05",
+  "active": "2d7824357f6da1d0",
   "lastOpenFiles": [
-    "Daily/2026-01-24.md",
     "Schedule 2026-01-24 0541.md",
+    "commands/Mount Ipad from iSH.md",
+    "Daily/2026-01-24.md",
     "Calendar Notes/work 630-2-20260122080745.md",
     "Of Blood and Cinders.md",
     "Calendar Notes/work 1130-7-20260122080640.md",
@@ -372,7 +397,6 @@
     "References/Brown butter nectarine tart.md",
     "References/Jazz.md",
     "References/Catan.md",
-    "References/Futurama.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
