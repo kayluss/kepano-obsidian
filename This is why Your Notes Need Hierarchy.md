@@ -1,7 +1,8 @@
 ---
 categories:
   - Youtube
-host: []
+host:
+  - "[[Jeffrey Webber]]"
 url: https://www.youtube.com/watch?v=EpJ7wWohetg
 created: 2022-07-11T19:36:00
 ---
@@ -9,4 +10,4 @@ created: 2022-07-11T19:36:00
             - markmap - found a plugin for roam
                 - Mindmap [Mindmap (roamjs.com)](https://roamjs.com/extensions/mindmap)
         - "When you have structure you spend less time moving and more time processing, understanding and connecting. 
-            - This is like anything else, you need basics in order to grow into mastery. 
+            - This is like anything else, you need basics to become instinct in order to grow into mastery. 

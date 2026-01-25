@@ -126,7 +126,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "This is why Your Notes Need Hierarchy.md",
+                "file": "Building a Second Brain.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -141,7 +141,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "This is why Your Notes Need Hierarchy"
+              "title": "Building a Second Brain"
             }
           }
         ],
@@ -332,8 +332,9 @@
   },
   "active": "65319245aff10f5b",
   "lastOpenFiles": [
-    "Thoughts 2022-07-11.md",
     "This is why Your Notes Need Hierarchy.md",
+    "Building a Second Brain.md",
+    "Thoughts 2022-07-11.md",
     "Schedule 2022-07-11.md",
     "2022-07-11.md",
     "Schedule 2017-07-14.md",
@@ -358,7 +359,6 @@
     "What’s Wrong With Emma Swan.md",
     "The T’ai Shang Tractate.md",
     "Books.md",
-    "Schedule 2026-01-22 0739.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
