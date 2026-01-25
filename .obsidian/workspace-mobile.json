@@ -42,10 +42,24 @@
             "id": "5360f2bac56a7605",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2017-01-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Schedule 2017-01-14"
             }
           }
         ],
@@ -237,6 +251,8 @@
   },
   "active": "5360f2bac56a7605",
   "lastOpenFiles": [
+    "2017-01-14.md",
+    "Schedule 2017-01-14.md",
     "Thoughts 2026-01-25 0642.md",
     "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
     "Calendar Notes/Tonya to visit Mike and Jazz’z New Place-20260125075431.md",
@@ -265,8 +281,6 @@
     "FTS/Schedule 2021-01-04.md",
     "Daily/2021-01-04.md",
     "Daily/2018-01-08.md",
-    "FTS/Schedule 2016-01-27.md",
-    "Daily/2016-01-27.md",
     "commands",
     "Templates/Bases/Books.base",
     "Calendar Notes",
