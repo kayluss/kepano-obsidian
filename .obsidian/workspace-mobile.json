@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2017-01-14.md",
+                "file": "Shopping 2023-01-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,7 +59,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2017-01-14"
+              "title": "Shopping 2023-01-03"
             }
           }
         ],
@@ -251,8 +251,11 @@
   },
   "active": "5360f2bac56a7605",
   "lastOpenFiles": [
-    "2017-01-14.md",
+    "FTS/Schedule 2023-01-03.md",
+    "Shopping 2023-01-03.md",
+    "Daily/2023-01-03.md",
     "Schedule 2017-01-14.md",
+    "2017-01-14.md",
     "Thoughts 2026-01-25 0642.md",
     "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
     "Calendar Notes/Tonya to visit Mike and Jazz’z New Place-20260125075431.md",
@@ -278,9 +281,6 @@
     "2020-01-16.md",
     "FTS/Schedule 2018-01-08.md",
     "FTS/Thoughts 2021-01-04.md",
-    "FTS/Schedule 2021-01-04.md",
-    "Daily/2021-01-04.md",
-    "Daily/2018-01-08.md",
     "commands",
     "Templates/Bases/Books.base",
     "Calendar Notes",
