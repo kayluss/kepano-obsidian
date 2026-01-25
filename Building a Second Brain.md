@@ -14,7 +14,7 @@ rating: 7
 topics:
   - Creative Ability
   - "[[Thought and Thinking]]"
-created: 2026-01-24
+created: 2022-06-25T00:00:00
 last:
 via: ""
 tags:
