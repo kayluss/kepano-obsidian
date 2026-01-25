@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2017-02-13.md",
+                "file": "Schedule 2016-02-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,7 +59,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2017-02-13"
+              "title": "Schedule 2016-02-24"
             }
           }
         ],
@@ -251,8 +251,10 @@
   },
   "active": "5360f2bac56a7605",
   "lastOpenFiles": [
-    "2017-02-13.md",
+    "2016-02-24.md",
+    "Schedule 2016-02-24.md",
     "Schedule 2017-02-13.md",
+    "2017-02-13.md",
     "Daily/2025-01-14.md",
     "FTS/Schedule 2023-01-03.md",
     "Daily/2023-01-03.md",
@@ -278,8 +280,6 @@
     "Richard Feynman.md",
     "Excalidraw/Drawing 2026-01-25 06.57.32.excalidraw.md",
     "Excalidraw",
-    "2026-01-24 2222 reddit-meteor-last-night.md",
-    "FTS/Schedule 2026-01-24 0541.md",
     "Life board.canvas",
     "commands",
     "Templates/Bases/Books.base",
