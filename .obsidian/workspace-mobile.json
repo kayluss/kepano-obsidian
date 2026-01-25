@@ -71,81 +71,9 @@
               "icon": "lucide-file",
               "title": "Star Trek Academy"
             }
-          },
-          {
-            "id": "661bde9323cc1e69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2017-07-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2017-07-14"
-            }
-          },
-          {
-            "id": "bebef0d9bfbb2b93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts 2022-07-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Thoughts 2022-07-11"
-            }
-          },
-          {
-            "id": "65319245aff10f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2018-01-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2018-01-08"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -330,10 +258,13 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "65319245aff10f5b",
+  "active": "3e815b11f1c1914b",
   "lastOpenFiles": [
-    "2018-01-08.md",
-    "Schedule 2018-01-08.md",
+    "FTS/Schedule 2018-01-08.md",
+    "FTS/Thoughts 2021-01-04.md",
+    "FTS/Schedule 2021-01-04.md",
+    "Daily/2021-01-04.md",
+    "Daily/2018-01-08.md",
     "FTS/Schedule 2016-01-27.md",
     "Daily/2016-01-27.md",
     "FTS/Schedule 2022-07-11.md",
@@ -350,15 +281,12 @@
     "FTS/Schedule 2026-01-24 0541.md",
     "Of Blood and Cinders.md",
     "Life board.canvas",
-    "Thougths 2026-01-24 0849.md",
+    "FTS/Thougths 2026-01-24 0849.md",
     "NVIM.md",
     "FTS/Thoughts 2026-01-23.md",
     "Calendar Notes/work 630-2-20260122080745.md",
     "Front Counter notes.md",
     "commands/Mount Ipad from iSH.md",
-    "Daily/2026-01-24.md",
-    "Calendar Notes/work 1130-7-20260122080640.md",
-    "Daily/2026-01-23.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
