@@ -71,9 +71,33 @@
               "icon": "lucide-file",
               "title": "Star Trek Academy"
             }
+          },
+          {
+            "id": "661bde9323cc1e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2017-07-14.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2017-07-14"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -258,11 +282,13 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "f00c20fd5ca6a82b",
+  "active": "661bde9323cc1e69",
   "lastOpenFiles": [
+    "2017-07-14.md",
+    "Schedule 2017-07-14.md",
+    "Star Trek Academy.md",
     "FTS/Schedule 2026-01-24 0541.md",
     "Of Blood and Cinders.md",
-    "Star Trek Academy.md",
     "Life board.canvas",
     "Thougths 2026-01-24 0849.md",
     "NVIM.md",
@@ -285,8 +311,6 @@
     "Updated Front Counter Note.md",
     "work hub.md",
     "Files moved to new System.md",
-    "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
-    "Calendar Notes/Tanner for the weekend-20260121095410.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
