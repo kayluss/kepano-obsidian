@@ -126,7 +126,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2022-07-11.md",
+                "file": "Schedule 2016-01-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -141,7 +141,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2022-07-11"
+              "title": "Schedule 2016-01-27"
             }
           }
         ],
@@ -330,18 +330,20 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "65319245aff10f5b",
+  "active": "3e815b11f1c1914b",
   "lastOpenFiles": [
-    "2022-07-11.md",
+    "2016-01-27.md",
+    "Schedule 2016-01-27.md",
+    "Schedule 2022-07-11.md",
+    "Daily/2022-07-11.md",
     "Food Suitable for Diet.md",
     "The Meaning of Putting It Into Your Own Words.md",
     "How to Take Smart Notes-10 Principles to Revolutionize Your note-taking and Writing.md",
     "Building a Second Brain.md",
     "This is why Your Notes Need Hierarchy.md",
-    "Thoughts 2022-07-11.md",
-    "Schedule 2022-07-11.md",
-    "Schedule 2017-07-14.md",
-    "2017-07-14.md",
+    "FTS/Thoughts 2022-07-11.md",
+    "FTS/Schedule 2017-07-14.md",
+    "Daily/2017-07-14.md",
     "Star Trek Academy.md",
     "FTS/Schedule 2026-01-24 0541.md",
     "Of Blood and Cinders.md",
@@ -357,8 +359,6 @@
     "Daily/2026-01-23.md",
     "Weekly/2026-W04.md",
     "FTS/Schedule 2026-01-23 0722.md",
-    "The Captain and her Captain.md",
-    "Current Fanfiction.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
