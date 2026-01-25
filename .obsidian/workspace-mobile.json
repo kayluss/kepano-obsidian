@@ -303,13 +303,16 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
-      "prisma-calendar:Calendar": false
+      "prisma-calendar:Calendar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "9f057faf4e813f7b",
   "lastOpenFiles": [
-    "Thoughts 2026-01-25 0642.md",
+    "Excalidraw/Drawing 2026-01-25 06.57.32.excalidraw.md",
     "How Fast You Can Think Is your Bottleneck to Learning.md",
+    "Excalidraw",
+    "Thoughts 2026-01-25 0642.md",
     "Schedule 2026-01-25.md",
     "Daily/2026-01-25.md",
     "2026-01-24 2222 reddit-meteor-last-night.md",
@@ -334,7 +337,6 @@
     "The Meaning of Putting It Into Your Own Words.md",
     "How to Take Smart Notes-10 Principles to Revolutionize Your note-taking and Writing.md",
     "Building a Second Brain.md",
-    "This is why Your Notes Need Hierarchy.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
@@ -347,7 +349,6 @@
     "progressive.base",
     "a2dpkms.base",
     "vault2progress.base",
-    "FTS",
     "Attachments/Pasted image 20260114100908.png",
     "Attachments/IMG_3414.jpeg",
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
