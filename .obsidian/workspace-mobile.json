@@ -95,9 +95,33 @@
               "icon": "lucide-file",
               "title": "Learning Nvim and Terminal-20260123090630"
             }
+          },
+          {
+            "id": "90dbc948e8e1108e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar Notes/Tonya to visit Mike and Jazz’z New Place-20260125075431.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tonya to visit Mike and Jazz’z New Place-20260125075431"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -283,8 +307,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0bcefe88866401cd",
+  "active": "90dbc948e8e1108e",
   "lastOpenFiles": [
+    "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
+    "Calendar Notes/Tonya to visit Mike and Jazz’z New Place-20260125075431.md",
     "Thoughts 2026-01-25 0642.md",
     "Star Trek Academy.md",
     "Thoughts 2020-01-16.md",
@@ -313,8 +339,6 @@
     "Daily/2018-01-08.md",
     "FTS/Schedule 2016-01-27.md",
     "Daily/2016-01-27.md",
-    "FTS/Schedule 2022-07-11.md",
-    "Daily/2022-07-11.md",
     "commands",
     "Templates/Bases/Books.base",
     "Calendar Notes",
