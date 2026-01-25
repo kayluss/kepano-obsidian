@@ -95,9 +95,57 @@
               "icon": "lucide-file",
               "title": "Schedule 2017-07-14"
             }
+          },
+          {
+            "id": "bebef0d9bfbb2b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts 2022-07-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thoughts 2022-07-11"
+            }
+          },
+          {
+            "id": "65319245aff10f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "This is why Your Notes Need Hierarchy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "This is why Your Notes Need Hierarchy"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -282,10 +330,14 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "661bde9323cc1e69",
+  "active": "65319245aff10f5b",
   "lastOpenFiles": [
-    "2017-07-14.md",
+    "Thoughts 2022-07-11.md",
+    "This is why Your Notes Need Hierarchy.md",
+    "Schedule 2022-07-11.md",
+    "2022-07-11.md",
     "Schedule 2017-07-14.md",
+    "2017-07-14.md",
     "Star Trek Academy.md",
     "FTS/Schedule 2026-01-24 0541.md",
     "Of Blood and Cinders.md",
@@ -307,10 +359,6 @@
     "The T’ai Shang Tractate.md",
     "Books.md",
     "Schedule 2026-01-22 0739.md",
-    "Clippings/Why I Stopped Following My Heart.md",
-    "Updated Front Counter Note.md",
-    "work hub.md",
-    "Files moved to new System.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
