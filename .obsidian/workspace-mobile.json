@@ -17,7 +17,7 @@
                 "file": "Life board.canvas",
                 "viewState": {
                   "x": -743.344258397884,
-                  "y": -472.6215251764273,
+                  "y": -962.8259986029411,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -42,33 +42,19 @@
             "id": "5360f2bac56a7605",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2026-01-24 0541.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Schedule 2026-01-24 0541"
+              "title": "New tab"
             }
           },
           {
-            "id": "d59458cc78301ccd",
+            "id": "f00c20fd5ca6a82b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Of Blood and Cinders.md",
+                "file": "Star Trek Academy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,34 +69,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Of Blood and Cinders"
-            }
-          },
-          {
-            "id": "1a5d63d3ad809673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Of Blood and Cinders.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Of Blood and Cinders"
+              "title": "Star Trek Academy"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,16 +258,17 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "f00c20fd5ca6a82b",
   "lastOpenFiles": [
-    "Schedule 2026-01-24 0541.md",
+    "FTS/Schedule 2026-01-24 0541.md",
+    "Of Blood and Cinders.md",
+    "Star Trek Academy.md",
+    "Life board.canvas",
     "Thougths 2026-01-24 0849.md",
     "NVIM.md",
     "FTS/Thoughts 2026-01-23.md",
-    "Of Blood and Cinders.md",
     "Calendar Notes/work 630-2-20260122080745.md",
     "Front Counter notes.md",
-    "Life board.canvas",
     "commands/Mount Ipad from iSH.md",
     "Daily/2026-01-24.md",
     "Calendar Notes/work 1130-7-20260122080640.md",
@@ -323,7 +287,6 @@
     "Files moved to new System.md",
     "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
     "Calendar Notes/Tanner for the weekend-20260121095410.md",
-    "References/Brown butter nectarine tart.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",
