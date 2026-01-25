@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -743.344258397884,
-                  "y": -962.8259986029411,
+                  "x": 195.12326185359757,
+                  "y": -1030.113457464604,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -71,9 +71,57 @@
               "icon": "lucide-file",
               "title": "Star Trek Academy"
             }
+          },
+          {
+            "id": "5de3d57b87f1f239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts 2020-01-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thoughts 2020-01-16"
+            }
+          },
+          {
+            "id": "9f057faf4e813f7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FTS/Schedule 2026-01-24 0541.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2026-01-24 0541"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -258,8 +306,15 @@
       "prisma-calendar:Calendar": false
     }
   },
-  "active": "3e815b11f1c1914b",
+  "active": "9f057faf4e813f7b",
   "lastOpenFiles": [
+    "Daily/2026-01-24.md",
+    "Weekly/2026-W04.md",
+    "Life board.canvas",
+    "Thoughts 2020-01-16.md",
+    "Schedule 2020-01-16.md",
+    "2020-01-16.md",
+    "Star Trek Academy.md",
     "FTS/Schedule 2018-01-08.md",
     "FTS/Thoughts 2021-01-04.md",
     "FTS/Schedule 2021-01-04.md",
@@ -277,16 +332,8 @@
     "FTS/Thoughts 2022-07-11.md",
     "FTS/Schedule 2017-07-14.md",
     "Daily/2017-07-14.md",
-    "Star Trek Academy.md",
     "FTS/Schedule 2026-01-24 0541.md",
     "Of Blood and Cinders.md",
-    "Life board.canvas",
-    "FTS/Thougths 2026-01-24 0849.md",
-    "NVIM.md",
-    "FTS/Thoughts 2026-01-23.md",
-    "Calendar Notes/work 630-2-20260122080745.md",
-    "Front Counter notes.md",
-    "commands/Mount Ipad from iSH.md",
     "commands",
     "Templates/Bases/Books.base",
     "Untitled 1.base",

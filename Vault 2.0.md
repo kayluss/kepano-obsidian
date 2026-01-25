@@ -31,7 +31,8 @@ should I use [[weekly notes]] - answered Yes I will use weekly notes for to do l
 2022-05-15
 2022-05-06
 2022-05-20
-	
+Enochian Magick book note
+Bill Oertel mentioned in 2020-01-16
 # Troubleshoot solutions
 Bases for categories 
 	Problem: filtering for bills need to exclude the MOC. Had to insert a property on the MOC file that linked to itself and then create a filter where file does not link to. 
