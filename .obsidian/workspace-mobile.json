@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2026-01-26.md",
+                "file": "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,7 +83,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2026-01-26"
+              "title": "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian"
             }
           },
           {
@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts 2026-01-25 0642.md",
+                "file": "Daily/2026-01-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,58 +107,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts 2026-01-25 0642"
-            }
-          },
-          {
-            "id": "96093d83dbc7de2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/youtube template.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "youtube template"
-            }
-          },
-          {
-            "id": "d0902f0bb7b98c5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "You don’t need Plugins- A NeoVim config for Minimalists.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "You don’t need Plugins- A NeoVim config for Minimalists"
+              "title": "2026-01-26"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -355,17 +308,17 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "680b22cab1605106",
   "lastOpenFiles": [
-    "Schedule 2026-01-26.md",
-    "Daily/2026-01-26.md",
+    "THe Holy Grail of NeoVim Note-taking.md",
+    "Thoughts 2026-01-25 0642.md",
     "You don’t need Plugins- A NeoVim config for Minimalists.md",
-    "Untitled.md",
     "Templates/youtube template.md",
     "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian.md",
-    "Thoughts 2026-01-25 0642.md",
+    "Daily/2026-01-26.md",
+    "Schedule 2026-01-26.md",
     "Life board.canvas",
-    "THe Holy Grail of NeoVim Note-taking.md",
+    "Untitled.md",
     "Calendar Notes/work 630-2-20260126063744.md",
     "Calendar Notes/Work 630-3-20260126063613.md",
     "Calendar Notes/Work 630 -4-20260126063535.md",
@@ -385,7 +338,6 @@
     "Keep Me for Your Sweetness.md",
     "NVIM.md",
     "Weekly/2026-W05.md",
-    "Daily/2026-01-25.md",
     "Learning.base",
     "Excalidraw",
     "commands",

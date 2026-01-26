@@ -6,6 +6,8 @@ channel:
   - The Rad Lectures
 rating:
 url: https://youtu.be/skW3clVG5Fo?si=zDhCJvAg9EE3SckM
-
+tags:
+  - note
+  - journal
 ---
 
