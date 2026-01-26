@@ -181,9 +181,33 @@
               "icon": "lucide-file",
               "title": "Learning Nvim and Terminal-20260123090630"
             }
+          },
+          {
+            "id": "7c7243076d6039d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-01-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-25"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -211,7 +235,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "W04",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -272,7 +296,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 1
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -380,8 +404,15 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "6ab4899fe7e070eb",
+  "active": "7c7243076d6039d0",
   "lastOpenFiles": [
+    "Weekly/2026-W04.md",
+    "Weekly/2026-W03.md",
+    "Weekly/2026-W02.md",
+    "2026-W05.md",
+    "Daily/2026-01-18.md",
+    "Daily/2026-01-25.md",
+    "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
     "Star Trek Academy.md",
     "Life board.canvas",
     "The First Step.md",
@@ -402,12 +433,6 @@
     "Schedule 2023-01-04.md",
     "Shopping 2023-01-04.md",
     "Schedule 2017-01-14.md",
-    "2017-01-14.md",
-    "Thoughts 2026-01-25 0642.md",
-    "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
-    "Calendar Notes/Tonya to visit Mike and Jazz’z New Place-20260125075431.md",
-    "Schedule 2026-01-25.md",
-    "Daily/2026-01-25.md",
     "Learning.base",
     "Untitled 1.base",
     "Excalidraw",
