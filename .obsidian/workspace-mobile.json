@@ -188,7 +188,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-25.md",
+                "file": "Mastering Notebook Navigator for Obsidan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -203,7 +203,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-25"
+              "title": "Mastering Notebook Navigator for Obsidan"
             }
           }
         ],
@@ -296,7 +296,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 5
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -406,12 +406,13 @@
   },
   "active": "7c7243076d6039d0",
   "lastOpenFiles": [
+    "Weekly/2026-W05.md",
+    "Mastering Notebook Navigator for Obsidan.md",
+    "Daily/2026-01-25.md",
     "Weekly/2026-W04.md",
     "Weekly/2026-W03.md",
     "Weekly/2026-W02.md",
-    "2026-W05.md",
     "Daily/2026-01-18.md",
-    "Daily/2026-01-25.md",
     "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
     "Star Trek Academy.md",
     "Life board.canvas",
@@ -432,7 +433,6 @@
     "2023-01-04.md",
     "Schedule 2023-01-04.md",
     "Shopping 2023-01-04.md",
-    "Schedule 2017-01-14.md",
     "Learning.base",
     "Untitled 1.base",
     "Excalidraw",
