@@ -16,9 +16,9 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -714.6028988738867,
-                  "y": -376.8458637865227,
-                  "zoom": -0.35153026423057576
+                  "x": -821.0867297229788,
+                  "y": -691.4750701108276,
+                  "zoom": -0.6174503292048958
                 }
               },
               "pinned": true,
@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-calendar",
               "state": {},
               "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "custom-calendar-view-calendar"
             }
           },
           {
@@ -60,30 +60,6 @@
               },
               "icon": "lucide-file",
               "title": "Schedule 2016-02-24"
-            }
-          },
-          {
-            "id": "91ec57041b79117b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NVIM.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NVIM"
             }
           },
           {
@@ -207,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -404,8 +380,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "7c7243076d6039d0",
+  "active": "cfd8c26f064e49c9",
   "lastOpenFiles": [
+    "NVIM.md",
+    "Life board.canvas",
     "Weekly/2026-W05.md",
     "Mastering Notebook Navigator for Obsidan.md",
     "Daily/2026-01-25.md",
@@ -415,10 +393,8 @@
     "Daily/2026-01-18.md",
     "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
     "Star Trek Academy.md",
-    "Life board.canvas",
     "The First Step.md",
     "Keep Me for Your Sweetness.md",
-    "NVIM.md",
     "Of Blood and Cinders.md",
     "commands/Mount Ipad from iSH.md",
     "commands/Strftime code.md",
@@ -432,7 +408,6 @@
     "Shopping 2023-01-03.md",
     "2023-01-04.md",
     "Schedule 2023-01-04.md",
-    "Shopping 2023-01-04.md",
     "Learning.base",
     "Untitled 1.base",
     "Excalidraw",
