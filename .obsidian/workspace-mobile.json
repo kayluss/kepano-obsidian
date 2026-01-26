@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": 195.12326185359757,
-                  "y": -1030.113457464604,
+                  "x": -991.4760782257298,
+                  "y": -1052.4419396703977,
                   "zoom": -0.35153026423057576
                 }
               },
@@ -61,9 +61,32 @@
               "icon": "lucide-file",
               "title": "Schedule 2016-02-24"
             }
+          },
+          {
+            "id": "91ec57041b79117b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NVIM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NVIM"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +114,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:to-read",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -142,7 +165,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -249,10 +272,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5360f2bac56a7605",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
-    "2016-02-24.md",
+    "commands/Mount Ipad from iSH.md",
+    "commands/Strftime code.md",
     "Schedule 2016-02-24.md",
+    "2016-02-24.md",
     "Schedule 2017-02-13.md",
     "2017-02-13.md",
     "Daily/2025-01-14.md",
@@ -277,8 +302,6 @@
     "The Meaning of Putting It Into Your Own Words.md",
     "Learning.base",
     "Untitled 1.base",
-    "Richard Feynman.md",
-    "Excalidraw/Drawing 2026-01-25 06.57.32.excalidraw.md",
     "Excalidraw",
     "Life board.canvas",
     "commands",
