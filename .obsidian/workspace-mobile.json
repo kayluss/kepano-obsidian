@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -843.3320709637339,
-                  "y": -574.1117180475337,
+                  "x": -485.10536891433316,
+                  "y": -791.9626460604458,
                   "zoom": -0.6174503292048958
                 }
               },
@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-calendar",
               "state": {},
               "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "custom-calendar-view-calendar"
             }
           },
           {
@@ -63,30 +63,6 @@
             }
           },
           {
-            "id": "004548a209d0eb02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-01-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-26"
-            }
-          },
-          {
             "id": "c41596bc6fcd26fd",
             "type": "leaf",
             "state": {
@@ -109,9 +85,80 @@
               "icon": "lucide-file",
               "title": "Schedule 2026-01-26"
             }
+          },
+          {
+            "id": "680b22cab1605106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thoughts 2026-01-25 0642.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thoughts 2026-01-25 0642"
+            }
+          },
+          {
+            "id": "96093d83dbc7de2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/youtube template.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "youtube template"
+            }
+          },
+          {
+            "id": "d0902f0bb7b98c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "You don’t need Plugins- A NeoVim config for Minimalists.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "You don’t need Plugins- A NeoVim config for Minimalists"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -308,17 +355,21 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "031787914ae73f16",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
-    "Templates/youtube template.md",
-    "THe Holy Grail of NeoVim Note-taking.md",
     "Schedule 2026-01-26.md",
+    "Daily/2026-01-26.md",
+    "You don’t need Plugins- A NeoVim config for Minimalists.md",
+    "Untitled.md",
+    "Templates/youtube template.md",
+    "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian.md",
+    "Thoughts 2026-01-25 0642.md",
+    "Life board.canvas",
+    "THe Holy Grail of NeoVim Note-taking.md",
     "Calendar Notes/work 630-2-20260126063744.md",
     "Calendar Notes/Work 630-3-20260126063613.md",
     "Calendar Notes/Work 630 -4-20260126063535.md",
-    "Life board.canvas",
     "Calendar Notes/Work 730 - 4-20260126063440.md",
-    "Daily/2026-01-26.md",
     "Mastering Notebook Navigator for Obsidan.md",
     "Full Keyboard Access Ipad-Blue-Outline.md",
     "A Tale of Frost and Embers.md",
@@ -335,10 +386,6 @@
     "NVIM.md",
     "Weekly/2026-W05.md",
     "Daily/2026-01-25.md",
-    "Weekly/2026-W04.md",
-    "Weekly/2026-W03.md",
-    "Weekly/2026-W02.md",
-    "Daily/2026-01-18.md",
     "Learning.base",
     "Excalidraw",
     "commands",
