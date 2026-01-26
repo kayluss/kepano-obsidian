@@ -6,3 +6,4 @@ Start Time: 2026-01-23T12:00:00
 End Date: 2026-01-25T14:00:00
 Category: Learning
 ---
+Rescheduled due to pipes freezing.
