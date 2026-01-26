@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-26.md",
+                "file": "Vault 2.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,11 +107,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-26"
+              "title": "Vault 2.0"
+            }
+          },
+          {
+            "id": "42f1e2ee06eeb9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-05-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2022-05-15"
+            }
+          },
+          {
+            "id": "6e010e8a97326fb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2022-05-15.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2022-05-15"
+            }
+          },
+          {
+            "id": "4daaf4199ca8e726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How History Teaches US to Deal With Societal Collapse.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How History Teaches US to Deal With Societal Collapse"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -308,17 +380,25 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "680b22cab1605106",
+  "active": "6e010e8a97326fb7",
   "lastOpenFiles": [
-    "Palia.md",
+    "2022-05-15.md",
+    "Schedule 2022-05-15.md",
+    "FTS/Schedule 2022-05-12.md",
+    "Vault 2.0.md",
+    "Daily/2022-05-14.md",
+    "Weekly/2026-W04.md",
+    "Weekly/2026-W05.md",
     "Daily/2026-01-26.md",
+    "Life board.canvas",
+    "How History Teaches US to Deal With Societal Collapse.md",
+    "Palia.md",
     "THe Holy Grail of NeoVim Note-taking.md",
     "Thoughts 2026-01-25 0642.md",
     "You don’t need Plugins- A NeoVim config for Minimalists.md",
     "Templates/youtube template.md",
     "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian.md",
     "Schedule 2026-01-26.md",
-    "Life board.canvas",
     "Untitled.md",
     "Calendar Notes/work 630-2-20260126063744.md",
     "Calendar Notes/Work 630-3-20260126063613.md",
@@ -331,14 +411,6 @@
     "troubleshoot.md",
     "troubleshoot.base",
     "Untitled 1.base",
-    "How Hackers Take Notes..md",
-    "Schedule 2016-02-24.md",
-    "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
-    "Star Trek Academy.md",
-    "The First Step.md",
-    "Keep Me for Your Sweetness.md",
-    "NVIM.md",
-    "Weekly/2026-W05.md",
     "Learning.base",
     "Excalidraw",
     "commands",

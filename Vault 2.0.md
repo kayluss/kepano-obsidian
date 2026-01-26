@@ -27,7 +27,6 @@ should I use [[weekly notes]] - answered Yes I will use weekly notes for to do l
 - [ ] Migrate Bills ~~progressive~~ ~~spectrum~~
 # Breadcrumbs to finish
 
-2022-05-14
 2022-05-15
 2022-05-06
 2022-05-20
