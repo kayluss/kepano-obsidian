@@ -39,12 +39,12 @@
             }
           },
           {
-            "id": "7c7243076d6039d0",
+            "id": "031787914ae73f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mastering Notebook Navigator for Obsidan.md",
+                "file": "THe Holy Grail of NeoVim Note-taking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,16 +59,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mastering Notebook Navigator for Obsidan"
+              "title": "THe Holy Grail of NeoVim Note-taking"
             }
           },
           {
-            "id": "1d4b39ae82392f70",
+            "id": "004548a209d0eb02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Keyboard Access Ipad-Blue-Outline.md",
+                "file": "Daily/2026-01-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,16 +83,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Full Keyboard Access Ipad-Blue-Outline"
+              "title": "2026-01-26"
             }
           },
           {
-            "id": "21f88a80427f8cd8",
+            "id": "c41596bc6fcd26fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Tale of Frost and Embers.md",
+                "file": "Schedule 2026-01-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,34 +107,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A Tale of Frost and Embers"
-            }
-          },
-          {
-            "id": "ea2efe683a5c73c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar Notes/Work 630-3-20260126051734.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Work 630-3-20260126051734"
+              "title": "Schedule 2026-01-26"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -331,17 +308,25 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "031787914ae73f16",
   "lastOpenFiles": [
-    "Calendar Notes/Work 630-3-20260126051734.md",
-    "A Tale of Frost and Embers.md",
+    "Templates/youtube template.md",
+    "THe Holy Grail of NeoVim Note-taking.md",
+    "Schedule 2026-01-26.md",
+    "Calendar Notes/work 630-2-20260126063744.md",
+    "Calendar Notes/Work 630-3-20260126063613.md",
+    "Calendar Notes/Work 630 -4-20260126063535.md",
     "Life board.canvas",
+    "Calendar Notes/Work 730 - 4-20260126063440.md",
+    "Daily/2026-01-26.md",
+    "Mastering Notebook Navigator for Obsidan.md",
     "Full Keyboard Access Ipad-Blue-Outline.md",
+    "A Tale of Frost and Embers.md",
+    "Calendar Notes/Work 630-3-20260126051734.md",
     "troubleshoot.md",
     "troubleshoot.base",
     "Untitled 1.base",
     "How Hackers Take Notes..md",
-    "Mastering Notebook Navigator for Obsidan.md",
     "Schedule 2016-02-24.md",
     "Calendar Notes/Learning Nvim and Terminal-20260123090630.md",
     "Star Trek Academy.md",
@@ -354,14 +339,6 @@
     "Weekly/2026-W03.md",
     "Weekly/2026-W02.md",
     "Daily/2026-01-18.md",
-    "Of Blood and Cinders.md",
-    "commands/Mount Ipad from iSH.md",
-    "commands/Strftime code.md",
-    "2016-02-24.md",
-    "Schedule 2017-02-13.md",
-    "2017-02-13.md",
-    "Daily/2025-01-14.md",
-    "FTS/Schedule 2023-01-03.md",
     "Learning.base",
     "Excalidraw",
     "commands",
