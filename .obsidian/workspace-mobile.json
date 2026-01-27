@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoMa technique.md",
+                "file": "Schedule 2026-01-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,7 +83,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NoMa technique"
+              "title": "Schedule 2026-01-26"
             }
           },
           {
@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 0
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -294,12 +294,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "1e0cf4680e121a80",
+  "active": "de25ac283d3a70b8",
   "lastOpenFiles": [
+    "Life board.canvas",
+    "Daily/2026-01-26.md",
+    "FTS/Schedule 2022-05-15.md",
+    "Schedule 2026-01-26.md",
+    "NoMa technique.md",
     "Files moved to new System.md",
     "Untitled.md",
     "THe Practice of Enochian Magick.md",
-    "Life board.canvas",
     "Bill Oertel.md",
     "Obituaries.md",
     "Schedule 2020-01-16.md",
@@ -314,16 +318,11 @@
     "THe Holy Grail of NeoVim Note-taking.md",
     "The Spark Method.md",
     "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian.md",
-    "FTS/Schedule 2022-05-15.md",
     "Daily/2022-05-15.md",
     "How History Teaches US to Deal With Societal Collapse.md",
     "Notetaking.md",
     "Attachments/IMG_3447.png",
     "Schedule 2022-05-06 1849.md",
-    "2022-05-06.md",
-    "Vault 2.0.md",
-    "FTS/Schedule 2022-05-12.md",
-    "Daily/2022-05-14.md",
     "troubleshoot.base",
     "Untitled 1.base",
     "Learning.base",
