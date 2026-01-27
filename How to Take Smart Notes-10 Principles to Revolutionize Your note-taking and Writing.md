@@ -7,7 +7,7 @@ author: Tiago Forte
 url: https://fortelabs.co/blog/how-to-take-smart-notes/
 published: 2020-02-04
 topics:
-  - "[[notetaking]]"
+  - "[[Notetaking]]"
   - "[[Writing]]"
 created: 2020-07-05
 ---

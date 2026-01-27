@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2022-05-06 1849.md",
+                "file": "The Spark Method.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2022-05-06 1849"
+              "title": "The Spark Method"
             }
           },
           {
@@ -382,8 +382,11 @@
   },
   "active": "680b22cab1605106",
   "lastOpenFiles": [
-    "2022-05-06.md",
+    "Notetaking.md",
+    "The Spark Method.md",
+    "Attachments/IMG_3447.png",
     "Schedule 2022-05-06 1849.md",
+    "2022-05-06.md",
     "Vault 2.0.md",
     "Schedule 2022-05-15.md",
     "2022-05-15.md",
@@ -407,8 +410,6 @@
     "Calendar Notes/Work 630 -4-20260126063535.md",
     "Calendar Notes/Work 730 - 4-20260126063440.md",
     "Mastering Notebook Navigator for Obsidan.md",
-    "Full Keyboard Access Ipad-Blue-Outline.md",
-    "A Tale of Frost and Embers.md",
     "troubleshoot.base",
     "Untitled 1.base",
     "Learning.base",
@@ -427,7 +428,6 @@
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
     "Attachments/imgs2Fapp2FKaylus2FLQnw4HMSjd 1.png",
     "Attachments/imgs2Fapp2FKaylus2F3JtJCWOARE 1.png",
-    "Attachments/IMG_3401.jpeg",
-    "Attachments/image 39.jpg"
+    "Attachments/IMG_3401.jpeg"
   ]
 }
