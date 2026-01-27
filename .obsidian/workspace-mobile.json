@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault 2.0.md",
+                "file": "2026-01-26 1849.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vault 2.0"
+              "title": "2026-01-26 1849"
             }
           },
           {
@@ -382,10 +382,12 @@
   },
   "active": "680b22cab1605106",
   "lastOpenFiles": [
+    "2022-05-06.md",
+    "2026-01-26 1849.md",
+    "Vault 2.0.md",
     "Schedule 2022-05-15.md",
     "2022-05-15.md",
     "FTS/Schedule 2022-05-12.md",
-    "Vault 2.0.md",
     "Daily/2022-05-14.md",
     "Weekly/2026-W04.md",
     "Weekly/2026-W05.md",
@@ -407,8 +409,6 @@
     "Mastering Notebook Navigator for Obsidan.md",
     "Full Keyboard Access Ipad-Blue-Outline.md",
     "A Tale of Frost and Embers.md",
-    "Calendar Notes/Work 630-3-20260126051734.md",
-    "troubleshoot.md",
     "troubleshoot.base",
     "Untitled 1.base",
     "Learning.base",
