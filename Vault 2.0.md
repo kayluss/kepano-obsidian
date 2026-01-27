@@ -26,8 +26,6 @@ should I use [[weekly notes]] - answered Yes I will use weekly notes for to do l
 - [ ] Migrate Menstruation tracker left off at 2020-07-16.
 - [ ] Migrate Bills ~~progressive~~ ~~spectrum~~
 # Breadcrumbs to finish
-2022-05-06
-2022-05-20
 Enochian Magick book note
 Bill Oertel mentioned in 2020-01-16
 # Troubleshoot solutions

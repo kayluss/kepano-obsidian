@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -485.10536891433316,
-                  "y": -791.9626460604458,
+                  "x": -52.79500628447431,
+                  "y": -713.5527840387355,
                   "zoom": -0.6174503292048958
                 }
               },
@@ -34,17 +34,17 @@
               "type": "custom-calendar-view-calendar",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "custom-calendar-view-calendar"
+              "icon": "calendar",
+              "title": "Calendar"
             }
           },
           {
-            "id": "031787914ae73f16",
+            "id": "de25ac283d3a70b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THe Holy Grail of NeoVim Note-taking.md",
+                "file": "2022-05-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,131 +59,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "THe Holy Grail of NeoVim Note-taking"
-            }
-          },
-          {
-            "id": "c41596bc6fcd26fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian"
-            }
-          },
-          {
-            "id": "680b22cab1605106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Spark Method.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Spark Method"
-            }
-          },
-          {
-            "id": "42f1e2ee06eeb9c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-05-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2022-05-15"
-            }
-          },
-          {
-            "id": "6e010e8a97326fb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2022-05-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2022-05-15"
-            }
-          },
-          {
-            "id": "4daaf4199ca8e726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How History Teaches US to Deal With Societal Collapse.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How History Teaches US to Deal With Societal Collapse"
+              "title": "2022-05-20"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -380,36 +259,36 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "680b22cab1605106",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
-    "Notetaking.md",
+    "2022-05-20.md",
+    "Schedule 2022-05-20.md",
+    "Thoughts 2022-05-20.md",
+    "Calendar Notes/work 630-2-20260126063744.md",
+    "References/Can you Dig It? Introducing Hodari's Starstone Search.md",
+    "Calendar Notes/Hodari’s Star Stone Search Ends-20260116065829.md",
+    "Life board.canvas",
+    "THe Holy Grail of NeoVim Note-taking.md",
     "The Spark Method.md",
+    "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian.md",
+    "FTS/Schedule 2022-05-15.md",
+    "Daily/2022-05-15.md",
+    "How History Teaches US to Deal With Societal Collapse.md",
+    "Notetaking.md",
     "Attachments/IMG_3447.png",
     "Schedule 2022-05-06 1849.md",
     "2022-05-06.md",
     "Vault 2.0.md",
-    "Schedule 2022-05-15.md",
-    "2022-05-15.md",
     "FTS/Schedule 2022-05-12.md",
     "Daily/2022-05-14.md",
     "Weekly/2026-W04.md",
     "Weekly/2026-W05.md",
     "Daily/2026-01-26.md",
-    "Life board.canvas",
-    "How History Teaches US to Deal With Societal Collapse.md",
     "Palia.md",
-    "THe Holy Grail of NeoVim Note-taking.md",
     "Thoughts 2026-01-25 0642.md",
     "You don’t need Plugins- A NeoVim config for Minimalists.md",
     "Templates/youtube template.md",
-    "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian.md",
     "Schedule 2026-01-26.md",
-    "Untitled.md",
-    "Calendar Notes/work 630-2-20260126063744.md",
-    "Calendar Notes/Work 630-3-20260126063613.md",
-    "Calendar Notes/Work 630 -4-20260126063535.md",
-    "Calendar Notes/Work 730 - 4-20260126063440.md",
-    "Mastering Notebook Navigator for Obsidan.md",
     "troubleshoot.base",
     "Untitled 1.base",
     "Learning.base",
