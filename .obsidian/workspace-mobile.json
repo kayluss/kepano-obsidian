@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THe Practice of Enochian Magick.md",
+                "file": "NoMa technique.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,7 +83,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "THe Practice of Enochian Magick"
+              "title": "NoMa technique"
             }
           },
           {
@@ -97,7 +97,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Bill",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -186,7 +186,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 5
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -294,10 +294,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "73de8608ab9a31d8",
+  "active": "1e0cf4680e121a80",
   "lastOpenFiles": [
-    "Life board.canvas",
+    "Files moved to new System.md",
+    "Untitled.md",
     "THe Practice of Enochian Magick.md",
+    "Life board.canvas",
     "Bill Oertel.md",
     "Obituaries.md",
     "Schedule 2020-01-16.md",
@@ -322,7 +324,6 @@
     "Vault 2.0.md",
     "FTS/Schedule 2022-05-12.md",
     "Daily/2022-05-14.md",
-    "Weekly/2026-W04.md",
     "troubleshoot.base",
     "Untitled 1.base",
     "Learning.base",
