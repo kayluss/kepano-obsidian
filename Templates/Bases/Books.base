@@ -27,7 +27,7 @@ views:
       - last
       - status
     sort:
-      - property: file.name
+      - property: last
         direction: DESC
   - type: table
     name: Top rated

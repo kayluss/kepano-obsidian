@@ -1,11 +1,8 @@
 ---
 categories:
   - "[[Projects]]"
-type: []
-org: []
 start: 2025-12-24
 year: 2026
-url:
 status:
   - "[[Active]]"
 ---
@@ -14,7 +11,9 @@ status:
 Converted notes from archived vault system to this vault’s system 
 
 # Usage, Terms, and Process
+MOC -> Map of Content
 [[Discord Inbox]] is a MOC not an Inbox	
+
 ### Questions
 	
 should I use [[weekly notes]] - answered Yes I will use weekly notes for to do list Not associated with individual projects
@@ -23,7 +22,7 @@ should I use [[weekly notes]] - answered Yes I will use weekly notes for to do l
 
 - [ ] Conver [[Current Fanfiction]] into a category and create notes for links listed. Next- Through the Hat
 - [ ] Migrate MOC files over
-- [ ] Migrate Menstruation tracker left off at 2020-07-16.
+- [ ] Migrate Menstruation tracker left off at 2017-02-13
 - [ ] Migrate Bills ~~progressive~~ ~~spectrum~~
 # Breadcrumbs to finish
 

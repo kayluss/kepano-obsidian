@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -444.20642033397826,
-                  "y": -1788.3336766746115,
+                  "x": -52.79500628447431,
+                  "y": -713.5527840387355,
                   "zoom": -0.6174503292048958
                 }
               },
@@ -85,8 +85,19 @@
               "icon": "lucide-file",
               "title": "THe Practice of Enochian Magick"
             }
+          },
+          {
+            "id": "73de8608ab9a31d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -283,14 +294,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "73de8608ab9a31d8",
   "lastOpenFiles": [
+    "Life board.canvas",
     "THe Practice of Enochian Magick.md",
     "Bill Oertel.md",
     "Obituaries.md",
     "Schedule 2020-01-16.md",
     "2020-01-16.md",
-    "Life board.canvas",
     "Thoughts 2020-01-16.md",
     "2022-05-20.md",
     "Schedule 2022-05-20.md",
@@ -312,7 +323,6 @@
     "FTS/Schedule 2022-05-12.md",
     "Daily/2022-05-14.md",
     "Weekly/2026-W04.md",
-    "Weekly/2026-W05.md",
     "troubleshoot.base",
     "Untitled 1.base",
     "Learning.base",
