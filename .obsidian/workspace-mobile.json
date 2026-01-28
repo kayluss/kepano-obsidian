@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-05-20.md",
+                "file": "2026-01-27 2240.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,7 +59,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2022-05-20"
+              "title": "2026-01-27 2240"
             }
           },
           {
@@ -120,8 +120,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,12 +317,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "de25ac283d3a70b8",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
+    "2026-01-27 2240.md",
+    "Daily/2026-01-27.md",
+    "2022-05-20.md",
     "Life board.canvas",
     "Schedule 2018-02-09.md",
     "2018-02-09.md",
-    "2022-05-20.md",
     "Daily/2026-01-26.md",
     "FTS/Schedule 2022-05-15.md",
     "Schedule 2026-01-26.md",
@@ -345,7 +346,6 @@
     "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian.md",
     "Daily/2022-05-15.md",
     "How History Teaches US to Deal With Societal Collapse.md",
-    "Notetaking.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
