@@ -16,9 +16,9 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -52.79500628447431,
-                  "y": -713.5527840387355,
-                  "zoom": -0.6174503292048958
+                  "x": -899.2009973046299,
+                  "y": -311.85412605508105,
+                  "zoom": 0.004334782872463828
                 }
               },
               "pinned": true,
@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-27 2240.md",
+                "file": "Daily/2026-01-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -59,7 +59,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-27 2240"
+              "title": "2026-01-27"
             }
           },
           {
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2018-02-09.md",
+                "file": "Can I Switch to Linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -83,7 +83,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2018-02-09"
+              "title": "Can I Switch to Linux"
+            }
+          },
+          {
+            "id": "c422445b4bf0eb97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Is Zorin OS the best Windows Replacement..md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Is Zorin OS the best Windows Replacement."
             }
           },
           {
@@ -118,6 +142,30 @@
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "a9b9b60806c78fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "THe Practice of Enochian Magick.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "THe Practice of Enochian Magick"
             }
           }
         ]
@@ -319,18 +367,21 @@
   },
   "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
-    "2026-01-27 2240.md",
-    "Daily/2026-01-27.md",
-    "2022-05-20.md",
-    "Life board.canvas",
+    "Is Zorin OS the best Windows Replacement..md",
+    "Can I Switch to Linux.md",
     "Schedule 2018-02-09.md",
+    "Daily/2026-01-27.md",
+    "2026-01-27 2240.md",
+    "Life board.canvas",
+    "THe Practice of Enochian Magick.md",
+    "A Tale of Frost and Embers.md",
+    "2022-05-20.md",
     "2018-02-09.md",
     "Daily/2026-01-26.md",
     "FTS/Schedule 2022-05-15.md",
     "Schedule 2026-01-26.md",
     "NoMa technique.md",
     "Files moved to new System.md",
-    "THe Practice of Enochian Magick.md",
     "Bill Oertel.md",
     "Obituaries.md",
     "Schedule 2020-01-16.md",
@@ -343,9 +394,6 @@
     "Calendar Notes/Hodari’s Star Stone Search Ends-20260116065829.md",
     "THe Holy Grail of NeoVim Note-taking.md",
     "The Spark Method.md",
-    "Ultimate Note-taking- My NeoVim Zettlekasten based on Obsidian.md",
-    "Daily/2022-05-15.md",
-    "How History Teaches US to Deal With Societal Collapse.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
