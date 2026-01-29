@@ -13,8 +13,8 @@ year:
 rating:
 topics:
   - "[[Taosim]]"
-created: 2026-01-22
-last: 2026-01-22
+created: 2026-01-06T00:00:00
+last: 2026-01-28
 via: ""
 tags:
   - to-read

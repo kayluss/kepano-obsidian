@@ -16,7 +16,7 @@ topics:
   - "[[Ceremonial Magick]]"
   - "[[Enochian Magick]]"
 created: 2020-07-01T00:00:00
-last: 2026-01-27
+last: 2026-01-28
 via: ""
 tags:
   - to-read

@@ -63,78 +63,6 @@
             }
           },
           {
-            "id": "99401894dd8611e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Can I Switch to Linux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Can I Switch to Linux"
-            }
-          },
-          {
-            "id": "c422445b4bf0eb97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Is Zorin OS the best Windows Replacement..md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Is Zorin OS the best Windows Replacement."
-            }
-          },
-          {
-            "id": "1e0cf4680e121a80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2026-01-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2026-01-26"
-            }
-          },
-          {
             "id": "73de8608ab9a31d8",
             "type": "leaf",
             "state": {
@@ -145,7 +73,7 @@
             }
           },
           {
-            "id": "a9b9b60806c78fb1",
+            "id": "313db092e7d15da1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,12 +97,12 @@
             }
           },
           {
-            "id": "62df423e439e728e",
+            "id": "58223e45f88c7662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-28.md",
+                "file": "Daily/2026-01-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -189,11 +117,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-28"
+              "title": "2026-01-29"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -390,18 +318,22 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "62df423e439e728e",
+  "active": "58223e45f88c7662",
   "lastOpenFiles": [
-    "Schedule 2026-01-28 1729.md",
-    "Schedule 2026-01-26.md",
-    "Daily/2026-01-27.md",
-    "Daily/2026-01-28.md",
-    "Schedule 2026-01-27 2240.md",
+    "The T’ai Shang Tractate.md",
+    "Daily/2026-01-29.md",
     "Life board.canvas",
-    "Is Zorin OS the best Windows Replacement..md",
-    "Can I Switch to Linux.md",
-    "Schedule 2018-02-09.md",
     "THe Practice of Enochian Magick.md",
+    "Can I Switch to Linux.md",
+    "Schedule 2026-01-26.md",
+    "Is Zorin OS the best Windows Replacement..md",
+    "Thoughts 2026-01-28 2203.md",
+    "Daily/2026-01-28.md",
+    "Untitled.md",
+    "Schedule 2026-01-28 1729.md",
+    "Daily/2026-01-27.md",
+    "Schedule 2026-01-27 2240.md",
+    "Schedule 2018-02-09.md",
     "A Tale of Frost and Embers.md",
     "2022-05-20.md",
     "2018-02-09.md",
@@ -415,10 +347,6 @@
     "2020-01-16.md",
     "Thoughts 2020-01-16.md",
     "Schedule 2022-05-20.md",
-    "Thoughts 2022-05-20.md",
-    "Calendar Notes/work 630-2-20260126063744.md",
-    "References/Can you Dig It? Introducing Hodari's Starstone Search.md",
-    "Calendar Notes/Hodari’s Star Stone Search Ends-20260116065829.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
