@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -899.2009973046299,
-                  "y": -311.85412605508105,
+                  "x": -869.789501231244,
+                  "y": -315.8421255226588,
                   "zoom": 0.004334782872463828
                 }
               },
@@ -167,8 +167,33 @@
               "icon": "lucide-file",
               "title": "THe Practice of Enochian Magick"
             }
+          },
+          {
+            "id": "62df423e439e728e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-01-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-28"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -365,21 +390,23 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "62df423e439e728e",
   "lastOpenFiles": [
+    "Schedule 2026-01-28 1729.md",
+    "Schedule 2026-01-26.md",
+    "Daily/2026-01-27.md",
+    "Daily/2026-01-28.md",
+    "Schedule 2026-01-27 2240.md",
+    "Life board.canvas",
     "Is Zorin OS the best Windows Replacement..md",
     "Can I Switch to Linux.md",
     "Schedule 2018-02-09.md",
-    "Daily/2026-01-27.md",
-    "2026-01-27 2240.md",
-    "Life board.canvas",
     "THe Practice of Enochian Magick.md",
     "A Tale of Frost and Embers.md",
     "2022-05-20.md",
     "2018-02-09.md",
     "Daily/2026-01-26.md",
     "FTS/Schedule 2022-05-15.md",
-    "Schedule 2026-01-26.md",
     "NoMa technique.md",
     "Files moved to new System.md",
     "Bill Oertel.md",
@@ -392,8 +419,6 @@
     "Calendar Notes/work 630-2-20260126063744.md",
     "References/Can you Dig It? Introducing Hodari's Starstone Search.md",
     "Calendar Notes/Hodari’s Star Stone Search Ends-20260116065829.md",
-    "THe Holy Grail of NeoVim Note-taking.md",
-    "The Spark Method.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
