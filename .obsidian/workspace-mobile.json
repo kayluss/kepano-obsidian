@@ -102,7 +102,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2016-12-15.md",
+                "file": "Schedule 2019-12-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -117,11 +117,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2016-12-15"
+              "title": "Schedule 2019-12-11"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -318,9 +318,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "90d4bdcc9b2fa1c4",
+  "active": "e86f2ed73fe2f4c4",
   "lastOpenFiles": [
     "Life board.canvas",
+    "Schedule 2019-12-11.md",
+    "Thoughts 2019-12-11.md",
+    "2019-12-11.md",
     "Schedule 2016-12-15.md",
     "Thoughts 2026-01-29 2028.md",
     "Magical ideas-herbal thoughts.md",
@@ -343,9 +346,6 @@
     "Can I Switch to Linux.md",
     "Schedule 2026-01-26.md",
     "Is Zorin OS the best Windows Replacement..md",
-    "Thoughts 2026-01-28 2203.md",
-    "Daily/2026-01-28.md",
-    "Schedule 2026-01-28 1729.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
