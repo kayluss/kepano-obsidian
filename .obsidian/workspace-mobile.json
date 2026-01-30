@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -1864.700209016019,
-                  "y": -781.2761341491564,
+                  "x": -1661.3214469174006,
+                  "y": -810.1339314739603,
                   "zoom": -0.4585718572510534
                 }
               },
@@ -126,7 +126,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Tale of Frost and Embers.md",
+                "file": "Daily/2026-01-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -141,11 +141,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A Tale of Frost and Embers"
+              "title": "2026-01-30"
+            }
+          },
+          {
+            "id": "e85261fb21d74b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Made For You.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Made For You"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -342,9 +366,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "2670410266f26211",
+  "active": "e85261fb21d74b0c",
   "lastOpenFiles": [
     "Life board.canvas",
+    "Daily/2026-01-30.md",
+    "A Tale of Frost and Embers.md",
     "Schedule 2017-12-06.md",
     "2017-12-06.md",
     "Thoughts 2015-12-19.md",
@@ -366,10 +392,8 @@
     "NVIM.md",
     "THe Practice of Enochian Magick.md",
     "Weekly/2026-W05.md",
-    "A Tale of Frost and Embers.md",
     "Daily/2026-01-27.md",
     "The T’ai Shang Tractate.md",
-    "Can I Switch to Linux.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
