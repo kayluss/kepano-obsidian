@@ -102,7 +102,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2018-12-16.md",
+                "file": "Schedule 2016-12-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -117,11 +117,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2018-12-16"
+              "title": "Schedule 2016-12-15"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,10 +317,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "90d4bdcc9b2fa1c4",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
-    "Life board.canvas",
+    "Schedule 2016-12-15.md",
+    "2016-12-15.md",
     "Schedule 2018-12-16.md",
+    "Life board.canvas",
     "2018-12-16.md",
     "Thoughts 2015-12-19.md",
     "Schedule 2015-12-19.md",
@@ -345,7 +346,6 @@
     "Schedule 2026-01-27 2240.md",
     "Schedule 2018-02-09.md",
     "2022-05-20.md",
-    "2018-02-09.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
