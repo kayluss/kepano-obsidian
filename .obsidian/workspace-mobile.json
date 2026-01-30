@@ -16,9 +16,9 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -1563.3229001960929,
-                  "y": -974.9173412839425,
-                  "zoom": 0.2585539463298457
+                  "x": -1191.479263624744,
+                  "y": -580.8138710513829,
+                  "zoom": -0.35581589841279665
                 }
               },
               "pinned": true,
@@ -144,8 +144,7 @@
               "title": "To Buy"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,12 +341,12 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "6b777fe443e90bb7",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
+    "To Buy.md",
     "A Tale of Frost and Embers.md",
     "Life board.canvas",
     "Weekly/2026-W05.md",
-    "To Buy.md",
     "NVIM.md",
     "Daily/2026-01-27.md",
     "2026-01-29 0520.md",

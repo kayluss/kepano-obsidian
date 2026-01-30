@@ -4,9 +4,17 @@ tags:
   - note
   - journal
 ---
+# Restock House Supplies- Not Urgent
+- paper towels
+- toilet paper
+- ginger candy
+- ibuprofene
+- tylenol
+- garbage bags
 # Needing Replaced
 - work shoes
 - work pants
+- Michigan items
 
 
 # Wants for QOL Improvements
