@@ -16,9 +16,9 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -1191.479263624744,
-                  "y": -547.5414344412197,
-                  "zoom": -0.35581589841279665
+                  "x": -1864.700209016019,
+                  "y": -781.2761341491564,
+                  "zoom": -0.4585718572510534
                 }
               },
               "pinned": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts 2015-12-19.md",
+                "file": "Schedule 2017-12-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -93,7 +93,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Thoughts 2015-12-19"
+              "title": "Schedule 2017-12-06"
             }
           },
           {
@@ -120,8 +120,7 @@
               "title": "Schedule 2019-12-11"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,8 +317,11 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e86f2ed73fe2f4c4",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
+    "Schedule 2017-12-06.md",
+    "2017-12-06.md",
+    "Thoughts 2015-12-19.md",
     "Life board.canvas",
     "Schedule 2019-12-11.md",
     "Thoughts 2019-12-11.md",
@@ -332,7 +334,6 @@
     "Daily/2026-01-29.md",
     "Schedule 2018-12-16.md",
     "2018-12-16.md",
-    "Thoughts 2015-12-19.md",
     "Schedule 2015-12-19.md",
     "2015-12-19.md",
     "Menstruating.md",
@@ -345,7 +346,6 @@
     "The T’ai Shang Tractate.md",
     "Can I Switch to Linux.md",
     "Schedule 2026-01-26.md",
-    "Is Zorin OS the best Windows Replacement..md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
