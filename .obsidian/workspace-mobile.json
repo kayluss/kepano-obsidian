@@ -126,7 +126,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-30.md",
+                "file": "Shopping 2026-01-30 0921.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -141,7 +141,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-30"
+              "title": "Shopping 2026-01-30 0921"
             }
           },
           {
@@ -169,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -366,10 +366,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e85261fb21d74b0c",
+  "active": "2670410266f26211",
   "lastOpenFiles": [
-    "Life board.canvas",
+    "Schedulev2026-01-30 0920.md",
+    "Shopping 2026-01-30 0921.md",
     "Daily/2026-01-30.md",
+    "Made For You.md",
+    "Untitled.md",
+    "Life board.canvas",
     "A Tale of Frost and Embers.md",
     "Schedule 2017-12-06.md",
     "2017-12-06.md",
@@ -391,9 +395,6 @@
     "To Buy.md",
     "NVIM.md",
     "THe Practice of Enochian Magick.md",
-    "Weekly/2026-W05.md",
-    "Daily/2026-01-27.md",
-    "The T’ai Shang Tractate.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
