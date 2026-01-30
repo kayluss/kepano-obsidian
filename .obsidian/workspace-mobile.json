@@ -95,9 +95,33 @@
               "icon": "lucide-file",
               "title": "Thoughts 2015-12-19"
             }
+          },
+          {
+            "id": "90d4bdcc9b2fa1c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule 2018-12-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule 2018-12-16"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -294,17 +318,19 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e86f2ed73fe2f4c4",
+  "active": "90d4bdcc9b2fa1c4",
   "lastOpenFiles": [
+    "2018-12-16.md",
+    "Schedule 2018-12-16.md",
+    "Thoughts 2015-12-19.md",
+    "Life board.canvas",
     "Schedule 2015-12-19.md",
     "2015-12-19.md",
-    "Thoughts 2015-12-19.md",
     "Menstruating.md",
     "To Buy.md",
     "NVIM.md",
     "THe Practice of Enochian Magick.md",
     "Weekly/2026-W05.md",
-    "Life board.canvas",
     "A Tale of Frost and Embers.md",
     "Daily/2026-01-27.md",
     "2026-01-29 0520.md",
@@ -321,8 +347,6 @@
     "2022-05-20.md",
     "2018-02-09.md",
     "Daily/2026-01-26.md",
-    "FTS/Schedule 2022-05-15.md",
-    "NoMa technique.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
