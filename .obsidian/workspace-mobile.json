@@ -120,7 +120,8 @@
               "title": "Schedule 2016-12-15"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -287,7 +288,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/2026-01-12.md",
+            "file": "Schedule 2016-12-15.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -296,7 +297,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,12 +318,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "00ec0bd4de710c47",
+  "active": "90d4bdcc9b2fa1c4",
   "lastOpenFiles": [
-    "Schedule 2016-12-15.md",
-    "2016-12-15.md",
-    "Schedule 2018-12-16.md",
     "Life board.canvas",
+    "Schedule 2016-12-15.md",
+    "Thoughts 2026-01-29 2028.md",
+    "Magical ideas-herbal thoughts.md",
+    "2016-12-15.md",
+    "2026-01-29 0520.md",
+    "Daily/2026-01-29.md",
+    "Schedule 2018-12-16.md",
     "2018-12-16.md",
     "Thoughts 2015-12-19.md",
     "Schedule 2015-12-19.md",
@@ -334,8 +339,6 @@
     "Weekly/2026-W05.md",
     "A Tale of Frost and Embers.md",
     "Daily/2026-01-27.md",
-    "2026-01-29 0520.md",
-    "Daily/2026-01-29.md",
     "The T’ai Shang Tractate.md",
     "Can I Switch to Linux.md",
     "Schedule 2026-01-26.md",
@@ -343,9 +346,6 @@
     "Thoughts 2026-01-28 2203.md",
     "Daily/2026-01-28.md",
     "Schedule 2026-01-28 1729.md",
-    "Schedule 2026-01-27 2240.md",
-    "Schedule 2018-02-09.md",
-    "2022-05-20.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
