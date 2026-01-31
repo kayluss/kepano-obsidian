@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-01-31.md",
+                "file": "Schedule 2026-01-31 0626.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -93,59 +93,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-31"
-            }
-          },
-          {
-            "id": "d6032d37df61d209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts 2026-01-31 0837.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Thoughts 2026-01-31 0837"
-            }
-          },
-          {
-            "id": "3a9aa7c7ec767b38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Fanfiction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Current Fanfiction"
+              "title": "Schedule 2026-01-31 0626"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -342,13 +294,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "0bcefe88866401cd",
+  "active": "75274554b20fc238",
   "lastOpenFiles": [
-    "Life board.canvas",
+    "Daily/2026-01-31.md",
     "Thoughts 2026-01-31 0837.md",
+    "Current Fanfiction.md",
+    "Calendar Notes/NeoVim-20260131085046.md",
+    "Calendar Notes/Lucie & Leo for weekend-20260131085027.md",
+    "Life board.canvas",
     "Beautiful destruction at the Hands of The moon and sun.md",
     "Weekly/2026-W05.md",
-    "Daily/2026-01-31.md",
     "Schedule 2017-12-06.md",
     "Schedule 2019-12-11.md",
     "Shopping 2026-01-30 0921.md",
@@ -368,8 +323,6 @@
     "Thoughts 2026-01-29 2028.md",
     "Magical ideas-herbal thoughts.md",
     "2016-12-15.md",
-    "2026-01-29 0520.md",
-    "Daily/2026-01-29.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
