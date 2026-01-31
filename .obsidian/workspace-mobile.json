@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -1554.1353425681284,
-                  "y": -860.2915315861197,
+                  "x": -1541.7677151432124,
+                  "y": -837.6175479737739,
                   "zoom": -0.4585718572510534
                 }
               },
@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-calendar",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "custom-calendar-view-calendar"
+              "icon": "calendar",
+              "title": "Calendar"
             }
           },
           {
@@ -73,78 +73,6 @@
             }
           },
           {
-            "id": "e86f2ed73fe2f4c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2017-12-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2017-12-06"
-            }
-          },
-          {
-            "id": "90d4bdcc9b2fa1c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule 2019-12-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule 2019-12-11"
-            }
-          },
-          {
-            "id": "2670410266f26211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shopping 2026-01-30 0921.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Shopping 2026-01-30 0921"
-            }
-          },
-          {
             "id": "75274554b20fc238",
             "type": "leaf",
             "state": {
@@ -174,7 +102,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-01-31 0837.md",
+                "file": "Thoughts 2026-01-31 0837.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -189,11 +117,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-31 0837"
+              "title": "Thoughts 2026-01-31 0837"
+            }
+          },
+          {
+            "id": "3a9aa7c7ec767b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current Fanfiction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Current Fanfiction"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -390,23 +342,26 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "d6032d37df61d209",
+  "active": "0bcefe88866401cd",
   "lastOpenFiles": [
-    "Schedule 2026-01-31 0626.md",
-    "2026-01-31 0837.md",
     "Life board.canvas",
+    "Thoughts 2026-01-31 0837.md",
+    "Beautiful destruction at the Hands of The moon and sun.md",
+    "Weekly/2026-W05.md",
     "Daily/2026-01-31.md",
+    "Schedule 2017-12-06.md",
+    "Schedule 2019-12-11.md",
+    "Shopping 2026-01-30 0921.md",
+    "Where This Leaves Us.md",
+    "Schedule 2026-01-31 0626.md",
     "Made For You.md",
     "The Subtle Threads of Souls.md",
-    "Shopping 2026-01-30 0921.md",
     "Schedulev2026-01-30 0920.md",
     "Daily/2026-01-30.md",
     "Untitled.md",
     "A Tale of Frost and Embers.md",
-    "Schedule 2017-12-06.md",
     "2017-12-06.md",
     "Thoughts 2015-12-19.md",
-    "Schedule 2019-12-11.md",
     "Thoughts 2019-12-11.md",
     "2019-12-11.md",
     "Schedule 2016-12-15.md",
@@ -415,10 +370,6 @@
     "2016-12-15.md",
     "2026-01-29 0520.md",
     "Daily/2026-01-29.md",
-    "Schedule 2018-12-16.md",
-    "2018-12-16.md",
-    "Schedule 2015-12-19.md",
-    "2015-12-19.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
