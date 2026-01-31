@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -1562.3804275180726,
-                  "y": -970.225997585373,
+                  "x": -1554.1353425681284,
+                  "y": -860.2915315861197,
                   "zoom": -0.4585718572510534
                 }
               },
@@ -145,36 +145,12 @@
             }
           },
           {
-            "id": "e85261fb21d74b0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Made For You.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Made For You"
-            }
-          },
-          {
             "id": "75274554b20fc238",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Made For You.md",
+                "file": "Daily/2026-01-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -189,11 +165,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Made For You"
+              "title": "2026-01-31"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -390,13 +365,15 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "75274554b20fc238",
+  "active": "00ec0bd4de710c47",
   "lastOpenFiles": [
+    "Daily/2026-01-31.md",
+    "Made For You.md",
+    "The Subtle Threads of Souls.md",
     "Life board.canvas",
     "Shopping 2026-01-30 0921.md",
     "Schedulev2026-01-30 0920.md",
     "Daily/2026-01-30.md",
-    "Made For You.md",
     "Untitled.md",
     "A Tale of Frost and Embers.md",
     "Schedule 2017-12-06.md",
@@ -416,8 +393,6 @@
     "Schedule 2015-12-19.md",
     "2015-12-19.md",
     "Menstruating.md",
-    "To Buy.md",
-    "NVIM.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
