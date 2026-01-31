@@ -16,8 +16,8 @@
               "state": {
                 "file": "Life board.canvas",
                 "viewState": {
-                  "x": -1661.3214469174006,
-                  "y": -810.1339314739603,
+                  "x": -1562.3804275180726,
+                  "y": -970.225997585373,
                   "zoom": -0.4585718572510534
                 }
               },
@@ -167,9 +167,33 @@
               "icon": "lucide-file",
               "title": "Made For You"
             }
+          },
+          {
+            "id": "75274554b20fc238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Made For You.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Made For You"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -366,14 +390,14 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "2670410266f26211",
+  "active": "75274554b20fc238",
   "lastOpenFiles": [
-    "Schedulev2026-01-30 0920.md",
+    "Life board.canvas",
     "Shopping 2026-01-30 0921.md",
+    "Schedulev2026-01-30 0920.md",
     "Daily/2026-01-30.md",
     "Made For You.md",
     "Untitled.md",
-    "Life board.canvas",
     "A Tale of Frost and Embers.md",
     "Schedule 2017-12-06.md",
     "2017-12-06.md",
@@ -394,7 +418,6 @@
     "Menstruating.md",
     "To Buy.md",
     "NVIM.md",
-    "THe Practice of Enochian Magick.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
