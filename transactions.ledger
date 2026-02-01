@@ -21,8 +21,11 @@ alias i=Income
 
 2026-02-01 Starting Balances
     ; Add a line for each bank account or credit card
-    c:Chase                   $-250.45
-    b:BankOfAmerica    $450.27
+    c:Discover                $ -7460.40
+    c:PPcredit                 $-978.52
+    c:Amazon                  $-
+    b:RCUcheck             $35.79   
+    b:RCUsave               $5.00
     StartingBalance      ; Leave this line alone
 
 ; I highly recommend reading through the Ledger documentation about the basics
