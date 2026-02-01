@@ -9,4 +9,5 @@ Plaintext finance program
 
 Video: creator discuses Hledger
 	https://youtu.be/H_CdGzLbc7A?si=DePvtzRyxP_aUxsD
-	
+
+apt install hledger hledger-ui hledger-web
