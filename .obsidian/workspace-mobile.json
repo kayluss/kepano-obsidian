@@ -34,8 +34,8 @@
               "type": "custom-calendar-view-calendar",
               "state": {},
               "pinned": true,
-              "icon": "calendar",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "custom-calendar-view-calendar"
             }
           },
           {
@@ -96,8 +96,7 @@
               "title": "Little lost girl"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +185,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -277,6 +276,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "ledger-obsidian:Add to Ledger": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -294,10 +294,28 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "75274554b20fc238",
+  "active": "3e815b11f1c1914b",
   "lastOpenFiles": [
-    "Reddit post- technical guides for osinst to breach analysis.md",
+    "HLedger install Process Linux.md",
+    "Double Entry Bookeeping.md",
+    "transactions.ledger",
+    "/transactions.ledger",
+    "/commands/How to connect to Ipad and transfer files.md",
+    "commands/How to connect to Ipad and transfer files.md",
+    "/commands",
+    "/Weekly/2026-W05.md",
+    "/HLedger install Process Linux.md",
+    "/Double Entry Bookeeping.md",
+    "/Daily/2026-02-01.md",
+    "/Daily",
+    "/Calendar Notes/NeoVim-20260131085046.md",
+    "/Calendar Notes",
+    "/2026-02-01 0628.md",
+    "/Weekly/2026-W06.md",
+    "Weekly/2026-W06.md",
+    "/Weekly",
     "Little lost girl.md",
+    "Reddit post- technical guides for osinst to breach analysis.md",
     "2026-02-01 0628.md",
     "Daily/2026-02-01.md",
     "Schedule 2026-01-31 0626.md",
@@ -311,32 +329,14 @@
     "Life board.canvas",
     "Beautiful destruction at the Hands of The moon and sun.md",
     "Weekly/2026-W05.md",
-    "Schedule 2017-12-06.md",
-    "Schedule 2019-12-11.md",
-    "Shopping 2026-01-30 0921.md",
-    "Where This Leaves Us.md",
-    "Made For You.md",
-    "The Subtle Threads of Souls.md",
-    "Schedulev2026-01-30 0920.md",
-    "Daily/2026-01-30.md",
-    "Untitled.md",
-    "A Tale of Frost and Embers.md",
-    "2017-12-06.md",
-    "Thoughts 2015-12-19.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
     "Learning.base",
     "Excalidraw",
-    "commands",
-    "Templates/Bases/Books.base",
-    "Calendar Notes",
     "Attachments/IMG_3441.jpeg",
     "Attachments/IMG_3439.jpeg",
     "Attachments/IMG_3436.png",
-    "warcraft.base",
-    "Untitled 2.base",
-    "progressive.base",
     "Attachments/Pasted image 20260114100908.png",
     "Attachments/IMG_3414.jpeg",
     "Attachments/48594DCE-786C-4442-917E-15273A6FA157.jpeg",
