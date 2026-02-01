@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule 2026-01-31 0626.md",
+                "file": "Daily/2026-01-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -93,7 +93,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule 2026-01-31 0626"
+              "title": "2026-01-31"
             }
           }
         ],
@@ -125,7 +125,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Menstr",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -186,7 +186,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -296,6 +296,9 @@
   },
   "active": "75274554b20fc238",
   "lastOpenFiles": [
+    "Menstruating.md",
+    "Daily/2016-07-22.md",
+    "Schedule 2026-01-31 0626.md",
     "Daily/2026-01-31.md",
     "Thoughts 2026-01-31 0837.md",
     "Current Fanfiction.md",
@@ -308,7 +311,6 @@
     "Schedule 2019-12-11.md",
     "Shopping 2026-01-30 0921.md",
     "Where This Leaves Us.md",
-    "Schedule 2026-01-31 0626.md",
     "Made For You.md",
     "The Subtle Threads of Souls.md",
     "Schedulev2026-01-30 0920.md",
@@ -321,8 +323,6 @@
     "2019-12-11.md",
     "Schedule 2016-12-15.md",
     "Thoughts 2026-01-29 2028.md",
-    "Magical ideas-herbal thoughts.md",
-    "2016-12-15.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",

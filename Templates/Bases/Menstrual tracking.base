@@ -8,7 +8,7 @@ views:
       - file.name
       - created
     sort:
-      - property: file.ctime
+      - property: file.fullname
         direction: ASC
   - type: cards
     name: Cards
