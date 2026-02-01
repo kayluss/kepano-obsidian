@@ -23,7 +23,8 @@ alias i=Income
     ; Add a line for each bank account or credit card
     c:Discover                $ -7460.40
     c:PPcredit                 $-978.52
-    c:Amazon                  $-
+    c:Amazon                  $-1251.15
+    c:Carecredit            $-2909.69
     b:RCUcheck             $35.79   
     b:RCUsave               $5.00
     StartingBalance      ; Leave this line alone
