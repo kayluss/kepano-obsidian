@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reddit post- technical guides for osinst to breach analysis.md",
+                "file": "2026-02-01 0659.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -93,7 +93,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reddit post- technical guides for osinst to breach analysis"
+              "title": "2026-02-01 0659"
             }
           }
         ],
@@ -264,7 +264,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Reddit post- technical guides for osinst to breach analysis.md",
+            "file": "2026-02-01 0659.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -296,8 +296,9 @@
   },
   "active": "75274554b20fc238",
   "lastOpenFiles": [
-    "2026-02-01 0628.md",
     "Reddit post- technical guides for osinst to breach analysis.md",
+    "2026-02-01 0659.md",
+    "2026-02-01 0628.md",
     "Daily/2026-02-01.md",
     "Schedule 2026-01-31 0626.md",
     "Daily/2026-01-31.md",
@@ -322,7 +323,6 @@
     "A Tale of Frost and Embers.md",
     "2017-12-06.md",
     "Thoughts 2015-12-19.md",
-    "Thoughts 2019-12-11.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
