@@ -95,8 +95,21 @@
               "icon": "lucide-file",
               "title": "Little lost girl"
             }
+          },
+          {
+            "id": "deabee3007222be6",
+            "type": "leaf",
+            "state": {
+              "type": "ledger",
+              "state": {
+                "file": "transactions.ledger"
+              },
+              "icon": "ledger",
+              "title": "Ledger"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 5
   },
   "right": {
     "id": "0bc0eeaf0ff0c853",
@@ -294,8 +307,9 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "3e815b11f1c1914b",
+  "active": "deabee3007222be6",
   "lastOpenFiles": [
+    "Life board.canvas",
     "HLedger install Process Linux.md",
     "Double Entry Bookeeping.md",
     "transactions.ledger",
@@ -326,9 +340,7 @@
     "Current Fanfiction.md",
     "Calendar Notes/NeoVim-20260131085046.md",
     "Calendar Notes/Lucie & Leo for weekend-20260131085027.md",
-    "Life board.canvas",
     "Beautiful destruction at the Hands of The moon and sun.md",
-    "Weekly/2026-W05.md",
     "Attachments/IMG_3447.png",
     "troubleshoot.base",
     "Untitled 1.base",
