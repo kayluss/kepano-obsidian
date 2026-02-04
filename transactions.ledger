@@ -48,3 +48,16 @@ alias i=Income
 ; If you encounter issues, please search the existing Github issues,
 ; and create a new one if your issue has not already been solved.
 ;     https://github.com/tgrosinger/ledger-obsidian/issues
+
+
+2026/02/03 Allied Coop
+    Food:Lunch    $7.35
+    b:RCUcheck
+
+2026/02/03 Kwik Trip
+    Food:Groceries    $7.27
+    Assets:Banking:RCUcheck
+
+2026/02/03 WI Department Of Revenue
+    Income:Tax Return    $-534.00
+    Assets:Banking:RCUcheck
