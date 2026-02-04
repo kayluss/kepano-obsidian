@@ -1,5 +1,5 @@
 ---
-created: 2026-02-03T08:25:00
+created: 2025-04-15T11:32:00
 tags:
   - note
   - journal
@@ -8,7 +8,7 @@ categories:
   - "[[Current Fanfiction]]"
 author:
   - Snowivy
-url: https://archiveofourown.org/works/61653616/chapters/157607899
+url: https://archiveofourown.org/works/53861446/
 genre:
   - Fanfiction
 year: 2024
@@ -16,9 +16,9 @@ rating:
 topics:
   - SwanQueen
 Last read: 2026-02-03
-last updated: 2025-09-19
+last updated: 2026-02-02
 via: ao3
 status:
-  - "[[Active]]"
+  - " Done"
 ---
-current up to Chpt 12
+rereading [[2026-02-02]]
