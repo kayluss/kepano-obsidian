@@ -33,7 +33,8 @@ Bases for categories
 		Also using “created is not empty ” worked 
 Daily Note Solutions
 	Title needs to be date only or files won’t link to the imbedded base.
-
+Tasks to show from weekly note to master list. 
+	tasks need to be created using ctrl + t and not be indented
 
 ![[vault2progress.base]]
 
