@@ -18,4 +18,4 @@ tags:
 status:
   - Done
 ---
-Quit reading chp 2 
+OQuit reading chp 2 

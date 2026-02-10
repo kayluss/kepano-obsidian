@@ -4,6 +4,7 @@ tags:
   - note
   - journal
 ---
+[[2026-02-05]]
 Tylenol
 Ibuprofene
 Razors
