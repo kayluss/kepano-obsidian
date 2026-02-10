@@ -7,6 +7,9 @@ tags:
 ![[reading.base]]
 
 
+# Websites
+	https://www.sqdirectory.com/
+	
 
 # Pairings
 ### Talder
@@ -19,6 +22,7 @@ https://archiveofourown.org/works/53861446/chapters/143737837#workskin - Through
 
 ### La’Una
  
+
 
 ### Finished Works
 You Dont have to be Brave https://archiveofourown.org/works/49089661 #read [[2023-11-21]]
