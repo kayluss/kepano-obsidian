@@ -19,4 +19,4 @@ tags:
 status:
   - " Done"
 ---
-Finishes rereading [[2026-02-06]]
+Finishes rereading [[Daily/2026-02-06]]
