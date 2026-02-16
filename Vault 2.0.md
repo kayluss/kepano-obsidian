@@ -22,7 +22,7 @@ should I use [[weekly notes]] - answered Yes I will use weekly notes for to do l
 
 - [ ] Conver [[Current Fanfiction]] into a category and create notes for links listed. Next- Finished works
 - [ ] Migrate MOC files over
-- [ ] Migrate Menstruation tracker left off at 2017-02-13
+- [x] Migrate Menstruation tracker left off at 2017-02-13  [completion:: 2026-02-16]
 - [ ] Migrate Bills ~~progressive~~ ~~spectrum~~
 # Breadcrumbs to finish
 
@@ -35,7 +35,10 @@ Daily Note Solutions
 	Title needs to be date only or files won’t link to the imbedded base.
 Tasks to show from weekly note to master list. 
 	tasks need to be created using ctrl + t and not be indented
-
+# Completed MOCs Transfers
+Menstraul
+Progressive
+Spectrum
 ![[vault2progress.base]]
 
 
