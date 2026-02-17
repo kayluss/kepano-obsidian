@@ -1,5 +1,5 @@
 ---
-created:
+created: 2018-08-22T18:41:00
 tags:
   - note
   - journal
