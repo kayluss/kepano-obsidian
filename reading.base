@@ -18,3 +18,5 @@ views:
         direction: DESC
   - type: table
     name: all
+  - type: cards
+    name: View
