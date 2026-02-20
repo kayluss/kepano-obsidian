@@ -1,0 +1,33 @@
+---
+created:
+tags:
+  - note
+  - journal
+---
+Details
+        - Thursday, [[2022-05-12]], at 10:00 a.m. to Friday, [[2022-05-20]], at 8:00 p.m. local time
+    - ### Pokémon debuts
+        - Lapras wearing a scarf, Dewpider, and Araquanid make their debuts in Pokémon GO!
+        - ![Lapras wearing a scarf - Shiny On](https://lh3.googleusercontent.com/-_xR404q33hfcfQH8nh4axRVSlIHgNnpfj1-_ppzPLmlKPxbMja_LB6tCEHYOnkB85yPeGwgzRJCyyRwl9jO-daeGJJs5Ru2m3lm_YBhp4b8=s0)
+        - Lapras wearing a scarf
+        - ![Dewpider -- Shiny Off](https://lh3.googleusercontent.com/Hn38pr-fjCFFU16ehgjzQ32I9a4h3Vcl__BrgV3oUodmYzLcKUrH-YlNa4GphCs7UTY_CJNMUtAyvnLiJ-4GY_tuwMx81BFuaLNEx_RiOKUOpvE=s0)
+        - Dewpider
+        - ![](https://lh3.googleusercontent.com/aOgwXJ4-Z4XicLqEIoc2WNJrBufADebMniOboKjrLv2DjJLjKTA2hpywz1mO0VP831wb1cO6mhhsIOPbJTmx3_dPXHD4LGVAY4_9krIxlwSy6gc=s0)
+        - Araquanid*
+        - The Legendary Pokémon Tapu Fini, guardian deity of Poni Island, will also be appearing in raids!
+        - ![Image of Tapu Fini - Shiny Off](https://lh3.googleusercontent.com/YrhUFs-a7HwlruUIBdbRYawxaikbUhObA_4PjAYI1fQRKTPjYnVvV38Ch9OPwgWib3JXyGy9h5Q1NZ-Yo2JMmIKLy5EQdNqnHmNQqlfPf9we3g=s0)
+        - Tapu Fini
+        - ![](https://lh3.googleusercontent.com/Xds-G7SleWB43aOyTq6AM-YZep3a8l70_O8xwb_YMUIhVj4UuJcTWkmUc-JCbb8iLhQunhWWf47yeZlZDEeepAR30wJwnX5CjCN7h6SjewBbjw)
+        - If you’re lucky, you may encounter a Shiny one!
+        - * You can use 50 Dewpider Candy to evolve Dewpider into Araquanid.
+    - ### ![](https://lh3.googleusercontent.com/O0qRhKNGnKGBaIqumln01K_XVsHHioeLhoZy9S-tMHSix6qGcxIuMJ-zk3QEt33frcrcWWItiSBpsEjKfnrTUWRX-wFWfy-nnajNWI7vsmiuIw=s0)Shiny Binacle
+        - For the first time in Pokémon GO, you’ll be able to encounter Shiny Binacle!
+        - ![Binacle - Shiny On](https://lh3.googleusercontent.com/_gz-vt_E2G8pPAbDbVjhc-Ivb-xShDrdYi8O12yKOu_KndVmXi3NBcnWWSbMGd88d1dx_Z2pw_KsN8XmZcpSfr2F7ZFGrHotG0AgsH_porZd=s0)
+        - Binacle
+        - ![](https://lh3.googleusercontent.com/oaHDDn1XlESBpy5TkHYh2flvlx1ZXzNoW2yU9-Sr0g57ZpnYEQgMKGQhd4TY2lUTvLx8Ejnp5AEh82Lr4UFcuCeJZ6ulLUvpGuMDbAy4YmevzQ)
+        - If you’re lucky, you may encounter a Shiny one.
+    - ### Global Challenge
+        - Available from Wednesday, [[2022-05-11]], at 1:00 p.m. PDT (GMT –7), to Saturday, [[2022-05-21]], at 1:00 a.m. PDT (GMT –7)
+        - A Global Challenge will be happening throughout the Water Festival event! Work with other Trainers around the world to catch a wave of Water-type Pokémon to earn a bonus for everyone!
+        - **Global Challenge**: Catch 600,000,000 Water-type Pokémon
+        - **Global Challenge bonus reward**: 2× Candy for catching Pokémon

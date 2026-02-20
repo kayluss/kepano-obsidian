@@ -1,0 +1,93 @@
+---
+created: 2022-05-01T08:48:00
+tags:
+  - note
+  - journal
+---
+- [[Pokemon Go]]
+- ## May Community Day
+        - 
+        - Join us for Community Day on Saturday, [[May 21st, 2022]]! Alolan Geodude, the Rock Pokémon, will appear in the wild!
+        - For more details, check out the May Community Day [blog](https://pokemongolive.com/post/communityday-may-2022-alolan-geodude).
+    - ## Upcoming events
+        - Upcoming events
+        - Stay tuned for details about these exciting events.
+            - **A Mega Moment**: Mega Evolution is getting a mega update! Pokémon that can Mega Evolve in Pokémon GO are going to appear more frequently in the wild until Sunday, [[May 1st, 2022]], at 8:00 p.m. local time! A Mega Kangaskhan Raid Day will also be held on Sunday, May 1, 2022, from 11:00 a.m. to 2:00 p.m. local time.
+            - **Pokémon Air Adventures**: Set your sights on the sky! The first Legendary Pokémon that can Mega Evolve in Pokémon GO—Mega Latias and Mega Latios—will be featured from Tuesday, [[May 3rd, 2022]], to Sunday, [[May 8th, 2022]]!
+            - **Water Festival**: Look out for a surge of Water-type Pokémon from Thursday, [[May 12th, 2022]], to Friday, [[May 20th, 2022]].
+            - **Alola to Alola**: From Wednesday, [[May 25th, 2022]], to Tuesday, [[May 31st, 2022]], celebrate and look back at all the adventures Trainers have had this year with Pokémon found in Alola!
+    - ## ![Image of a Raid Icon - Teal](https://lh3.googleusercontent.com/AzgQK0hq0G13nmDbvi9ARqqe5mhFgiyLqx3W3HzUrIknxnnpyczdLs66crtqP5OCytAH-5l2jpqZKAxPDEGCtQNbgw_HsG5cNDBV4bbAnEoH=s0)Featured Pokémon in raids
+        - The following Pokémon will be appearing in raids throughout May.
+    - 5*
+        - The guardian deity of Poni Island, the Legendary Pokémon Tapu Fini, will make its Pokémon GO debut in five-star raids this May. At the end of the month, the guardian deities of the four islands of the Alola region will gather together—make sure to catch them all while you have the chance!
+        - Please note: raid rotations all start and end at 10:00 a.m. local time on the dates listed unless otherwise noted.
+        - Until Tuesday, [[May 3rd, 2022]]
+        - Therian Forme Landorus
+        - Tuesday, [[May 10th, 2022]], to Wednesday, [[May 25th, 2022]]
+        - Tapu Fini
+        - Wednesday, [[May 25th, 2022]], to Wednesday, [[June 1st, 2022]]
+        - ![Tapu Koko - Shiny Off](https://lh3.googleusercontent.com/_ybg5W9gnGvueAQp2wSsF2sF5kKLHCuKFjicvuMZTDkaRBPUk0H6PBd-wIcf_M4FMXODiqNsQQ7Vr3k6i2g2FIGOMxjKZ5ZJCvxf2QrALe_7tQs=s0)
+        - Tapu Koko
+        - ![Tapu Lele -- Shiny Off](https://lh3.googleusercontent.com/K8S0j3dSYxoHLqQ05FzSkbys4VT8ZrMXGxwQKvcptv_zdIluEt8O6hQInbva1ykeWkKYPeqd-XLMk08rWL7j3mLmD3vgfS4bK8g08KgWRN90kw=s0)
+        - Tapu Lele
+        - ![Tapu Bulu - Shiny Off](https://lh3.googleusercontent.com/Nq5wtWixq7rDx8nOdOn4rJ4eWTIlFg7u4Bdd1RNcFcZIKAnI-3Jn25kX9-0NI-uG8D1I_VdIchRl-o5k4qrQkKYyGvk0qOVfL7MPnytG5fAQvaw=s0)
+        - Tapu Bulu
+        - ![Tapu Fini -- Shiny Off](https://lh3.googleusercontent.com/_U6CwcB4fkDP3nf30fc3aIIcAAF0ZSB_NSOg6k0KpGiC-NebcSBvlS0Wr2meWn47M3atCo_Py9xA1nsxM_ftrD965v-AHLaV7l6RRZZLW7QH6W8=s0)
+        - Tapu Fini
+        - ![](https://lh3.googleusercontent.com/kZjnBBzk6xCBUYakaGUo4MuWn9J-FkPC5ZDQ0stRUoNavPx1ceNBP6YmKxyxULxSYDce7XgbwYjoUSirvVY-gfGnNEpMBF8zVSRg7aB59ELpPg)
+        - If you’re lucky, you might encounter a Shiny one!
+    - ### ![Image of a Mega Raid Egg](https://lh3.googleusercontent.com/OOI7LeT52_xZdOb_A6ywoVkJ8FZ1vns4k1023KjaDCOgsfsKgCIQI28AzhV0ZlorAd6F1xW3uGqNFZBAqC290gjly_5zbMcK5MiPDzo2SzYZmg=s0)Mega Raids
+        - Mega Blastoise, Mega Kangaskhan, Mega Latias, Mega Latios, and Mega Altaria will appear in Mega Raids!
+        - Please note: raid rotations all start and end at 10:00 a.m. local time on the dates listed.
+        - Until Tuesday, [[May 3rd, 2022]]
+        - ![Mega Kangaskhan - Shiny On](https://lh3.googleusercontent.com/7l6WhV0NQlpHgeVtvJARrHjG3TNPe_xgLEZAV_wtoQ5rv9VIdSlJzPY1xVUN5wmXaEKqajhrQdVYYY88z0ojMEjhSwMNzeCrHEnkDUrHNXDOPTk=s0)
+        - Mega Kangaskhan
+        - Tuesday, [[May 3rd, 2022]], to Tuesday, [[May 10th, 2022]]
+        - ![Mega Latias - Shiny Icon On](https://lh3.googleusercontent.com/bACpjBaxrXPEtLRJbip3FdDoY2AzNYdCcbb5pTSGMMaNUTOic1TbFaJQbqWi-4QYABz-XD6mSG6TSbJj4MGHq6Sxr6CXbSNEM-NRv90IYgKy5w=s0)
+        - Mega Latias
+        - ![Mega Latios -- Shiny Icon On](https://lh3.googleusercontent.com/2oiicWM1M6lNKw9LaZvXI8u-vsx0oDy2yKaGvqYcHDOtaS0j41a2G76myfua64rydjr79ycpRgCdqNMblqXYHPbQyzVIRMYfaOJ6I6RRdvR02S8=s0)
+        - Mega Latios
+        - Tuesday, [[May 10th, 2022]], to Wednesday, [[May 25th, 2022]]
+        - ![Image of Mega Blastoise - Shiny On](https://lh3.googleusercontent.com/g3mpgsnKYpg4pEQrXbf-hu_B-AM_i8Ut5OjvawoBviE9W37vvL74rskU7MiRfDk1T2S-1P7-lvGBi_6ocrbD3TVwqoFmTKlANrB7ldlaI4lpOpY=s0)
+        - Mega Blastoise
+        - Wednesday, [[May 25th, 2022]], to Wednesday, [[June 1st, 2022]]
+        - ![Image of Mega Altaria -- Shiny Icon On](https://lh3.googleusercontent.com/C5AEllUxdDKPJmQ7HsUAVhuqRpWIR3ZDAS6dkaMVOEflo5cNubJFgUQGJ01cjmESLA6FJsMqLFDm3KZfgTsfQMCW1ThNgktr1ggq1abnMH7Plw=s0)
+        - Mega Altaria
+        - ![](https://lh3.googleusercontent.com/ZK92BkQdJRUKYkTyREb65JDgQ6pc6YbZ8d12WcjaawKHJzac54fsaAh01wV0aZS6w3cOgu27Zeyr4XFUm5jA7Q2M8d4ebEw3WxlZT48yBR7n)
+        - If you’re lucky, you might encounter a Shiny one!
+    - ### Raid Hours
+        - Every Wednesday in May, a Raid Hour event will occur from 6:00 p.m. to 7:00 p.m. local time. The following Pokémon will be featured.
+        - ![Image of Mega Latias - Shiny Icon On](https://lh3.googleusercontent.com/Irp3aDXtBaH-nrQqALdrBX97sSkPXgSAOWA0Tv4JzpAwHDkeRL86MFLuEfgz_ARLm7hPxx9xHfIOsLykCc7XGxXqoWN9tZQqVG-i1VDN0UlZUsA=s0)
+        - May 4: Mega Latias
+        - ![Image of Mega Latios - Shiny On](https://lh3.googleusercontent.com/BVvxMCNonnbCfNJazN9uuJKLut0ly_acHzp3WuWcMTnXU85DtoDiRCQrwPDDXK_9ivxEq3iA2j8cqcauFynIHe1RjORycgt4DOkPRkCu4_vLqdk=s0)
+        - May 4 : Mega Latios
+        - ![Image of Tapu Fini - Shiny Off](https://lh3.googleusercontent.com/fGxE5eyCWTZH7qYghAbT3EeVahUuNff7uMQvRRAjRia6_0UiV6gu_17VQvnJ5TMJcrvlBzSMTPAr6BNPFhy7UYxrwyEa4NhyTYJ0wZ6sPs6ezcI=s0)
+        - May 11, May 18, May 25: Tapu Fini
+        - ![Image of Tapu Koko -- Shiny Off](https://lh3.googleusercontent.com/dgOw9tPZfOLrtKUlQD2X_PxUNOT-smgsMJvYHTIrAcDZmTR0AbG7ikb3Tpjhf5Q5jGnpaxvGtF90oLMjYRv39OjATsnCh8kouriHkxFy_pKsnQ=s0)
+        - May 25: Tapu Koko
+        - ![Image of Tapu Lele -- Shiny Off](https://lh3.googleusercontent.com/OI__9uO4xe2jltJRAyP4W91RX08jbQ4xpuE4CKdZ9YVWjAq_NbF5QZQVfLyWbGpEO3IxyVB80alfCjgGdYxDM_SNBJ3Gysq9mXu1HgTIGYU1kcM=s0)
+        - May 25: Tapu Lele
+        - ![Image of Tapu Bulu -- Shiny Off](https://lh3.googleusercontent.com/TPQyHetyptrOD6zh4Y9jA0I_IXpM4oFvh4NIO4Uo0dOA92RAuXHOPHDM5yhn98nJIQLfvREjRwdKYHhMvEazzb7ccyLvv-BAKOBEqEUlSzgChQ=s0)
+        - May 25: Tapu Bulu
+        - ![](https://lh3.googleusercontent.com/iqpAsu9YOQE5FJq1zie_v5TBbi4jJrJ0VZNTceRKhM5miB4prfd4Ni8LF1ByI_f4qDIIlEokscXkzrjxkyaz4rLCbg-A9FEmvBKmqzA-a8Cj)
+        - If you’re lucky, you might encounter a Shiny one!
+    - ## May Research Breakthrough encounters
+        - Sunday, May 1, 2022, at 1:00 p.m. to Wednesday, June 1, 2022, at 1:00 p.m. PDT (GMT −7).
+        - ![Image of Alolan Grimer - Shiny On](https://lh3.googleusercontent.com/Yb_s31e7dKDes66pdq1pPZycuRZHHpedLBpF3I0sIO9cSCFbGq6xu3WslaoOSr7mvJYJyUQ9TIh619Rkn6fecfRLiY7oxTOLSNb00Eta8KQc=s0)
+        - Alolan Grimer
+        - ![](https://lh3.googleusercontent.com/DSov-lf0APWTq0VFlkGH3FWCTCJR-UDtb1Ho2gVRGJjT0t9ftD6BfKK3KHJmcFYiF0qjtE95dLlgJlcRVQyxR3tA97bQthDsuhvy5btSjOPVnBY)
+        - If you’re lucky, you might encounter a Shiny one!
+    - ## Pokémon Spotlight Hours
+        - In the month of May, Pokémon Spotlight Hour will take place every Tuesday from 6:00 p.m. to 7:00 p.m. local time, and each event will spotlight a different Pokémon and a special bonus!
+        - ![Image of Wingull - Shiny](https://lh3.googleusercontent.com/qN3iEyThmNCMh-oSHljX6PlmNpWYultb0nh0cYuon_RM4xYLY5RGbZu8QOkqDbIyF_o13qbzjoVfY0v6vXlEl7koeIbs5A3WdF8r_BlNtzINwe8=s0)
+        - May 3: Wingull | 2× Candy for catching Pokémon
+        - ![](https://lh3.googleusercontent.com/xr26mGtkN4CIzcZwCS_uCZ8wpi8OkB1MavdX_VIjxbLdvxN9RlF8pwNf1u294wpFiJ_3e0zFqh8oyEumrP7V8mHxqpFV5XFXx56S2_K8TD2xPQ=s0)
+        - May 10: Numel | 2× Candy for transferring Pokémon
+        - ![](https://lh3.googleusercontent.com/dYvan0H1tORI5tsLGx0DuuIT6ENiyh1-b-gqR7K5MmldukHWy5dtSFdc-k0j-5xAH5-zZ0tccZwNILj2K-btTitCQp_S7Wpi-UTyrEQclOXS=s0)
+        - May 17: Magikarp | 2× XP for evolving Pokémon
+        - ![](https://lh3.googleusercontent.com/v_5JOXcv6fyySlanfvVZPkMt9Ky2vY0xq4yBlemNNzrDeRuBGlAPwhWEVWmpPVQg79CvApWrP7IDUalyifOWM4-LtdSLYpXykT555EoYSKyO=s0)
+        - May 24: Seel | 2× Stardust for catching Pokémon
+        - ![](https://lh3.googleusercontent.com/MxMZ1cPKkDsLnV2qvy7sa0QGZOiZAj31DrSq0PXg_pCAmjL41teWYwb8B1r-euoA4VzjbZcqWUWUGfkkZCmHrzPwun2tuMI7Q7Ba9mSaIaBMqg=s0)
+        - May 31: Pikipek | 2× XP for catching Pokémon
+        - ![](https://lh3.googleusercontent.com/VmLnGw1rf-3KCIunxnpSkT1Go_fDkFbOUyzJzXRVlBpU2g9qcqItE0s_86OuCGC0p8yEVsvuFJNCkjM0uqZ7JVvJHrBPGvwwjoxuH-FuFbtvrQ)
+        - If you’re lucky, you might encounter a Shiny one!
