@@ -1,24 +1,23 @@
 ---
+created: 2026-01-02T18:46:00
+tags:
+  - categories
+  - People
 categories:
   - "[[People]]"
 birthday:
 org: []
-created: 2026-01-02T18:53:00
 died:
-tags:
-  - categories
-  - People
 relation: family
 ---
-
-    - DOB:
+- Name: Mike Oertel
     - Phone Number: 
     - Email:
     - Address:
     - Family: 
-	    - Mother: Tammy
-	    - Father: 
-	    - Spouse: [[Mike Oertel]]
+	    - Mother: [[Tonya]]
+	    - Father: William Oertel III
+	    - Spouse: [[Jasmine]]
 	    - CHildren
 		    - Daughter: Lucie
 		    - Son: Leo
@@ -26,8 +25,8 @@ relation: family
         - Medicines
         - Allergies
     - Links They sent me:
-	    - 
-    
+	    - https://ppfmudmotors.com/
+    - Notable Dates:
 
 ---
 

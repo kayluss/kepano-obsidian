@@ -6,5 +6,5 @@ Date: ""
 Category: "[[Family Visits]]"
 ---
 [[Tonya]] is also tentatively  shopping at walmart in rapids after
-[[Mike Oertel]]
-[[Jasmine Oertel]] 
+[[Mike]]
+[[Jasmine]] 

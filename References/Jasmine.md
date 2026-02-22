@@ -1,31 +1,34 @@
 ---
 categories:
   - "[[People]]"
-birthday: 2020-08-15
+birthday:
 org: []
-created: 2026-01-02T18:56:00
+created: 2026-01-02T18:53:00
 died:
 tags:
   - categories
   - People
 relation: family
 ---
-
-
+- Name: Jasmine Oertel 
+    - DOB:
+    - Phone Number: 
+    - Email:
     - Address:
     - Family: 
-	    - Mother: [[Jasmine Oertel]]
-	    - Father: [[Mike Oertel]]
-	    - Spouse: 
+	    - Mother: Tammy
+	    - Father: 
+	    - Spouse: [[Mike]]
 	    - CHildren
-		    - Daughter:
-		    - Son: 
+		    - Daughter: Lucie
+		    - Son: Leo
     - Medical History:
         - Medicines
         - Allergies
     - Links They sent me:
-	    -
-    - Notable Dates:
+	    - 
+    
+
 ---
 
 ## Meetings

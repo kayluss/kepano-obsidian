@@ -1,34 +1,30 @@
 ---
 categories:
   - "[[People]]"
-birthday:
+birthday: 2020-08-15
 org: []
-created: 2026-01-02T18:53:00
+created: 2026-01-02T18:56:00
 died:
 tags:
   - categories
   - People
 relation: family
 ---
-
-    - DOB:
-    - Phone Number: 
-    - Email:
-    - Address:
+- Name: Lucie Oertel
+- Address:
     - Family: 
-	    - Mother: Tammy
-	    - Father: 
-	    - Spouse: [[Mike Oertel]]
+	    - Mother: [[Jasmine]]
+	    - Father: [[Mike]]
+	    - Spouse: 
 	    - CHildren
-		    - Daughter: Lucie
-		    - Son: Leo
+		    - Daughter:
+		    - Son: 
     - Medical History:
         - Medicines
         - Allergies
     - Links They sent me:
-	    - 
-    
-
+	    -
+    - Notable Dates:
 ---
 
 ## Meetings

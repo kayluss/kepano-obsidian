@@ -20,9 +20,9 @@ status: " Done"
         - [[Selena]]
         - [[Tony]]
         - [[Tanner]]
-        - [[Mike Oertel]]
-        - [[Jasmine Oertel]]
-        - [[Lucie Oertel]]
+        - [[Mike]]
+        - [[Jasmine]]
+        - [[Lucie]]
     - Need to wrap/send
         - [[Tonya]]
         - [[Shannon R. Powers]]
