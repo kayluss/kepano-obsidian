@@ -1,0 +1,8 @@
+---
+tags:
+  - daily
+Week Note:
+---
+## Notes
+
+![[Daily.base]]
