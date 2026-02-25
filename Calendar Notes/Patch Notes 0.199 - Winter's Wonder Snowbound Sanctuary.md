@@ -1,13 +1,14 @@
 ---
 title: "Patch Notes 0.199 - Winter's Wonder: Snowbound Sanctuary"
-source: "https://palia.com/news/patch-199"
+source: https://palia.com/news/patch-199
 author:
   - "[[Palia]]"
 published: 2026-01-13
 created: 2026-01-13
 description: "Winter brings a calmer kind of magic to Kilima, filled with snowy sparkle, cozy comforts, and plenty of reasons to explore Kilima anew. Wrap yourself in style with the Lunar Path: Path of the Cardigan, inspired by comfy knits and timeless charm, and welcome the bright-eyed Ferris to your ranch. Dig into Hodari’s Starstone Search, a new community event where dazzling Starstone discoveries await. Refresh your home with new snowy decor, new Furniture Tints, and handy copy mode upgrades. From chilling Snowy Skitterer rewards to the long-awaited Fairy Mantis and Lil Sprout plushes, there’s plenty to collect, decorate, and enjoy. Top it all off with striking Premium Store additions like the Draconic Knight set, Cardigancore fashion, Armored Ferris, and more. Settle in, and make this season your own!"
 tags:
-  - "clippings"
+  - clippings
+Calendar Title: "[[Calendar Notes/Patch Notes 0.199 - Winter's Wonder Snowbound Sanctuary|Patch Notes 0.199 - Winter's Wonder Snowbound Sanctuary]]"
 ---
 |
 

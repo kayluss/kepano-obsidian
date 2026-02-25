@@ -10,6 +10,7 @@ tags:
   - clippings
 categories:
   - "[[WoW]]"
+Calendar Title: "[[Calendar Notes/Midnight Twilight Ascension Pre-Patch Event and Rewards - Mounts, Pets, Decor, Transmog|Midnight Twilight Ascension Pre-Patch Event and Rewards - Mounts, Pets, Decor, Transmog]]"
 ---
 
 The Midnight pre-patch event introduces the Twilight Ascension world event, where the Twilight's Blade (formerly known as the Twilight's Hammer) cult is invading the Twilight Highlands zone. Participate in The Twilight Ascension event to defeat Rares, obtain catch-up gear, and earn two new mounts before Midnight releases.

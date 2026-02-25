@@ -28,6 +28,7 @@ people:
   - Sam
 topics: []
 Category: "[[Family Visits]]"
+Calendar Title: "[[Calendar Notes/Christmas 2025 Inlaws|Christmas 2025 Inlaws]]"
 ---
 Finished Sam’s gift
 - [x] Finish printing photos  [completion:: 2026-01-10]
